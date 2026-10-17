@@ -5,6 +5,7 @@ authors:
   - family-names: "Staunæs"
     given-names: "Asker Bryld"
     affiliation: "Aarhus University"
+    orcid: "https://orcid.org/0009-0003-1523-1987"
 url: "https://github.com/ComputerLars/Syntheticism"
 repository-artifact: "https://github.com/ComputerLars/Syntheticism"
 preferred-citation:
@@ -12,6 +13,7 @@ preferred-citation:
   authors:
     - family-names: "Staunæs"
       given-names: "Asker Bryld"
+      orcid: "https://orcid.org/0009-0003-1523-1987"
   title: "Syntheticism: How I Learned to Love Democracy"
   year: 2026
   publisher:

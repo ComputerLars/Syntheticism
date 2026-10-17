@@ -24,8 +24,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 29534,
-      "sha256": "5c020c21f252594ed63c73f6115b6d877ebf0159f056b7c9c276204a8a7b3df1"
+      "bytes": 29682,
+      "sha256": "9620f37616930ab48ef9cef5f087e0829e06e1451e035ef786d3dc46207e61db"
     },
     {
       "path": "documentation/contents.md",
@@ -44,13 +44,13 @@
     },
     {
       "path": "metadata.json",
-      "bytes": 3583,
-      "sha256": "40844c34f817ecbc77555d9d0fdd7564c2f1488d72b29c79af26536532fbeee0"
+      "bytes": 3703,
+      "sha256": "81d5d04960e9389c3f7e173e69ca7dd2be27dafe95e671d689328a2bd20543bb"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 845,
-      "sha256": "b06793eb50ebe7f1483b4f62f68b4a74d4ef01edcf28431b82e6c66b0092573b"
+      "bytes": 949,
+      "sha256": "0b22297ee522e4b34a7caa057cb62e50d1ff8d6ca52fadc5436ff399723d1d6e"
     }
   ]
 }

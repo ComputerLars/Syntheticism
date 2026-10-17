@@ -4,6 +4,8 @@
 
 Dissertation, slides and reading transcript of the public PhD defence on **21 September 2026**. The PhD degree was awarded on **6 October 2026**.
 
+[ORCID 0009-0003-1523-1987](https://orcid.org/0009-0003-1523-1987) · [Aarhus University profile](https://www.au.dk/en/show/person/abs%40cc.au.dk)
+
 ## Chapter overview
 
 | Part | Extended synthesis | Printed page |
