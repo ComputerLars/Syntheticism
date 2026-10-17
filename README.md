@@ -71,11 +71,16 @@ Staunæs, Asker Bryld. 2026. *Syntheticism: How I Learned to Love Democracy*. Ph
 
 For the defence transcript or slides, identify the material and the event date, **21 September 2026**. Machine-readable dissertation citation metadata are provided in [CITATION.cff](CITATION.cff); event, funding and file metadata are in [metadata.json](metadata.json). File sizes and SHA-256 checksums are recorded in [FILE-MANIFEST.json](FILE-MANIFEST.json).
 
+## Licence
+
+Copyright © 2026 Asker Bryld Staunæs. His original text is available under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Published articles, co-authored contributions, third-party images and media, and other speakers’ contributions retain their existing rights and credits. See [rights and reuse](documentation/rights.md) and the [full licence](LICENSE).
+
 ## Related works and documentation
 
 The appendices on p. 326 identify the following documentation:
 
 - [Syntheticism](https://syntheticism.org/)
+- [Summa Transscriptus: Under Bugten disputations, recordings and reading editions](https://computerlars.github.io/Summa-Transscriptus/)
 - [The Synthetic Party: datasets, code and analyses](https://github.com/ComputerLars/thesyntheticparty)
 - [The Syntheticist Papers: Synthetic Summits, scripts and images](https://github.com/ComputerLars/The-Syntheticist-Papers)
 - [Theory Tragedy: Post-Farce Protocol — companion paper](https://tidsskrift.dk/passepartout/article/view/165196)

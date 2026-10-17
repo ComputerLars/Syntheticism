@@ -24,8 +24,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 29682,
-      "sha256": "9620f37616930ab48ef9cef5f087e0829e06e1451e035ef786d3dc46207e61db"
+      "bytes": 30253,
+      "sha256": "1e2d94f29af149da69fe809aa65d1635b052ee2996aae3b55ad4c3176ffe4f99"
     },
     {
       "path": "documentation/contents.md",
@@ -44,13 +44,33 @@
     },
     {
       "path": "metadata.json",
-      "bytes": 3703,
-      "sha256": "81d5d04960e9389c3f7e173e69ca7dd2be27dafe95e671d689328a2bd20543bb"
+      "bytes": 4207,
+      "sha256": "39bcc81326eab0ba3ca6242ab7cc921b7f612364cc32a451c44965973d2da0f8"
     },
     {
       "path": "CITATION.cff",
-      "bytes": 949,
-      "sha256": "0b22297ee522e4b34a7caa057cb62e50d1ff8d6ca52fadc5436ff399723d1d6e"
+      "bytes": 968,
+      "sha256": "f67640eeedf70eb6272f103e26fbca97a64ebe6ee7e332c238c7525524834bfd"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 18657,
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 30,
+      "sha256": "6484b96087f5768f4b5f521254b839c223ab682c8f635546847dc8a76648934b"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 95,
+      "sha256": "85558aded23ef3179ad061645b35ec7babb2fdc6d86b0473b078e1bab8c53492"
+    },
+    {
+      "path": "documentation/rights.md",
+      "bytes": 1795,
+      "sha256": "6ae90af6a964724a6bf933d8d58931098d189b2a0fcd100723c58753639f3a0b"
     }
   ]
 }

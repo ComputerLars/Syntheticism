@@ -116,5 +116,17 @@
     ],
     "timestamps": "Elapsed time within the two source recordings; resets for recording 2"
   },
-  "repository": "https://github.com/ComputerLars/Syntheticism"
+  "repository": "https://github.com/ComputerLars/Syntheticism",
+  "rights": {
+    "copyright": "© 2026 Asker Bryld Staunæs",
+    "license": "CC-BY-4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "scope": "Original text controlled by Asker Bryld Staunæs; published papers, co-authored contributions, third-party material and other speakers retain existing rights.",
+    "notice": "documentation/rights.md",
+    "date": "2026-10-17"
+  },
+  "publication": {
+    "repository_visibility": "public",
+    "publication_date": "2026-10-17"
+  }
 }
