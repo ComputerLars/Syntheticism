@@ -1,0 +1,56 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": "dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+      "description": "Article-based PhD dissertation in artistic research",
+      "date": "2026",
+      "bytes": 9109676,
+      "sha256": "c2707585c1c757f675c206ca7027c7d7cd06682ed53dfc267e1642a9dc603473"
+    },
+    {
+      "path": "defence/Syntheticism-Defence-21-September-2026.pptx",
+      "description": "Defence slides with the speaker notes used for the defence",
+      "date": "2026-09-21",
+      "bytes": 61250123,
+      "sha256": "a1b47dd80d50c01c955ff2d18f2173ca31e93ed4874bca39024ef1dab2970d81"
+    },
+    {
+      "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
+      "description": "Author-edited reading edition of the defence transcript",
+      "date": "2026-10-17",
+      "bytes": 80233,
+      "sha256": "df79cca2a28d1dd48d83c5acef98df20afa0bedbe24e614667bfff948eb694d6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 29534,
+      "sha256": "5c020c21f252594ed63c73f6115b6d877ebf0159f056b7c9c276204a8a7b3df1"
+    },
+    {
+      "path": "documentation/contents.md",
+      "bytes": 2829,
+      "sha256": "d7bc772e064485e239944b693108195636167252e8bb1895a0202aa0597706ec"
+    },
+    {
+      "path": "documentation/defence-event.md",
+      "bytes": 2938,
+      "sha256": "f1635da44a3ce8569e9815dba3faed877da4a1a200d57b5082ba0cab8c27e97a"
+    },
+    {
+      "path": "transcript/defence-transcript.md",
+      "bytes": 118972,
+      "sha256": "44b770f2c6cb12595a1c4490e37302bdcae637dcec0fd5063393c0485a246b44"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 3583,
+      "sha256": "40844c34f817ecbc77555d9d0fdd7564c2f1488d72b29c79af26536532fbeee0"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 845,
+      "sha256": "b06793eb50ebe7f1483b4f62f68b4a74d4ef01edcf28431b82e6c66b0092573b"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite the dissertation using the preferred citation below. Identify the defence slides and transcript separately when referring to those materials."
+title: "Syntheticism: How I Learned to Love Democracy"
+authors:
+  - family-names: "Staunæs"
+    given-names: "Asker Bryld"
+    affiliation: "Aarhus University"
+url: "https://github.com/ComputerLars/Syntheticism"
+repository-artifact: "https://github.com/ComputerLars/Syntheticism"
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Staunæs"
+      given-names: "Asker Bryld"
+  title: "Syntheticism: How I Learned to Love Democracy"
+  year: 2026
+  publisher:
+    name: "Aarhus University"
+  languages:
+    - en
+    - da
+  url: "https://github.com/ComputerLars/Syntheticism/blob/main/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf"

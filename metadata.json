@@ -1,0 +1,118 @@
+{
+  "title": "Syntheticism: How I Learned to Love Democracy",
+  "author": {
+    "name": "Asker Bryld Staunæs"
+  },
+  "year": 2026,
+  "work_type": "Article-based PhD dissertation in artistic research",
+  "institution": "Aarhus University",
+  "faculty": "Arts",
+  "school": "School of Communication and Culture",
+  "department": "Art History, Aesthetics & Culture, and Museology",
+  "research_partner": "Kunsthal Aarhus",
+  "languages": {
+    "dissertation": [
+      "en"
+    ],
+    "abstracts": [
+      "en",
+      "da"
+    ],
+    "transcript": [
+      "en"
+    ]
+  },
+  "public_defence": {
+    "date": "2026-09-21",
+    "start": "2026-09-21T13:15:00+02:00",
+    "end": "2026-09-21T16:15:00+02:00",
+    "timezone": "Europe/Copenhagen",
+    "venue": "Kasernen, Building 1585/119, Lille Sal",
+    "address": "Langelandsgade 143, 8000 Aarhus C, Denmark",
+    "official_announcement": "https://arts.au.dk/en/news-and-events/events/show/artikel/phd-defence-asker-bryld-staunaes",
+    "assessment_committee": [
+      {
+        "name": "Jussi Parikka",
+        "institution": "Aarhus University",
+        "role": "Chair"
+      },
+      {
+        "name": "Sine Nørholm Just",
+        "institution": "Roskilde University",
+        "role": "Assessment committee member"
+      },
+      {
+        "name": "Jan Bäcklund",
+        "institution": "Linnaeus University",
+        "role": "Assessment committee member"
+      }
+    ],
+    "proceedings_chair": "Stefan Iversen"
+  },
+  "degree": {
+    "degree": "PhD",
+    "awarded": "2026-10-06",
+    "date_source": "Asker Bryld Staunæs"
+  },
+  "supervisors": [
+    {
+      "name": "Lotte Philipsen",
+      "institution": "Aarhus University"
+    },
+    {
+      "name": "Cristina Maria Flesher Fominaya",
+      "institution": "Aarhus University"
+    }
+  ],
+  "funding": {
+    "funder": "Novo Nordisk Foundation",
+    "funder_danish": "Novo Nordisk Fonden",
+    "scheme": "Mads Øvlisen PhD Scholarship in practice-based research in art",
+    "grant_identifier": "NNF23OC0081575",
+    "research_period": "2023–2026",
+    "award_amount": 1971165,
+    "currency": "DKK",
+    "project_title_in_2023_award": "Automatic Uprisings: Archiving a Techno-Social Sculpture",
+    "award_source": "https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-awards-grants-for-16-new-research-projects-within-art-and-art-history-research/",
+    "scholarship_booklet": "https://novonordiskfonden.dk/app/uploads/Art-Scholarship-Abstract-booklet-2023.pdf"
+  },
+  "dissertation": {
+    "file": "dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "pdf_pages": 336,
+    "printed_page_offset": 1,
+    "contents_pages": [
+      3,
+      4
+    ],
+    "english_abstract_pages": [
+      327,
+      330
+    ],
+    "danish_resume_pages": [
+      331,
+      334
+    ]
+  },
+  "slides": {
+    "file": "defence/Syntheticism-Defence-21-September-2026.pptx",
+    "event_date": "2026-09-21",
+    "slides": 54,
+    "speaker_notes": "Speaker notes used for the defence",
+    "media": "Embedded in the PowerPoint"
+  },
+  "transcript": {
+    "docx": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
+    "markdown": "transcript/defence-transcript.md",
+    "edition": "Author-edited reading edition",
+    "edition_date": "2026-10-17",
+    "speakers": [
+      "Asker Bryld Staunæs",
+      "Jan Bäcklund",
+      "Sine Nørholm Just",
+      "Jussi Parikka",
+      "Stefan Iversen"
+    ],
+    "timestamps": "Elapsed time within the two source recordings; resets for recording 2"
+  },
+  "repository": "https://github.com/ComputerLars/Syntheticism"
+}
