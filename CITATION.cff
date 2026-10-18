@@ -6,9 +6,9 @@ authors:
     given-names: "Asker Bryld"
     affiliation: "Aarhus University"
     orcid: "https://orcid.org/0009-0003-1523-1987"
-url: "https://github.com/ComputerLars/Syntheticism"
+url: "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy"
 license: CC-BY-4.0
-repository-artifact: "https://github.com/ComputerLars/Syntheticism"
+repository-artifact: "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy"
 preferred-citation:
   type: thesis
   authors:
@@ -22,4 +22,4 @@ preferred-citation:
   languages:
     - en
     - da
-  url: "https://github.com/ComputerLars/Syntheticism/blob/main/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf"
+  url: "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/blob/main/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf"

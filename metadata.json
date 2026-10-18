@@ -94,14 +94,18 @@
       331,
       334
     ],
-    "read_url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf"
+    "read_url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "edition_date": "2026-10-18",
+    "supplied_filename": "Afhandling.pdf"
   },
   "slides": {
     "file": "defence/Syntheticism-Defence-21-September-2026.pptx",
     "event_date": "2026-09-21",
     "slides": 54,
     "speaker_notes": "Speaker notes used for the defence",
-    "media": "Embedded in the PowerPoint"
+    "media": "Embedded in the PowerPoint",
+    "qr_code": false,
+    "author": "Asker Bryld Staunæs"
   },
   "transcript": {
     "docx": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
@@ -122,7 +126,7 @@
     "speaker_turns": 92,
     "source_timestamps": 202
   },
-  "repository": "https://github.com/ComputerLars/Syntheticism",
+  "repository": "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy",
   "rights": {
     "copyright": "© 2026 Asker Bryld Staunæs",
     "license": "CC-BY-4.0",

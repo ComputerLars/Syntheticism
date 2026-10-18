@@ -1,7 +1,7 @@
 """Rebuild the linked reading edition from the author's preserved edition.
 
-No transcription service is used. Source words are preserved, apart from
-the explicitly specified spelling of numbered dissertation articles.
+The source edition remains in Git history. Local corrections and author-supplied
+readings are enumerated in documentation/transcript-corrections.json.
 """
 from pathlib import Path
 from io import BytesIO
@@ -18,7 +18,7 @@ ROOT=Path(__file__).resolve().parents[1]
 BASE='8f1a8ed61664f3ce379f77b01353d3bcef12375a'
 DOC='transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx'
 TITLE='Syntheticism: How I Learned to Love Democracy'
-PDF='https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf'
+PDF='https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf'
 DATE='2026-10-18'
 ARTICLES=[
  (1,'The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy','Asker Bryld Staunæs & Computer Lars',135,155),
@@ -45,6 +45,13 @@ NOTES=[
  ('r2-005241','Stiegler’s idiotextual geometry: Article 5, pp. 245–247.',[245,246,247]),
  ('r2-010436','Retro-futurist scenography, p. 69. The earlier formulation is “consumable futurisms”, p. 58.',[69,58]),
 ]
+WEB_SOURCES={
+ 'r1-003416':('Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.','https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit'),
+ 'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
+ 'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),
+ 'r2-004434':('The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.',''),
+}
+NOTES += [(anchor,text,[]) for anchor,(text,url) in WEB_SOURCES.items()]
 NOTE_MAP={key:(i,text,pages)for i,(key,text,pages)in enumerate(NOTES,1)}
 
 def source(path):
@@ -53,7 +60,13 @@ def source(path):
 def page_url(n):return PDF+'#page='+str(n+1)
 def unbroken_range(text):return re.sub(r'(?<=\d)–(?=\d)','\u2060–\u2060',text)
 
-def normalise(text):
+CORRECTIONS=json.loads((ROOT/'documentation/transcript-corrections.json').read_text())
+
+def normalise(text,anchor=None):
+ for edit in CORRECTIONS['corrections']:
+  if edit['anchor']==anchor:
+   assert text.count(edit['before'])==1,(anchor,edit['before'])
+   text=text.replace(edit['before'],edit['after'])
  number=r'(?:one|two|three|four|five|six|seven|[1-7])'
  separator=r'(?:\s+(?:and|through|to)\s+|,\s*|\s*[–-]\s*)'
  text=re.sub(r'\barticles?\s+'+number+r'\b(?:'+separator+number+r'\b)*',article_spelling,text,flags=re.I)
@@ -115,7 +128,7 @@ def build():
   style=p.style.name
   if style=='Speaker':
    m=re.fullmatch(r'(.+?)\s{2,}(\d\d:\d\d:\d\d)',p.text);assert m,p.text
-   speaker,time=m.groups();base=f'r{recording}-'+time.replace(':','');used[base]=used.get(base,0)+1;anchor=base+('-'+str(used[base])if used[base]>1 else'');text=normalise(ps[i+1].text)
+   speaker,time=m.groups();base=f'r{recording}-'+time.replace(':','');used[base]=used.get(base,0)+1;anchor=base+('-'+str(used[base])if used[base]>1 else'');text=normalise(ps[i+1].text,anchor);speaker=CORRECTIONS['speaker_corrections'].get(anchor,speaker)
    entry={'speaker':speaker,'time':time,'anchor':anchor,'recording':recording,'text':text,'original_paragraph':i+1}
    expected.append(text);anchors.append({k:v for k,v in entry.items()if k!='text'})
    if last==speaker:merged+=1
@@ -137,6 +150,7 @@ def build():
   kind=event['type']
   if kind=='metadata':
    old=event['paragraph'];index=event['original_index'];text=old.text;style=old.style.name
+   if style=='Record' and 'IMG_' in text:continue
    if index==0:
     doc.add_paragraph(TITLE,'Title');md.append('# '+TITLE)
    elif index==1:
@@ -153,7 +167,7 @@ def build():
     elif style=='Record':md.append('*'+text+'*')
     elif text:md.append(text)
   elif kind=='speaker':
-   e=event['entry'];doc._element.body.insert(-1,deepcopy(event['paragraph']._p));md.append('**'+e['speaker']+' · '+e['time']+'**')
+   e=event['entry'];q=doc.add_paragraph(e['speaker']+'   '+e['time'],'Speaker');md.append('**'+e['speaker']+' · '+e['time']+'**')
   else:
    p=doc.add_paragraph(style=event['paragraph'].style.name);pieces=[]
    for j,part in enumerate(event['parts']):
@@ -175,10 +189,13 @@ def build():
  doc.add_paragraph('Passage references','Heading 2');md.append('### Passage references')
  for i,(anchor,text,pages)in enumerate(NOTES,1):
   p=doc.add_paragraph();bookmark(p,'ref_'+str(i));p.add_run(str(i)+'. ');linked_word(p,text,page_spans)
-  md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans))
+  extra=''
+  if anchor in WEB_SOURCES and WEB_SOURCES[anchor][1]:
+   url=WEB_SOURCES[anchor][1];p.add_run(' ');hyperlink(p,'Event record',url=url);extra=' [Event record]('+url+').'
+  md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans)+extra)
  for name in ['Title','Subtitle','Heading 1','Heading 2','Speaker','Record']:
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
- doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,18,0,0,tzinfo=timezone.utc)
+ doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,18,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
  navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':len(anchors)-merged,'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')

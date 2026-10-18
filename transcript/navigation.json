@@ -1107,7 +1107,7 @@
       "original_paragraph": 324
     },
     {
-      "speaker": "Audience member",
+      "speaker": "Asker",
       "time": "00:45:14",
       "anchor": "r2-004514",
       "recording": 2,
@@ -1423,7 +1423,7 @@
     }
   ],
   "pdf": {
-    "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
     "printed_folio_offset": 1
   },
   "articles": [
@@ -1435,7 +1435,7 @@
         135,
         155
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136"
     },
     {
       "number": 2,
@@ -1445,7 +1445,7 @@
         157,
         177
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158"
     },
     {
       "number": 3,
@@ -1455,7 +1455,7 @@
         180,
         205
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181"
     },
     {
       "number": 4,
@@ -1465,7 +1465,7 @@
         207,
         233
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208"
     },
     {
       "number": 5,
@@ -1475,7 +1475,7 @@
         235,
         265
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236"
     },
     {
       "number": 6,
@@ -1485,7 +1485,7 @@
         268,
         294
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269"
     },
     {
       "number": 7,
@@ -1495,7 +1495,7 @@
         296,
         324
       ],
-      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297"
+      "url": "https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297"
     }
   ],
   "passage_references": [
@@ -1615,6 +1615,30 @@
         69,
         58
       ]
+    },
+    {
+      "number": 13,
+      "anchor": "r1-003416",
+      "reference": "Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.",
+      "printed_pages": []
+    },
+    {
+      "number": 14,
+      "anchor": "r1-003524",
+      "reference": "AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.",
+      "printed_pages": []
+    },
+    {
+      "number": 15,
+      "anchor": "r2-002758",
+      "reference": "The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.",
+      "printed_pages": []
+    },
+    {
+      "number": 16,
+      "anchor": "r2-004434",
+      "reference": "The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.",
+      "printed_pages": []
     }
   ]
 }

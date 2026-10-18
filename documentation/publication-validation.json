@@ -1,0 +1,21 @@
+{
+  "pdf_source_sha256": "02c3a30287e51c5ce5a802cd7beac922e13f789152d7f03b3234d0dbbf9be9a4",
+  "pdf_published_sha256": "beaac064903d8c2f0def5ef67aef1c11b4db611c22b2c34bd3030b378332538e",
+  "pdf_pages": 336,
+  "pdf_page_streams_identical_to_supplied": true,
+  "ppt_before_sha256": "a1b47dd80d50c01c955ff2d18f2173ca31e93ed4874bca39024ef1dab2970d81",
+  "ppt_after_sha256": "7d4b9ea8f8e089b98717f4507c594a4ee94ee4b36d3849ac5d56339786b4471e",
+  "ppt_changed_parts": [
+    "ppt/slides/_rels/slide1.xml.rels",
+    "ppt/slides/slide1.xml",
+    "ppt/theme/theme1.xml",
+    "docProps/app.xml",
+    "docProps/core.xml"
+  ],
+  "qr_removed_shape_ids": [
+    "108",
+    "109"
+  ],
+  "other_53_slides_notes_and_media_unchanged": true,
+  "cover_name_correction": "Cristina Maria Flesher Fominaya"
+}

@@ -18,8 +18,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 968,
-      "sha256": "f67640eeedf70eb6272f103e26fbca97a64ebe6ee7e332c238c7525524834bfd"
+      "bytes": 1064,
+      "sha256": "2edecceb1071eccfba2a7af6cfc95294b19b779cbae828e470cf62e9c1d6ccde"
     },
     {
       "path": "LICENSE",
@@ -28,27 +28,27 @@
     },
     {
       "path": "README.md",
-      "bytes": 31929,
-      "sha256": "a00dc0f8163f67d6a6d25d0a96654c55428f3cecd6acd7d8dee897dc077eaf3b"
+      "bytes": 32406,
+      "sha256": "d7df330821a306f69248bcc10f66cddc60bd22059d5f8b113c8c921acf0594fc"
     },
     {
       "path": "defence/Syntheticism-Defence-21-September-2026.pptx",
       "description": "Defence slides with the speaker notes used for the defence",
       "date": "2026-09-21",
-      "bytes": 61250123,
-      "sha256": "a1b47dd80d50c01c955ff2d18f2173ca31e93ed4874bca39024ef1dab2970d81"
+      "bytes": 61219258,
+      "sha256": "7d4b9ea8f8e089b98717f4507c594a4ee94ee4b36d3849ac5d56339786b4471e"
     },
     {
       "path": "dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
       "description": "Article-based PhD dissertation in artistic research",
       "date": "2026",
-      "bytes": 9109676,
-      "sha256": "c2707585c1c757f675c206ca7027c7d7cd06682ed53dfc267e1642a9dc603473"
+      "bytes": 10507839,
+      "sha256": "beaac064903d8c2f0def5ef67aef1c11b4db611c22b2c34bd3030b378332538e"
     },
     {
       "path": "documentation/contents.md",
-      "bytes": 6467,
-      "sha256": "b756249e131b558910c8b5f125218fcd4a6a1d81c3e61253aad8cc503080b859"
+      "bytes": 7459,
+      "sha256": "9ac7e933980de45edc3ca0dbef498bb25385e3391c98c01653f1e695c64234bd"
     },
     {
       "path": "documentation/defence-event.md",
@@ -56,34 +56,49 @@
       "sha256": "f1635da44a3ce8569e9815dba3faed877da4a1a200d57b5082ba0cab8c27e97a"
     },
     {
+      "path": "documentation/publication-validation.json",
+      "bytes": 783,
+      "sha256": "d979294a5a352fd2f84a59b5d34e4583b7d226bba8e2da662c64537de949bd90"
+    },
+    {
       "path": "documentation/rights.md",
       "bytes": 1795,
       "sha256": "6ae90af6a964724a6bf933d8d58931098d189b2a0fcd100723c58753639f3a0b"
     },
     {
+      "path": "documentation/transcript-corrections.json",
+      "bytes": 1849,
+      "sha256": "76f77fd1fe8089cd29d8bf4518f0650d2f0a2fbb1db39edd0a8a817a2ac5cbff"
+    },
+    {
       "path": "documentation/transcript-editorial.md",
-      "bytes": 2319,
-      "sha256": "e4a7f9470ea20c3345c49f2661e97b9bac08ad2edb3f35b8955699a96763be05"
+      "bytes": 3068,
+      "sha256": "8e9830f200264ffbc12c92629d1640bfb0778ee14b72b785c240b2e7f2d2210a"
     },
     {
       "path": "index.html",
-      "bytes": 485,
-      "sha256": "cd83ba3628fd7b76906e3a713febf80e0d5f55d603801386834e879181dfe2ec"
+      "bytes": 517,
+      "sha256": "4da01f8eff6816147656a438bbc7b207420e548e3b8edf54371f6bd4dbbdf53b"
     },
     {
       "path": "metadata.json",
-      "bytes": 4564,
-      "sha256": "b6efc9ca0fb8d4ce416ec5760bd8442b7d88afd5583acf0aad1d9eae47fde696"
+      "bytes": 4765,
+      "sha256": "fc61c3e55337a1239996bcd90d033e7920311cd754aebd9225c7cf7e0eb94d4b"
+    },
+    {
+      "path": "scripts/__pycache__/edit_transcript.cpython-312.pyc",
+      "bytes": 25647,
+      "sha256": "c11b497b2b6b8c55c49a1fb6aeb60db28cf601e5ef16ca36afb59adfa71a4c91"
     },
     {
       "path": "scripts/check_transcript.py",
-      "bytes": 4726,
-      "sha256": "91abac926a19d1b37e14b0fb0a8f2db723f42847e7f0e50c6a38d26d497b8043"
+      "bytes": 5141,
+      "sha256": "476a6830ac61ab629bbe32d9794d42c81b6c0ccbf1d9d29132785ed637583f6d"
     },
     {
       "path": "scripts/edit_transcript.py",
-      "bytes": 12589,
-      "sha256": "6e1d8a46bf9ef8c0d0be9bf5a27781f533567f4111f0c649096c4a3a88bc94db"
+      "bytes": 14128,
+      "sha256": "4c3ce192e36535861e15a7d13e0606a212d7b7de40dbd8f1f5d83c078888a2da"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -91,21 +106,26 @@
       "sha256": "69732468db1346a356c0e877c7fb328da12b114c8cc89f7241873663bab7506c"
     },
     {
+      "path": "scripts/update_publication.py",
+      "bytes": 4642,
+      "sha256": "758dc428968099066f7daab1891059d0f8eed5046f76529d656943d4fc377c1e"
+    },
+    {
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-18",
-      "bytes": 75533,
-      "sha256": "89ea8ed74ecbe2b62e2db0e843138ff811b380ae486f64fc205fb600f984aa89"
+      "bytes": 74860,
+      "sha256": "cf49cf190f299d3c9dfa464624956d3bf967ad3d86748c35146a5d5630646a1a"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 130034,
-      "sha256": "a55bfc9b14fc614cb56659c6548ceef371b3b04a9b3e2ff618bc04dafc689ba5"
+      "bytes": 132202,
+      "sha256": "f73002dd77a81ee933c9330d5a3807546cfebd79fe6f0b6aab046d3e917ce077"
     },
     {
       "path": "transcript/navigation.json",
-      "bytes": 35778,
-      "sha256": "a378fe47647737daa14d315e5443c9fb35291021c4bce61485eea2ac07a4e73b"
+      "bytes": 36889,
+      "sha256": "7ea2b1b20fe6a31055284832d9802dd3ddeb61fca80c4f642e09bda4081de3fe"
     }
   ]
 }

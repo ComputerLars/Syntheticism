@@ -1,0 +1,50 @@
+{
+  "edition_date": "2026-10-18",
+  "speaker_corrections": {
+    "r2-004514": "Asker"
+  },
+  "corrections": [
+    {
+      "anchor": "r1-011712",
+      "before": "Of Valéry of course, I don't mean to say.",
+      "after": "Of Valéry, of course.",
+      "basis": "Author identified the tail as doubtful; retain the intelligible interjection and remove the unhelpful false start."
+    },
+    {
+      "anchor": "r1-012734",
+      "before": "And we haven't even come to speak yet, right?",
+      "after": "And we haven't even come to speech yet, right?",
+      "basis": "Author correction."
+    },
+    {
+      "anchor": "r2-003538",
+      "before": "Stochastic permutation machine. I would never say “parrot”, because [unclear].",
+      "after": "Stochastic permutation machine. I would never say “parrot”, because that would be unfair to parrots.",
+      "basis": "Author supplied exact completion."
+    },
+    {
+      "anchor": "r2-000741",
+      "before": "This is also a body of [unclear].",
+      "after": "This is also a body of sorts.",
+      "basis": "Independent local base.en and large-v3-turbo readings agree on “of sorts”."
+    },
+    {
+      "anchor": "r1-012537",
+      "before": "metathesis [term uncertain], as an ancient Greek preposition wordplay",
+      "after": "metathesis, as an ancient Greek transposition, wordplay",
+      "basis": "Local large-v3-turbo reading confirms metathesis and transposition; the previous “preposition” misrecognized the explanation."
+    },
+    {
+      "anchor": "r2-004434",
+      "before": "How's your energy levels?",
+      "after": "How are your energy levels?",
+      "basis": "Subject–verb agreement."
+    },
+    {
+      "anchor": "r1-010427",
+      "before": "I don't think",
+      "after": "I don't think.",
+      "basis": "Punctuation of the brief interruption."
+    }
+  ]
+}
