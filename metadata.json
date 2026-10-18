@@ -93,7 +93,8 @@
     "danish_resume_pages": [
       331,
       334
-    ]
+    ],
+    "read_url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf"
   },
   "slides": {
     "file": "defence/Syntheticism-Defence-21-September-2026.pptx",
@@ -105,8 +106,8 @@
   "transcript": {
     "docx": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
     "markdown": "transcript/defence-transcript.md",
-    "edition": "Author-edited reading edition",
-    "edition_date": "2026-10-17",
+    "edition": "Author-edited reading edition with linked references",
+    "edition_date": "2026-10-18",
     "speakers": [
       "Asker Bryld Staunæs",
       "Jan Bäcklund",
@@ -114,7 +115,12 @@
       "Jussi Parikka",
       "Stefan Iversen"
     ],
-    "timestamps": "Elapsed time within the two source recordings; resets for recording 2"
+    "timestamps": "Elapsed time within the two source recordings; resets for recording 2",
+    "source_edition_date": "2026-10-17",
+    "editorial_record": "documentation/transcript-editorial.md",
+    "navigation": "transcript/navigation.json",
+    "speaker_turns": 92,
+    "source_timestamps": 202
   },
   "repository": "https://github.com/ComputerLars/Syntheticism",
   "rights": {

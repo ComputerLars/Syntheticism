@@ -2,50 +2,19 @@
   "algorithm": "SHA-256",
   "files": [
     {
-      "path": "dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
-      "description": "Article-based PhD dissertation in artistic research",
-      "date": "2026",
-      "bytes": 9109676,
-      "sha256": "c2707585c1c757f675c206ca7027c7d7cd06682ed53dfc267e1642a9dc603473"
+      "path": ".gitattributes",
+      "bytes": 95,
+      "sha256": "85558aded23ef3179ad061645b35ec7babb2fdc6d86b0473b078e1bab8c53492"
     },
     {
-      "path": "defence/Syntheticism-Defence-21-September-2026.pptx",
-      "description": "Defence slides with the speaker notes used for the defence",
-      "date": "2026-09-21",
-      "bytes": 61250123,
-      "sha256": "a1b47dd80d50c01c955ff2d18f2173ca31e93ed4874bca39024ef1dab2970d81"
+      "path": ".gitignore",
+      "bytes": 30,
+      "sha256": "6484b96087f5768f4b5f521254b839c223ab682c8f635546847dc8a76648934b"
     },
     {
-      "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
-      "description": "Author-edited reading edition of the defence transcript",
-      "date": "2026-10-17",
-      "bytes": 80233,
-      "sha256": "df79cca2a28d1dd48d83c5acef98df20afa0bedbe24e614667bfff948eb694d6"
-    },
-    {
-      "path": "README.md",
-      "bytes": 30253,
-      "sha256": "1e2d94f29af149da69fe809aa65d1635b052ee2996aae3b55ad4c3176ffe4f99"
-    },
-    {
-      "path": "documentation/contents.md",
-      "bytes": 2829,
-      "sha256": "d7bc772e064485e239944b693108195636167252e8bb1895a0202aa0597706ec"
-    },
-    {
-      "path": "documentation/defence-event.md",
-      "bytes": 2938,
-      "sha256": "f1635da44a3ce8569e9815dba3faed877da4a1a200d57b5082ba0cab8c27e97a"
-    },
-    {
-      "path": "transcript/defence-transcript.md",
-      "bytes": 118972,
-      "sha256": "44b770f2c6cb12595a1c4490e37302bdcae637dcec0fd5063393c0485a246b44"
-    },
-    {
-      "path": "metadata.json",
-      "bytes": 4207,
-      "sha256": "39bcc81326eab0ba3ca6242ab7cc921b7f612364cc32a451c44965973d2da0f8"
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "CITATION.cff",
@@ -58,19 +27,85 @@
       "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
     },
     {
-      "path": ".gitignore",
-      "bytes": 30,
-      "sha256": "6484b96087f5768f4b5f521254b839c223ab682c8f635546847dc8a76648934b"
+      "path": "README.md",
+      "bytes": 31929,
+      "sha256": "a00dc0f8163f67d6a6d25d0a96654c55428f3cecd6acd7d8dee897dc077eaf3b"
     },
     {
-      "path": ".gitattributes",
-      "bytes": 95,
-      "sha256": "85558aded23ef3179ad061645b35ec7babb2fdc6d86b0473b078e1bab8c53492"
+      "path": "defence/Syntheticism-Defence-21-September-2026.pptx",
+      "description": "Defence slides with the speaker notes used for the defence",
+      "date": "2026-09-21",
+      "bytes": 61250123,
+      "sha256": "a1b47dd80d50c01c955ff2d18f2173ca31e93ed4874bca39024ef1dab2970d81"
+    },
+    {
+      "path": "dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+      "description": "Article-based PhD dissertation in artistic research",
+      "date": "2026",
+      "bytes": 9109676,
+      "sha256": "c2707585c1c757f675c206ca7027c7d7cd06682ed53dfc267e1642a9dc603473"
+    },
+    {
+      "path": "documentation/contents.md",
+      "bytes": 6467,
+      "sha256": "b756249e131b558910c8b5f125218fcd4a6a1d81c3e61253aad8cc503080b859"
+    },
+    {
+      "path": "documentation/defence-event.md",
+      "bytes": 2938,
+      "sha256": "f1635da44a3ce8569e9815dba3faed877da4a1a200d57b5082ba0cab8c27e97a"
     },
     {
       "path": "documentation/rights.md",
       "bytes": 1795,
       "sha256": "6ae90af6a964724a6bf933d8d58931098d189b2a0fcd100723c58753639f3a0b"
+    },
+    {
+      "path": "documentation/transcript-editorial.md",
+      "bytes": 2319,
+      "sha256": "e4a7f9470ea20c3345c49f2661e97b9bac08ad2edb3f35b8955699a96763be05"
+    },
+    {
+      "path": "index.html",
+      "bytes": 485,
+      "sha256": "cd83ba3628fd7b76906e3a713febf80e0d5f55d603801386834e879181dfe2ec"
+    },
+    {
+      "path": "metadata.json",
+      "bytes": 4564,
+      "sha256": "b6efc9ca0fb8d4ce416ec5760bd8442b7d88afd5583acf0aad1d9eae47fde696"
+    },
+    {
+      "path": "scripts/check_transcript.py",
+      "bytes": 4726,
+      "sha256": "91abac926a19d1b37e14b0fb0a8f2db723f42847e7f0e50c6a38d26d497b8043"
+    },
+    {
+      "path": "scripts/edit_transcript.py",
+      "bytes": 12589,
+      "sha256": "6e1d8a46bf9ef8c0d0be9bf5a27781f533567f4111f0c649096c4a3a88bc94db"
+    },
+    {
+      "path": "scripts/refresh_manifest.py",
+      "bytes": 990,
+      "sha256": "69732468db1346a356c0e877c7fb328da12b114c8cc89f7241873663bab7506c"
+    },
+    {
+      "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
+      "description": "Author-edited reading edition with linked article and passage references",
+      "date": "2026-10-18",
+      "bytes": 75533,
+      "sha256": "89ea8ed74ecbe2b62e2db0e843138ff811b380ae486f64fc205fb600f984aa89"
+    },
+    {
+      "path": "transcript/defence-transcript.md",
+      "bytes": 130034,
+      "sha256": "a55bfc9b14fc614cb56659c6548ceef371b3b04a9b3e2ff618bc04dafc689ba5"
+    },
+    {
+      "path": "transcript/navigation.json",
+      "bytes": 35778,
+      "sha256": "a378fe47647737daa14d315e5443c9fb35291021c4bce61485eea2ac07a4e73b"
     }
   ]
 }

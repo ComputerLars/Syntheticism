@@ -10,21 +10,21 @@ Dissertation, slides and reading transcript of the public PhD defence on **21 Se
 
 | Part | Extended synthesis | Printed page |
 | :--- | :--- | ---: |
-| N | Syntheticism as a Trajectory of Response | 7 |
-| I | RQ1: The Synthetic Party after Syntheticism | 40 |
-| II | RQ2: From Synthetic Summits to Synthetic Politics | 63 |
-| III | RQ3: Democracy as Technosocial Sculpture | 81 |
-| IV | Reorientation, Or: How I Learned to Stop Worrying and Love Democracy | 110 |
+| N | Syntheticism as a Trajectory of Response | [7](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=8) |
+| I | RQ1: The Synthetic Party after Syntheticism | [40](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=41) |
+| II | RQ2: From Synthetic Summits to Synthetic Politics | [63](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) |
+| III | RQ3: Democracy as Technosocial Sculpture | [81](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=82) |
+| IV | Reorientation, Or: How I Learned to Stop Worrying and Love Democracy | [110](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=111) |
 
 | Article | Title in the contents | Authors | Printed page |
 | ---: | :--- | :--- | ---: |
-| 1 | *The Synthetic Party & Leader Lars* | Asker Bryld Staunæs & Computer Lars | 135 |
-| 2 | *A Model for Proustian Decay* | Asker Bryld Staunæs & Computer Lars | 157 |
-| 3 | *Isaac Asimov’s Incubation of Political AI* | Asker Bryld Staunæs | 180 |
-| 4 | *Deep Faking in a Flat Reality?* | Asker Bryld Staunæs & Maja Bak Herrie | 207 |
-| 5 | *Scripting the Spectacle* | Asker Bryld Staunæs | 235 |
-| 6 | *Synthetic Chamber* | Michal Malý & Asker Bryld Staunæs | 268 |
-| 7 | *Democracy as a Governance Algorithm* | Asker Bryld Staunæs | 296 |
+| 1 | *The Synthetic Party & Leader Lars* | Asker Bryld Staunæs & Computer Lars | [135](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136) |
+| 2 | *A Model for Proustian Decay* | Asker Bryld Staunæs & Computer Lars | [157](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158) |
+| 3 | *Isaac Asimov’s Incubation of Political AI* | Asker Bryld Staunæs | [180](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181) |
+| 4 | *Deep Faking in a Flat Reality?* | Asker Bryld Staunæs & Maja Bak Herrie | [207](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208) |
+| 5 | *Scripting the Spectacle* | Asker Bryld Staunæs | [235](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236) |
+| 6 | *Synthetic Chamber* | Michal Malý & Asker Bryld Staunæs | [268](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269) |
+| 7 | *Democracy as a Governance Algorithm* | Asker Bryld Staunæs | [296](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297) |
 
 Appendices begin on p. **326**; the English abstract occupies pp. **327–330**, and the Danish resumé pp. **331–334**. Page numbers throughout this overview refer to the printed folios. The PDF has 336 pages; its viewer page number is one higher than the printed folio.
 
@@ -34,11 +34,11 @@ Appendices begin on p. **326**; the English abstract occupies pp. **327–330**,
 
 | Material | File |
 | :--- | :--- |
-| Complete dissertation, compressed PDF | [Read or download](dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf) |
+| Complete dissertation, compressed PDF | [Read or download](https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf) |
 | Defence slides, 21 September 2026, including the speaker notes used on the day | [PowerPoint](defence/Syntheticism-Defence-21-September-2026.pptx) |
 | Author-edited reading transcript: opening lecture and discussions with Jan Bäcklund, Sine Nørholm Just and Jussi Parikka; proceedings led by Stefan Iversen | [Word reading edition](transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx) · [Read on GitHub](transcript/defence-transcript.md) |
 
-The transcript is a lightly edited reading edition of the recorded event. Timestamps refer to elapsed time within each of the two recordings and restart for recording 2. Unresolved wording remains in brackets. The Word file is the author’s edited copy; the Markdown reading copy reproduces its text. The recordings themselves are not included.
+The transcript follows the author’s edited reading edition. Successive paragraphs by one speaker form one turn; interruptions and changes of speaker are retained. The Word and Markdown versions contain the same spoken text. All 202 source timestamps remain as passage anchors; elapsed time restarts for recording 2. Article and page links lead to the dissertation, and added references are distinguished from the speech. Existing bracketed uncertainties remain. [Editorial record](documentation/transcript-editorial.md). The recordings themselves are not included.
 
 ## Defence and degree
 

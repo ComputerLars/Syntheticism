@@ -1,0 +1,1620 @@
+{
+  "edition_date": "2026-10-18",
+  "source_edition_commit": "8f1a8ed61664f3ce379f77b01353d3bcef12375a",
+  "source_docx_sha256": "df79cca2a28d1dd48d83c5acef98df20afa0bedbe24e614667bfff948eb694d6",
+  "source_timestamps": 202,
+  "speaker_turns": 92,
+  "removed_repeated_speaker_labels": 110,
+  "sentence_continuations_joined": 3,
+  "anchors": [
+    {
+      "speaker": "Stefan",
+      "time": "00:12:46",
+      "anchor": "r1-001246",
+      "recording": 1,
+      "original_paragraph": 5
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:13:36",
+      "anchor": "r1-001336",
+      "recording": 1,
+      "original_paragraph": 7
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:14:26",
+      "anchor": "r1-001426",
+      "recording": 1,
+      "original_paragraph": 9
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:15:25",
+      "anchor": "r1-001525",
+      "recording": 1,
+      "original_paragraph": 11
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:15:43",
+      "anchor": "r1-001543",
+      "recording": 1,
+      "original_paragraph": 14
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:16:45",
+      "anchor": "r1-001645",
+      "recording": 1,
+      "original_paragraph": 16
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:17:54",
+      "anchor": "r1-001754",
+      "recording": 1,
+      "original_paragraph": 18
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:18:41",
+      "anchor": "r1-001841",
+      "recording": 1,
+      "original_paragraph": 20
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:19:43",
+      "anchor": "r1-001943",
+      "recording": 1,
+      "original_paragraph": 22
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:20:32",
+      "anchor": "r1-002032",
+      "recording": 1,
+      "original_paragraph": 24
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:21:24",
+      "anchor": "r1-002124",
+      "recording": 1,
+      "original_paragraph": 26
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:22:19",
+      "anchor": "r1-002219",
+      "recording": 1,
+      "original_paragraph": 28
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:23:22",
+      "anchor": "r1-002322",
+      "recording": 1,
+      "original_paragraph": 30
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:24:25",
+      "anchor": "r1-002425",
+      "recording": 1,
+      "original_paragraph": 32
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:25:32",
+      "anchor": "r1-002532",
+      "recording": 1,
+      "original_paragraph": 34
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:26:22",
+      "anchor": "r1-002622",
+      "recording": 1,
+      "original_paragraph": 36
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:27:22",
+      "anchor": "r1-002722",
+      "recording": 1,
+      "original_paragraph": 38
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:28:21",
+      "anchor": "r1-002821",
+      "recording": 1,
+      "original_paragraph": 40
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:29:09",
+      "anchor": "r1-002909",
+      "recording": 1,
+      "original_paragraph": 42
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:30:04",
+      "anchor": "r1-003004",
+      "recording": 1,
+      "original_paragraph": 44
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:31:29",
+      "anchor": "r1-003129",
+      "recording": 1,
+      "original_paragraph": 46
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:32:16",
+      "anchor": "r1-003216",
+      "recording": 1,
+      "original_paragraph": 48
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:33:21",
+      "anchor": "r1-003321",
+      "recording": 1,
+      "original_paragraph": 50
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:34:16",
+      "anchor": "r1-003416",
+      "recording": 1,
+      "original_paragraph": 52
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:35:24",
+      "anchor": "r1-003524",
+      "recording": 1,
+      "original_paragraph": 54
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:36:24",
+      "anchor": "r1-003624",
+      "recording": 1,
+      "original_paragraph": 56
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:37:30",
+      "anchor": "r1-003730",
+      "recording": 1,
+      "original_paragraph": 58
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:38:30",
+      "anchor": "r1-003830",
+      "recording": 1,
+      "original_paragraph": 60
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:39:24",
+      "anchor": "r1-003924",
+      "recording": 1,
+      "original_paragraph": 62
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:40:21",
+      "anchor": "r1-004021",
+      "recording": 1,
+      "original_paragraph": 64
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:41:20",
+      "anchor": "r1-004120",
+      "recording": 1,
+      "original_paragraph": 66
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:42:13",
+      "anchor": "r1-004213",
+      "recording": 1,
+      "original_paragraph": 68
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:43:13",
+      "anchor": "r1-004313",
+      "recording": 1,
+      "original_paragraph": 70
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:44:15",
+      "anchor": "r1-004415",
+      "recording": 1,
+      "original_paragraph": 72
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:45:30",
+      "anchor": "r1-004530",
+      "recording": 1,
+      "original_paragraph": 74
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:46:32",
+      "anchor": "r1-004632",
+      "recording": 1,
+      "original_paragraph": 76
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:47:23",
+      "anchor": "r1-004723",
+      "recording": 1,
+      "original_paragraph": 78
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:48:17",
+      "anchor": "r1-004817",
+      "recording": 1,
+      "original_paragraph": 80
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:48:44",
+      "anchor": "r1-004844",
+      "recording": 1,
+      "original_paragraph": 82
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:48:53",
+      "anchor": "r1-004853",
+      "recording": 1,
+      "original_paragraph": 85
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:50:28",
+      "anchor": "r1-005028",
+      "recording": 1,
+      "original_paragraph": 87
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:51:15",
+      "anchor": "r1-005115",
+      "recording": 1,
+      "original_paragraph": 89
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:51:53",
+      "anchor": "r1-005153",
+      "recording": 1,
+      "original_paragraph": 91
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:53:02",
+      "anchor": "r1-005302",
+      "recording": 1,
+      "original_paragraph": 93
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:53:29",
+      "anchor": "r1-005329",
+      "recording": 1,
+      "original_paragraph": 95
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:54:35",
+      "anchor": "r1-005435",
+      "recording": 1,
+      "original_paragraph": 97
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:55:47",
+      "anchor": "r1-005547",
+      "recording": 1,
+      "original_paragraph": 99
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:56:33",
+      "anchor": "r1-005633",
+      "recording": 1,
+      "original_paragraph": 101
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:57:14",
+      "anchor": "r1-005714",
+      "recording": 1,
+      "original_paragraph": 103
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:57:53",
+      "anchor": "r1-005753",
+      "recording": 1,
+      "original_paragraph": 105
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:58:02",
+      "anchor": "r1-005802",
+      "recording": 1,
+      "original_paragraph": 107
+    },
+    {
+      "speaker": "Jan",
+      "time": "00:58:36",
+      "anchor": "r1-005836",
+      "recording": 1,
+      "original_paragraph": 109
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:59:16",
+      "anchor": "r1-005916",
+      "recording": 1,
+      "original_paragraph": 111
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:00:24",
+      "anchor": "r1-010024",
+      "recording": 1,
+      "original_paragraph": 113
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:00:37",
+      "anchor": "r1-010037",
+      "recording": 1,
+      "original_paragraph": 115
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:01:09",
+      "anchor": "r1-010109",
+      "recording": 1,
+      "original_paragraph": 117
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:01:51",
+      "anchor": "r1-010151",
+      "recording": 1,
+      "original_paragraph": 119
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:03:18",
+      "anchor": "r1-010318",
+      "recording": 1,
+      "original_paragraph": 121
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:03:49",
+      "anchor": "r1-010349",
+      "recording": 1,
+      "original_paragraph": 123
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:04:12",
+      "anchor": "r1-010412",
+      "recording": 1,
+      "original_paragraph": 125
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:04:18",
+      "anchor": "r1-010418",
+      "recording": 1,
+      "original_paragraph": 127
+    },
+    {
+      "speaker": "Asker [speaker uncertain]",
+      "time": "01:04:27",
+      "anchor": "r1-010427",
+      "recording": 1,
+      "original_paragraph": 129
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:04:28",
+      "anchor": "r1-010428",
+      "recording": 1,
+      "original_paragraph": 131
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:04:36",
+      "anchor": "r1-010436",
+      "recording": 1,
+      "original_paragraph": 133
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:05:35",
+      "anchor": "r1-010535",
+      "recording": 1,
+      "original_paragraph": 135
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:06:20",
+      "anchor": "r1-010620",
+      "recording": 1,
+      "original_paragraph": 137
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:07:20",
+      "anchor": "r1-010720",
+      "recording": 1,
+      "original_paragraph": 139
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:08:37",
+      "anchor": "r1-010837",
+      "recording": 1,
+      "original_paragraph": 141
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:08:58",
+      "anchor": "r1-010858",
+      "recording": 1,
+      "original_paragraph": 143
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:10:01",
+      "anchor": "r1-011001",
+      "recording": 1,
+      "original_paragraph": 145
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:10:49",
+      "anchor": "r1-011049",
+      "recording": 1,
+      "original_paragraph": 147
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:11:57",
+      "anchor": "r1-011157",
+      "recording": 1,
+      "original_paragraph": 149
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:12:41",
+      "anchor": "r1-011241",
+      "recording": 1,
+      "original_paragraph": 151
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:13:46",
+      "anchor": "r1-011346",
+      "recording": 1,
+      "original_paragraph": 153
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:15:16",
+      "anchor": "r1-011516",
+      "recording": 1,
+      "original_paragraph": 155
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:16:34",
+      "anchor": "r1-011634",
+      "recording": 1,
+      "original_paragraph": 157
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:17:12",
+      "anchor": "r1-011712",
+      "recording": 1,
+      "original_paragraph": 159
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:17:15",
+      "anchor": "r1-011715",
+      "recording": 1,
+      "original_paragraph": 161
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:18:26",
+      "anchor": "r1-011826",
+      "recording": 1,
+      "original_paragraph": 163
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:19:10",
+      "anchor": "r1-011910",
+      "recording": 1,
+      "original_paragraph": 165
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:19:10",
+      "anchor": "r1-011910-2",
+      "recording": 1,
+      "original_paragraph": 167
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:19:56",
+      "anchor": "r1-011956",
+      "recording": 1,
+      "original_paragraph": 169
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:21:08",
+      "anchor": "r1-012108",
+      "recording": 1,
+      "original_paragraph": 171
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:22:03",
+      "anchor": "r1-012203",
+      "recording": 1,
+      "original_paragraph": 173
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:23:12",
+      "anchor": "r1-012312",
+      "recording": 1,
+      "original_paragraph": 175
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:24:17",
+      "anchor": "r1-012417",
+      "recording": 1,
+      "original_paragraph": 177
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:24:18",
+      "anchor": "r1-012418",
+      "recording": 1,
+      "original_paragraph": 179
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:25:37",
+      "anchor": "r1-012537",
+      "recording": 1,
+      "original_paragraph": 181
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:26:44",
+      "anchor": "r1-012644",
+      "recording": 1,
+      "original_paragraph": 183
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:27:34",
+      "anchor": "r1-012734",
+      "recording": 1,
+      "original_paragraph": 185
+    },
+    {
+      "speaker": "Jan",
+      "time": "01:27:57",
+      "anchor": "r1-012757",
+      "recording": 1,
+      "original_paragraph": 187
+    },
+    {
+      "speaker": "Stefan",
+      "time": "01:28:24",
+      "anchor": "r1-012824",
+      "recording": 1,
+      "original_paragraph": 189
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:02:29",
+      "anchor": "r2-000229",
+      "recording": 2,
+      "original_paragraph": 195
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:02:38",
+      "anchor": "r2-000238",
+      "recording": 2,
+      "original_paragraph": 197
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:03:34",
+      "anchor": "r2-000334",
+      "recording": 2,
+      "original_paragraph": 199
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:04:42",
+      "anchor": "r2-000442",
+      "recording": 2,
+      "original_paragraph": 201
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:05:48",
+      "anchor": "r2-000548",
+      "recording": 2,
+      "original_paragraph": 203
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:05:58",
+      "anchor": "r2-000558",
+      "recording": 2,
+      "original_paragraph": 205
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:06:55",
+      "anchor": "r2-000655",
+      "recording": 2,
+      "original_paragraph": 207
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:07:41",
+      "anchor": "r2-000741",
+      "recording": 2,
+      "original_paragraph": 209
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:08:34",
+      "anchor": "r2-000834",
+      "recording": 2,
+      "original_paragraph": 211
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:09:24",
+      "anchor": "r2-000924",
+      "recording": 2,
+      "original_paragraph": 213
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:09:52",
+      "anchor": "r2-000952",
+      "recording": 2,
+      "original_paragraph": 215
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:10:42",
+      "anchor": "r2-001042",
+      "recording": 2,
+      "original_paragraph": 217
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:11:13",
+      "anchor": "r2-001113",
+      "recording": 2,
+      "original_paragraph": 219
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:11:20",
+      "anchor": "r2-001120",
+      "recording": 2,
+      "original_paragraph": 221
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:12:21",
+      "anchor": "r2-001221",
+      "recording": 2,
+      "original_paragraph": 223
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:12:30",
+      "anchor": "r2-001230",
+      "recording": 2,
+      "original_paragraph": 225
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:12:33",
+      "anchor": "r2-001233",
+      "recording": 2,
+      "original_paragraph": 227
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:13:28",
+      "anchor": "r2-001328",
+      "recording": 2,
+      "original_paragraph": 229
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:14:57",
+      "anchor": "r2-001457",
+      "recording": 2,
+      "original_paragraph": 231
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:15:17",
+      "anchor": "r2-001517",
+      "recording": 2,
+      "original_paragraph": 233
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:16:00",
+      "anchor": "r2-001600",
+      "recording": 2,
+      "original_paragraph": 235
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:16:55",
+      "anchor": "r2-001655",
+      "recording": 2,
+      "original_paragraph": 237
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:18:06",
+      "anchor": "r2-001806",
+      "recording": 2,
+      "original_paragraph": 239
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:19:12",
+      "anchor": "r2-001912",
+      "recording": 2,
+      "original_paragraph": 241
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:19:58",
+      "anchor": "r2-001958",
+      "recording": 2,
+      "original_paragraph": 243
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:20:03",
+      "anchor": "r2-002003",
+      "recording": 2,
+      "original_paragraph": 245
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:20:17",
+      "anchor": "r2-002017",
+      "recording": 2,
+      "original_paragraph": 247
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:21:11",
+      "anchor": "r2-002111",
+      "recording": 2,
+      "original_paragraph": 249
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:22:09",
+      "anchor": "r2-002209",
+      "recording": 2,
+      "original_paragraph": 251
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:22:34",
+      "anchor": "r2-002234",
+      "recording": 2,
+      "original_paragraph": 253
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:23:30",
+      "anchor": "r2-002330",
+      "recording": 2,
+      "original_paragraph": 255
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:23:32",
+      "anchor": "r2-002332",
+      "recording": 2,
+      "original_paragraph": 257
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:23:37",
+      "anchor": "r2-002337",
+      "recording": 2,
+      "original_paragraph": 259
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:23:53",
+      "anchor": "r2-002353",
+      "recording": 2,
+      "original_paragraph": 261
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:23:59",
+      "anchor": "r2-002359",
+      "recording": 2,
+      "original_paragraph": 263
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:24:55",
+      "anchor": "r2-002455",
+      "recording": 2,
+      "original_paragraph": 265
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:25:50",
+      "anchor": "r2-002550",
+      "recording": 2,
+      "original_paragraph": 267
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:26:43",
+      "anchor": "r2-002643",
+      "recording": 2,
+      "original_paragraph": 269
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:26:52",
+      "anchor": "r2-002652",
+      "recording": 2,
+      "original_paragraph": 271
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:27:47",
+      "anchor": "r2-002747",
+      "recording": 2,
+      "original_paragraph": 273
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:27:52",
+      "anchor": "r2-002752",
+      "recording": 2,
+      "original_paragraph": 275
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:27:58",
+      "anchor": "r2-002758",
+      "recording": 2,
+      "original_paragraph": 277
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:28:44",
+      "anchor": "r2-002844",
+      "recording": 2,
+      "original_paragraph": 279
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:29:32",
+      "anchor": "r2-002932",
+      "recording": 2,
+      "original_paragraph": 281
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:30:15",
+      "anchor": "r2-003015",
+      "recording": 2,
+      "original_paragraph": 283
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:31:11",
+      "anchor": "r2-003111",
+      "recording": 2,
+      "original_paragraph": 285
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:32:10",
+      "anchor": "r2-003210",
+      "recording": 2,
+      "original_paragraph": 287
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:33:01",
+      "anchor": "r2-003301",
+      "recording": 2,
+      "original_paragraph": 289
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:33:33",
+      "anchor": "r2-003333",
+      "recording": 2,
+      "original_paragraph": 291
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:34:19",
+      "anchor": "r2-003419",
+      "recording": 2,
+      "original_paragraph": 293
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:35:20",
+      "anchor": "r2-003520",
+      "recording": 2,
+      "original_paragraph": 295
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:35:38",
+      "anchor": "r2-003538",
+      "recording": 2,
+      "original_paragraph": 297
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:35:47",
+      "anchor": "r2-003547",
+      "recording": 2,
+      "original_paragraph": 299
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:36:56",
+      "anchor": "r2-003656",
+      "recording": 2,
+      "original_paragraph": 301
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:37:13",
+      "anchor": "r2-003713",
+      "recording": 2,
+      "original_paragraph": 303
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:38:09",
+      "anchor": "r2-003809",
+      "recording": 2,
+      "original_paragraph": 305
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:39:02",
+      "anchor": "r2-003902",
+      "recording": 2,
+      "original_paragraph": 307
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:40:20",
+      "anchor": "r2-004020",
+      "recording": 2,
+      "original_paragraph": 309
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:40:41",
+      "anchor": "r2-004041",
+      "recording": 2,
+      "original_paragraph": 311
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:42:05",
+      "anchor": "r2-004205",
+      "recording": 2,
+      "original_paragraph": 313
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:43:19",
+      "anchor": "r2-004319",
+      "recording": 2,
+      "original_paragraph": 315
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:43:50",
+      "anchor": "r2-004350",
+      "recording": 2,
+      "original_paragraph": 317
+    },
+    {
+      "speaker": "Sine",
+      "time": "00:43:57",
+      "anchor": "r2-004357",
+      "recording": 2,
+      "original_paragraph": 319
+    },
+    {
+      "speaker": "Stefan",
+      "time": "00:44:05",
+      "anchor": "r2-004405",
+      "recording": 2,
+      "original_paragraph": 321
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:44:34",
+      "anchor": "r2-004434",
+      "recording": 2,
+      "original_paragraph": 324
+    },
+    {
+      "speaker": "Audience member",
+      "time": "00:45:14",
+      "anchor": "r2-004514",
+      "recording": 2,
+      "original_paragraph": 326
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:45:16",
+      "anchor": "r2-004516",
+      "recording": 2,
+      "original_paragraph": 328
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:45:56",
+      "anchor": "r2-004556",
+      "recording": 2,
+      "original_paragraph": 330
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:46:42",
+      "anchor": "r2-004642",
+      "recording": 2,
+      "original_paragraph": 332
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:47:28",
+      "anchor": "r2-004728",
+      "recording": 2,
+      "original_paragraph": 334
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:47:40",
+      "anchor": "r2-004740",
+      "recording": 2,
+      "original_paragraph": 336
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:48:36",
+      "anchor": "r2-004836",
+      "recording": 2,
+      "original_paragraph": 338
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:49:36",
+      "anchor": "r2-004936",
+      "recording": 2,
+      "original_paragraph": 340
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:50:41",
+      "anchor": "r2-005041",
+      "recording": 2,
+      "original_paragraph": 342
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:51:24",
+      "anchor": "r2-005124",
+      "recording": 2,
+      "original_paragraph": 344
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:52:16",
+      "anchor": "r2-005216",
+      "recording": 2,
+      "original_paragraph": 346
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:52:41",
+      "anchor": "r2-005241",
+      "recording": 2,
+      "original_paragraph": 348
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:53:42",
+      "anchor": "r2-005342",
+      "recording": 2,
+      "original_paragraph": 350
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:54:31",
+      "anchor": "r2-005431",
+      "recording": 2,
+      "original_paragraph": 352
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:55:18",
+      "anchor": "r2-005518",
+      "recording": 2,
+      "original_paragraph": 354
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:56:05",
+      "anchor": "r2-005605",
+      "recording": 2,
+      "original_paragraph": 356
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:56:47",
+      "anchor": "r2-005647",
+      "recording": 2,
+      "original_paragraph": 358
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:57:27",
+      "anchor": "r2-005727",
+      "recording": 2,
+      "original_paragraph": 360
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:58:03",
+      "anchor": "r2-005803",
+      "recording": 2,
+      "original_paragraph": 362
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:58:12",
+      "anchor": "r2-005812",
+      "recording": 2,
+      "original_paragraph": 364
+    },
+    {
+      "speaker": "Asker",
+      "time": "00:58:55",
+      "anchor": "r2-005855",
+      "recording": 2,
+      "original_paragraph": 366
+    },
+    {
+      "speaker": "Jussi",
+      "time": "00:59:23",
+      "anchor": "r2-005923",
+      "recording": 2,
+      "original_paragraph": 368
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:00:01",
+      "anchor": "r2-010001",
+      "recording": 2,
+      "original_paragraph": 370
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:00:47",
+      "anchor": "r2-010047",
+      "recording": 2,
+      "original_paragraph": 372
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:01:12",
+      "anchor": "r2-010112",
+      "recording": 2,
+      "original_paragraph": 374
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:02:03",
+      "anchor": "r2-010203",
+      "recording": 2,
+      "original_paragraph": 376
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:02:54",
+      "anchor": "r2-010254",
+      "recording": 2,
+      "original_paragraph": 378
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:03:48",
+      "anchor": "r2-010348",
+      "recording": 2,
+      "original_paragraph": 380
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:04:36",
+      "anchor": "r2-010436",
+      "recording": 2,
+      "original_paragraph": 382
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:05:25",
+      "anchor": "r2-010525",
+      "recording": 2,
+      "original_paragraph": 384
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:06:13",
+      "anchor": "r2-010613",
+      "recording": 2,
+      "original_paragraph": 386
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:07:25",
+      "anchor": "r2-010725",
+      "recording": 2,
+      "original_paragraph": 388
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:08:26",
+      "anchor": "r2-010826",
+      "recording": 2,
+      "original_paragraph": 390
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:08:55",
+      "anchor": "r2-010855",
+      "recording": 2,
+      "original_paragraph": 392
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:09:36",
+      "anchor": "r2-010936",
+      "recording": 2,
+      "original_paragraph": 394
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:10:17",
+      "anchor": "r2-011017",
+      "recording": 2,
+      "original_paragraph": 396
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:11:24",
+      "anchor": "r2-011124",
+      "recording": 2,
+      "original_paragraph": 398
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:12:21",
+      "anchor": "r2-011221",
+      "recording": 2,
+      "original_paragraph": 400
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:13:08",
+      "anchor": "r2-011308",
+      "recording": 2,
+      "original_paragraph": 402
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:13:12",
+      "anchor": "r2-011312",
+      "recording": 2,
+      "original_paragraph": 404
+    },
+    {
+      "speaker": "Asker",
+      "time": "01:14:06",
+      "anchor": "r2-011406",
+      "recording": 2,
+      "original_paragraph": 406
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:14:18",
+      "anchor": "r2-011418",
+      "recording": 2,
+      "original_paragraph": 408
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:15:16",
+      "anchor": "r2-011516",
+      "recording": 2,
+      "original_paragraph": 410
+    },
+    {
+      "speaker": "Jussi",
+      "time": "01:16:01",
+      "anchor": "r2-011601",
+      "recording": 2,
+      "original_paragraph": 412
+    },
+    {
+      "speaker": "Stefan",
+      "time": "01:16:23",
+      "anchor": "r2-011623",
+      "recording": 2,
+      "original_paragraph": 414
+    }
+  ],
+  "pdf": {
+    "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf",
+    "printed_folio_offset": 1
+  },
+  "articles": [
+    {
+      "number": 1,
+      "title": "The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy",
+      "authors": "Asker Bryld Staunæs & Computer Lars",
+      "printed_pages": [
+        135,
+        155
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136"
+    },
+    {
+      "number": 2,
+      "title": "A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason",
+      "authors": "Asker Bryld Staunæs & Computer Lars",
+      "printed_pages": [
+        157,
+        177
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158"
+    },
+    {
+      "number": 3,
+      "title": "Isaac Asimov’s Incubation of Political AI: An Immanent Critique?",
+      "authors": "Asker Bryld Staunæs",
+      "printed_pages": [
+        180,
+        205
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181"
+    },
+    {
+      "number": 4,
+      "title": "Deep Faking in a Flat Reality?",
+      "authors": "Asker Bryld Staunæs & Maja Bak Herrie",
+      "printed_pages": [
+        207,
+        233
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208"
+    },
+    {
+      "number": 5,
+      "title": "Scripting the Spectacle: A Theory Tragedy",
+      "authors": "Asker Bryld Staunæs",
+      "printed_pages": [
+        235,
+        265
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236"
+    },
+    {
+      "number": 6,
+      "title": "Synthetic Chamber: Agentic Mediation in Representative Democracy",
+      "authors": "Michal Malý & Asker Bryld Staunæs",
+      "printed_pages": [
+        268,
+        294
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269"
+    },
+    {
+      "number": 7,
+      "title": "Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society",
+      "authors": "Asker Bryld Staunæs",
+      "printed_pages": [
+        296,
+        324
+      ],
+      "url": "https://computerlars.github.io/Syntheticism/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297"
+    }
+  ],
+  "passage_references": [
+    {
+      "number": 1,
+      "anchor": "r1-002322",
+      "reference": "Geometry of the dissertation: Figure N.1, p. 14; directional variations, pp. 15–16.",
+      "printed_pages": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "number": 2,
+      "anchor": "r1-002821",
+      "reference": "Article 1: emotion analysis, figure and discussion, pp. 138–139.",
+      "printed_pages": [
+        138,
+        139
+      ]
+    },
+    {
+      "number": 3,
+      "anchor": "r1-002909",
+      "reference": "Article 2: Proust quotation, p. 160; Figure 2.2, p. 161.",
+      "printed_pages": [
+        160,
+        161
+      ]
+    },
+    {
+      "number": 4,
+      "anchor": "r1-003004",
+      "reference": "Proust book photograph and permutation: Figure N.4, p. 31; analysis and photographed order, pp. 32–35.",
+      "printed_pages": [
+        31,
+        32,
+        35
+      ]
+    },
+    {
+      "number": 5,
+      "anchor": "r1-003129",
+      "reference": "Guardian composite: Figure N.3, p. 27; synthesis discussion, pp. 28–29. The complete article is Article 4, pp. 207–233.",
+      "printed_pages": [
+        27,
+        28,
+        29,
+        207
+      ]
+    },
+    {
+      "number": 6,
+      "anchor": "r1-003624",
+      "reference": "Wiktoria–Lars exchange, pp. 106–107; social and technosocial sculpture, pp. 86–94.",
+      "printed_pages": [
+        106,
+        107,
+        86,
+        94
+      ]
+    },
+    {
+      "number": 7,
+      "anchor": "r1-004213",
+      "reference": "Synthetic Summit Simulator and proposed Synthetic Chamber: Article 6, pp. 268–294; constitutional workflow and uptake, pp. 279–285.",
+      "printed_pages": [
+        268,
+        279,
+        285
+      ]
+    },
+    {
+      "number": 8,
+      "anchor": "r1-004415",
+      "reference": "Collective Resolution and democratic specification: synthesis, pp. 107–109; Article 7, pp. 296–324.",
+      "printed_pages": [
+        107,
+        109,
+        296
+      ]
+    },
+    {
+      "number": 9,
+      "anchor": "r2-002017",
+      "reference": "Jan-Werner Müller’s reading of Asimov’s electoral computer and its limits: Article 3, pp. 197–199.",
+      "printed_pages": [
+        197,
+        198,
+        199
+      ]
+    },
+    {
+      "number": 10,
+      "anchor": "r2-003419",
+      "reference": "Emily Bender’s objection to The Synthetic Party is quoted and discussed on p. 85.",
+      "printed_pages": [
+        85
+      ]
+    },
+    {
+      "number": 11,
+      "anchor": "r2-005241",
+      "reference": "Stiegler’s idiotextual geometry: Article 5, pp. 245–247.",
+      "printed_pages": [
+        245,
+        246,
+        247
+      ]
+    },
+    {
+      "number": 12,
+      "anchor": "r2-010436",
+      "reference": "Retro-futurist scenography, p. 69. The earlier formulation is “consumable futurisms”, p. 58.",
+      "printed_pages": [
+        69,
+        58
+      ]
+    }
+  ]
+}
