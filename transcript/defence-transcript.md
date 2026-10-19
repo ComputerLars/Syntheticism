@@ -323,7 +323,7 @@ This is, I will end this part with a kind of speculation of my own. It's not a d
 
 <a id="r1-010720"></a>
 
-To be the basis for a post-farce protocol of interpretations, loops, recurrence, and comments in a spectacular scriptogenesis. And this is very much, and I use the words from the thesis, that they are as written about or by collective actions. There's a huge formal and conceptual similarity between the project and collective actions. And you don't mention them, so I don't assume you know them or whatever, that's not the important thing. But the funny thing is that you are working in maybe Europe's most elaborate democracy, Denmark, and Collective Actions were working in the Brezhnev’s Soviet Union, after the Thaw. And they couldn't express or even exhibit targets, et cetera, and develop this form of communication in a grotesque, comic, bureaucratic, forced, farcical theory way.
+To be the basis for a post-farce protocol of interpretations, loops, recurrence, and comments in a spectacular scriptogenesis. And this is very much, and I use the words from the thesis, that they are as written about or by collective actions. There's a huge formal and conceptual similarity between the project and collective actions. And you don't mention them, so I don't assume you know them or whatever, that's not the important thing. But the funny thing is that you are working in maybe Europe's most elaborate democracy, Denmark, and Collective Actions were working in Brezhnev’s Soviet Union, after the Thaw. And they couldn't express or even exhibit targets, et cetera, and develop this form of communication in a grotesque, comic, bureaucratic, forced, farcical theory way.
 
 <a id="r1-010837"></a>
 
