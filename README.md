@@ -2,6 +2,8 @@
 
 **Asker Bryld Staunæs · PhD in artistic research · Aarhus University · 2026**
 
+**[Read and listen · public defence](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/)**
+
 Dissertation, slides and reading transcript of the public PhD defence on **21 September 2026**. The PhD degree was awarded on **6 October 2026**.
 
 [ORCID 0009-0003-1523-1987](https://orcid.org/0009-0003-1523-1987) · [Aarhus University profile](https://www.au.dk/en/show/person/abs%40cc.au.dk)
@@ -36,9 +38,10 @@ Appendices begin on p. **326**; the English abstract occupies pp. **327–330**,
 | :--- | :--- |
 | Complete dissertation, PDF | [Read or download](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf) |
 | Defence slides, 21 September 2026, including the speaker notes used on the day | [PowerPoint](defence/Syntheticism-Defence-21-September-2026.pptx) |
+| Recordings of the defence | [Video and audio](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/releases/tag/defence-recordings-20260921) |
 | Author-edited reading transcript: opening lecture and discussions with Jan Bäcklund, Sine Nørholm Just and Jussi Parikka; proceedings led by Stefan Iversen | [Word reading edition](transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx) · [Read on GitHub](transcript/defence-transcript.md) |
 
-The transcript follows the author’s edited reading edition. Successive paragraphs by one speaker form one turn; interruptions and changes of speaker are retained. The Word and Markdown versions contain the same spoken text. All 202 source timestamps remain as passage anchors; elapsed time restarts for recording 2. Article and page links lead to the dissertation, and added references are distinguished from the speech. Author-supplied corrections and further local checks are recorded separately; unresolved wording remains marked. [Editorial record](documentation/transcript-editorial.md). The recordings themselves are not included.
+The transcript follows the author’s edited reading edition. Successive paragraphs by one speaker form one turn. The Word and Markdown versions contain the same spoken text. All 202 source timestamps remain as passage anchors; elapsed time restarts for recording 2. Article and page links lead to the dissertation, and added references are distinguished from the speech. Local corrections, grammatical edits and omissions of unfinished interjections are recorded in the [editorial record](documentation/transcript-editorial.md). The reading page connects the text to listening and video copies; the original recordings remain preserved separately.
 
 ## Defence and degree
 

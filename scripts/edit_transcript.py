@@ -53,7 +53,7 @@ WEB_SOURCES={
  'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
  'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),
  'r2-000834':('Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.','https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240'),
- 'r2-004434':('The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.',''),
+ 'r2-004434':('The opening joke concerns the probability that AI would kill everyone present.',''),
 }
 NOTES += [(anchor,text,[]) for anchor,(text,url) in WEB_SOURCES.items()]
 NOTE_MAP={key:(i,text,pages)for i,(key,text,pages)in enumerate(NOTES,1)}
@@ -74,6 +74,7 @@ def normalise(text,anchor=None):
  number=r'(?:one|two|three|four|five|six|seven|[1-7])'
  separator=r'(?:\s+(?:and|through|to)\s+|,\s*|\s*[–-]\s*)'
  text=re.sub(r'\barticles?\s+'+number+r'\b(?:'+separator+number+r'\b)*',article_spelling,text,flags=re.I)
+ for n,word in enumerate(['one','two','three'],1):text=re.sub(r'\b(research question) '+word+r'\b',lambda m:m[1]+' '+str(n),text,flags=re.I)
  return text
 
 def article_spelling(m):
@@ -92,6 +93,7 @@ def spans(text):
  for i,word in enumerate(['first','second','third','fourth','fifth','sixth','seventh'],1):
   for m in re.finditer(r'\b'+word+r' (?:research )?article\b',text,re.I):out.append((m.start(),m.end(),page_url(BY_NUMBER[i][3]),'Article '+str(i)))
  for m in re.finditer(r'\bpage (29|54)\b',text):out.append((m.start(),m.end(),page_url(int(m[1])),f'Printed p. {m[1]}; PDF page {int(m[1])+1}'))
+ for m in re.finditer(r'\bresearch question ([123])\b',text,re.I):out.append((m.start(),m.end(),page_url({1:40,2:63,3:81}[int(m[1])]),'Extended synthesis · RQ'+m[1]))
  return sorted(out)
 
 def page_spans(text):
@@ -137,6 +139,8 @@ def build():
    speaker,time=m.groups();base=f'r{recording}-'+time.replace(':','');used[base]=used.get(base,0)+1;anchor=base+('-'+str(used[base])if used[base]>1 else'');text=normalise(ps[i+1].text,anchor);speaker=CORRECTIONS['speaker_corrections'].get(anchor,speaker)
    entry={'speaker':speaker,'time':time,'anchor':anchor,'recording':recording,'text':text,'original_paragraph':i+1}
    expected.append(text);anchors.append({k:v for k,v in entry.items()if k!='text'})
+   if not text:
+    events.append({'type':'omission','entry':entry});continue
    if last==speaker:merged+=1
    else:events.append({'type':'speaker','paragraph':p,'entry':entry})
    if last==speaker and events[-1]['type']=='speech' and continuation(events[-1]['parts'][-1]['text'],text):events[-1]['parts'].append(entry);joins+=1
@@ -172,6 +176,8 @@ def build():
     if style.startswith('Heading'):md.append(('#'* (2 if style=='Heading 1'else 3))+' '+text)
     elif style=='Record':md.append('*'+text+'*')
     elif text:md.append(text)
+  elif kind=='omission':
+   bookmark(doc.paragraphs[-1],event['entry']['anchor']);md.append('<a id="'+event['entry']['anchor']+'"></a>');spoken.append('')
   elif kind=='speaker':
    e=event['entry'];q=doc.add_paragraph(e['speaker']+'   '+e['time'],'Speaker');md.append('**'+e['speaker']+' · '+e['time']+'**')
   else:
@@ -205,7 +211,7 @@ def build():
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
  doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,19,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
- navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':len(anchors)-merged,'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
+ navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':sum(e['type']=='speaker'for e in events),'omitted_interjections':[e['entry']['anchor']for e in events if e['type']=='omission'],'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')
  print(json.dumps({k:navigation[k]for k in ['source_timestamps','speaker_turns','removed_repeated_speaker_labels','sentence_continuations_joined']},indent=2))
 

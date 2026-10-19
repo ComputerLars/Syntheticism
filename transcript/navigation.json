@@ -3,9 +3,12 @@
   "source_edition_commit": "8f1a8ed61664f3ce379f77b01353d3bcef12375a",
   "source_docx_sha256": "df79cca2a28d1dd48d83c5acef98df20afa0bedbe24e614667bfff948eb694d6",
   "source_timestamps": 202,
-  "speaker_turns": 92,
-  "removed_repeated_speaker_labels": 110,
-  "sentence_continuations_joined": 3,
+  "speaker_turns": 90,
+  "omitted_interjections": [
+    "r1-010427"
+  ],
+  "removed_repeated_speaker_labels": 111,
+  "sentence_continuations_joined": 4,
   "anchors": [
     {
       "speaker": "Stefan",
@@ -1667,7 +1670,7 @@
     {
       "number": 20,
       "anchor": "r2-004434",
-      "reference": "The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.",
+      "reference": "The opening joke concerns the probability that AI would kill everyone present.",
       "printed_pages": []
     }
   ]

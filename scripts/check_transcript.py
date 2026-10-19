@@ -41,7 +41,7 @@ def check():
  assert norm(body)==norm(after),'Markdown/Word speech differs'
  assert not re.search(r'\barticles? (one|two|three|four|five|six|seven)\b',body,re.I)
  assert text.splitlines()[0]=='# Syntheticism: How I Learned to Love Democracy'
- labels=list(re.finditer(r'^\*\*([^*]+?) · \d\d:\d\d:\d\d\*\*$',text,re.M));names=[m[1]for m in labels];assert len(names)==92
+ labels=list(re.finditer(r'^\*\*([^*]+?) · \d\d:\d\d:\d\d\*\*$',text,re.M));names=[m[1]for m in labels];assert len(names)==90
  # A qualified uncertain attribution remains separate from a secure one.
  for a,b in zip(labels,labels[1:]):
   if a[1]==b[1]:assert re.search(r'^##',text[a.end():b.start()],re.M),(a[1],b[1])
@@ -51,7 +51,7 @@ def check():
  ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
  bookmarks=xml.xpath('//w:bookmarkStart/@w:name',namespaces=ns);assert len(set(bookmarks))==len(bookmarks)
  assert all(a.replace('-','_')in bookmarks for a in anchors)
- paragraphs=[p for p in new.paragraphs if p.style.name=='Speaker'];assert len(paragraphs)==92
+ paragraphs=[p for p in new.paragraphs if p.style.name=='Speaker'];assert len(paragraphs)==90
  urls=re.findall(r'https://computerlars\.github\.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/[^\s)]+#page=(\d+)',text);assert all(1<=int(n)<=336 for n in urls)
  pdf=PdfReader(ROOT/'dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf');assert len(pdf.pages)==336
  for a in nav['articles']:
@@ -65,7 +65,7 @@ def check():
  assert all(n['anchor'] in anchors for n in nav['passage_references'])
  assert 'IMG_' not in text
  old_readme=source('README.md').decode();readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]
- result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':92,'source_time_anchors':202,'word_markdown_speech_identical':True,'source_speech_changes_match_correction_register':True,'published_binaries_match_validation_record':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
+ result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'source_speech_changes_match_correction_register':True,'published_binaries_match_validation_record':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
  print(json.dumps(result,indent=2))
 
 if __name__=='__main__':check()

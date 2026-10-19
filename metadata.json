@@ -123,7 +123,7 @@
     "source_edition_date": "2026-10-17",
     "editorial_record": "documentation/transcript-editorial.md",
     "navigation": "transcript/navigation.json",
-    "speaker_turns": 92,
+    "speaker_turns": 90,
     "source_timestamps": 202
   },
   "repository": "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy",
@@ -138,5 +138,19 @@
   "publication": {
     "repository_visibility": "public",
     "publication_date": "2026-10-17"
+  },
+  "recordings": {
+    "access_release": "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/releases/tag/defence-recordings-20260921",
+    "video_dimensions": [
+      960,
+      540
+    ],
+    "video_frame_rate": 15,
+    "recording_1_video_source_offset_seconds": 766,
+    "recording_2_video_source_offset_seconds": 0,
+    "audio_source_offsets_seconds": [
+      0,
+      0
+    ]
   }
 }

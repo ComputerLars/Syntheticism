@@ -1,0 +1,54 @@
+[
+  {
+    "id": "opening",
+    "src": "assets/photos/opening.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Public PhD defence, Lille Sal, Kasernen, Aarhus University, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4629.heic",
+    "source_archive": "iCloud Photos.zip",
+    "source_sha256": "e2db33d35b29668c212bf1056d29e6f62dc9ccd46417bca01f809a8bf208451e",
+    "camera_date": "2026:09:21 13:13:11",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "lecture",
+    "src": "assets/photos/lecture.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Opening lecture, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4635.heic",
+    "source_archive": "iCloud Photos.zip",
+    "source_sha256": "a35b503c796a8b9d34c5818e312322217be7986802007271a2ec6e60d7022561",
+    "camera_date": "2026:09:21 13:50:12",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "discussion",
+    "src": "assets/photos/discussion.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Discussion during the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4638.heic",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "558169a46bdc4290d5c9aca35d2efb64b6b094552b7b17f58c4b82456e0c2c07",
+    "camera_date": "2026:09:21 15:28:46",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "lille-sal",
+    "src": "assets/photos/lille-sal.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Lille Sal, Kasernen, Aarhus University, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4641.heic",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "c411157f8394e0c399947876a083436c097ef82d636fcbc3889310b60cd91795",
+    "camera_date": "2026:09:21 16:06:09",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  }
+]

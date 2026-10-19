@@ -43,8 +43,8 @@
     {
       "anchor": "r1-010427",
       "before": "I don't think",
-      "after": "I don't think.",
-      "basis": "Punctuation of the brief interruption."
+      "after": "",
+      "basis": "Omit the isolated unfinished interjection from the reading edition; it does not change the surrounding argument. Its source time remains an anchor."
     },
     {
       "anchor": "r1-004723",
@@ -201,6 +201,606 @@
       "before": "Thank you, Sine. [Brief handover; remaining words unclear.]",
       "after": "Thank you, Sine.",
       "basis": "The fresh local pass yields only the thanks and the transition. Remove the non-spoken editorial stage direction."
+    },
+    {
+      "anchor": "r1-010620",
+      "before": "not as a [word unclear] hub",
+      "after": "not as a tech-hub",
+      "basis": "Author correction, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010720",
+      "before": "exhibit targets",
+      "after": "exhibit art",
+      "basis": "Author confirmation, 19 October 2026."
+    },
+    {
+      "anchor": "r2-002844",
+      "before": "close slop [wording uncertain]",
+      "after": "Claude slop",
+      "basis": "Author confirmation, 19 October 2026."
+    },
+    {
+      "anchor": "r2-005518",
+      "before": "hold this belief [wording uncertain]",
+      "after": "hold this disbelief",
+      "basis": "Author supplied disbelief, 19 October 2026."
+    },
+    {
+      "anchor": "r1-004853",
+      "before": "What should also be noted is that it is in my opinion a controversial idea in the thesis.",
+      "after": "What should also be noted is that there is, in my opinion, a controversial idea in the thesis.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-005028",
+      "before": "which we also here became aware of here",
+      "after": "which we also became aware of here",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-005547",
+      "before": "I have a French philosopher, Bernard Stiegler,",
+      "after": "I read the French philosopher Bernard Stiegler,",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-005547",
+      "before": "in this century of anthropocene and climate crisis",
+      "after": "in this century of the Anthropocene and climate crisis",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-005547",
+      "before": "in the philosopher's words, which becomes incredibly abstract",
+      "after": "in the philosopher's words, which become incredibly abstract",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010349",
+      "before": "good or bad that it annihilates",
+      "after": "good or bad, that it annihilates",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010349",
+      "before": "that it is an aesthetic first and foremost? And",
+      "after": "that it is an aesthetic first and foremost?",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010412",
+      "before": "that's been the chain of consistence that I've operated on throughout this thesis, yes.",
+      "after": "That has been the chain of consistence that I have operated with throughout this thesis, yes.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010418",
+      "before": "But this is not maybe the plane of consistence we’re on if we look at the project in purely political terms or?",
+      "after": "But this is maybe not the plane of consistence we’re on if we look at the project in purely political terms?",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-010428",
+      "before": "that the political idea seems to be edifying a new kind of form of democracy.",
+      "after": "The political idea seems to be edifying a new kind of form of democracy.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r2-001958",
+      "before": "General and popular understandings that I'm always also engaged in trying to deconstruct",
+      "after": "General and popular understandings that I'm always also engaged in trying to deconstruct.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r2-005727",
+      "before": "I think by this time of day,",
+      "after": "I think by this time of day…",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r2-005803",
+      "before": "the stress of going to the pretext of totality also pursues in that way.",
+      "after": "The stress of going to the pretext of totality also pursues in that way.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r2-011221",
+      "before": "that none of us actually wrote",
+      "after": "that none of us actually wrote…",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r2-011308",
+      "before": "or understand.",
+      "after": "Or understand.",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-012312",
+      "before": "which I think is a great contribution to scholarship",
+      "after": "which I think are a great contribution to scholarship",
+      "basis": "Light grammatical or punctuation correction; author’s examples and reading-edition instructions, 19 October 2026."
+    },
+    {
+      "anchor": "r1-001246",
+      "before": "and co-supervisor has been",
+      "after": "and his co-supervisor has been",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-001426",
+      "before": "After first opponent,",
+      "after": "After the first opponent,",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-001645",
+      "before": "The Synthetic Party, its figurehead is Leader Lars",
+      "after": "The Synthetic Party. Its figurehead is Leader Lars",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-001943",
+      "before": "rather than I gave the world a party",
+      "after": "rather than that I gave the world a party",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-002032",
+      "before": "often appears as an object of worry, is threatened or hollowed out to be defended against",
+      "after": "often appears as an object of worry: threatened or hollowed out, to be defended against",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-002124",
+      "before": "allocate voice, authority, consequence, themselves are contestable",
+      "after": "allocate voice, authority and consequence are themselves contestable",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-002425",
+      "before": "in themselves, they don’t explain the thesis",
+      "after": "in themselves. They don’t explain the thesis",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003004",
+      "before": "on the 20th December 2022",
+      "after": "on 20 December 2022",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003216",
+      "before": "from the discord",
+      "after": "from Discord",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003524",
+      "before": "what it claimed to convene, scaling means",
+      "after": "what it claimed to convene. Scaling means",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003524",
+      "before": "And when in Warsaw,",
+      "after": "And in Warsaw,",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003624",
+      "before": "artists-made political parties",
+      "after": "artist-made political parties",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003730",
+      "before": "When discussed quite extensively with philosophers Bernard Stiegler and Tiziana Terranova, the technopolitical implication of social sculpture as when to treat the social as a body that needs to be healed, or as an abstraction to be contested.",
+      "after": "I discuss quite extensively, with philosophers Bernard Stiegler and Tiziana Terranova, the technopolitical implications of social sculpture: when to treat the social as a body that needs to be healed, or as an abstraction to be contested.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003730",
+      "before": "And I've come to think the second, there's no prior intact political body to repair.",
+      "after": "And I've come to think the second: there's no prior intact political body to repair.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003830",
+      "before": "and when I pursue the dialectics",
+      "after": "and I pursue the dialectics",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003830",
+      "before": "And when in article five,",
+      "after": "And in Article 5,",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-003924",
+      "before": "The publicity collaborations and Synthetic Summits",
+      "after": "The publicity, collaborations and Synthetic Summits",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-004415",
+      "before": "In the Resolution, which none of us had actually written, but which emerged through our talk together, it declares",
+      "after": "The Resolution, which none of us had actually written but which emerged through our talk together, declares",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005329",
+      "before": "quite different than the usual genealogy",
+      "after": "quite different from the usual genealogy",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005435",
+      "before": "all of these research materials I made, put it into AIs",
+      "after": "all of these research materials I made, put them into AIs",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005547",
+      "before": "But in the philosopher's words, which become incredibly abstract, and it doesn't really go into attacking",
+      "after": "But the philosopher's words become incredibly abstract, and he doesn't really go into attacking",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005714",
+      "before": "because else it would be motivation",
+      "after": "because otherwise it would be motivation",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005714",
+      "before": "have stopped and went somewhere else",
+      "after": "have stopped and gone somewhere else",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005916",
+      "before": "for other critical projects for where",
+      "after": "for other critical projects where",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010109",
+      "before": "this is maybe before because those traditions",
+      "after": "this is maybe because those traditions",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010151",
+      "before": "Because when I position AI in the art space or in newspapers and it has always been as this very dialectical object.",
+      "after": "I have always positioned AI in the art space or in newspapers as this very dialectical object.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010151",
+      "before": "but what also came to see was",
+      "after": "but what I also came to see was",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010436",
+      "before": "So it says here is the world's first AI political party this hasn't happened before.",
+      "after": "So it says: here is the world's first AI political party; this hasn't happened before.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010436",
+      "before": "they already know what parliamentarism is and what politics is.",
+      "after": "They already know what parliamentarism is and what politics is.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010436",
+      "before": "we didn't want to train on established political parties They",
+      "after": "we didn't want to train on established political parties. They",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010620",
+      "before": "This is, I will end this part",
+      "after": "I will end this part",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-010620",
+      "before": "I would love if you could elaborate",
+      "after": "I would love it if you could elaborate",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-011001",
+      "before": "isn't contained to democratic form",
+      "after": "isn't confined to democratic form",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-011049",
+      "before": "the descriptions he made rises still computers",
+      "after": "the descriptions he made are still of computers",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-011956",
+      "before": "different expressions that then comes from",
+      "after": "different expressions that then come from",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-012108",
+      "before": "that Synthetic Party was inserted",
+      "after": "that The Synthetic Party was inserted",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-012418",
+      "before": "and there is this there's a tragedy of theory",
+      "after": "and there is a tragedy of theory",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-000655",
+      "before": "And then I quite early also made",
+      "after": "And then, quite early on, I also made",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-000741",
+      "before": "But between the human and the digital body.",
+      "after": "But there is one between the human and the digital body.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-000952",
+      "before": "and there's... a few places we could go",
+      "after": "and there are a few places we could go",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001042",
+      "before": "I think two quite big questions.",
+      "after": "I think those are two quite big questions.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001120",
+      "before": "in my analysis of Claude Lefort, for example, the French philosopher, that democracy has",
+      "after": "in my analysis of Claude Lefort, for example, the French philosopher, democracy has",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001120",
+      "before": "when the social body dissolves into numbers",
+      "after": "the social body dissolves into numbers",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001233",
+      "before": "Many of the AI science fiction things, then it would always be something very resist for their self-preservation",
+      "after": "In many of the AI science-fiction things, it would always be something they resist for their self-preservation",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001328",
+      "before": "I can actually answer for what I have said in and therefore help guide the discussion",
+      "after": "I can actually answer for what I have said and therefore help guide the discussion",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001328",
+      "before": "and there you cannot.",
+      "after": "And there you cannot,",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001457",
+      "before": "As a human body that knows",
+      "after": "as a human body that knows",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001600",
+      "before": "I spend most of my time also reconstructing",
+      "after": "I spent most of my time also reconstructing",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-001655",
+      "before": "this long lasting cultural legacy",
+      "after": "this long-lasting cultural legacy",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002017",
+      "before": "I had a very fruitful fun with",
+      "after": "I had a lot of fruitful fun with",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002017",
+      "before": "an old sci-fi novel of Isaac Asimov",
+      "after": "an old sci-fi novel by Isaac Asimov",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002337",
+      "before": "I'm trying to make it very clear about that there's an element",
+      "after": "I'm trying to make it very clear that there's an element",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002359",
+      "before": "would have explained the technology wrong",
+      "after": "would have explained the technology incorrectly",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002747",
+      "before": "If I could have done in 2022 what the technology can do today.",
+      "after": "If I could have done in 2022 what the technology can do today?",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-002758",
+      "before": "all in the audience before he was brilliant",
+      "after": "all in the audience: he was brilliant",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-003015",
+      "before": "is very much concerned with that it's good",
+      "after": "is very much concerned with the idea that it's good",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-003419",
+      "before": "The technology and the relationship of your project",
+      "after": "The technology and its relationship to your project",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-003656",
+      "before": "Do you think they have a societal, would your preferred option be to abolish?",
+      "after": "Would your preferred option be to abolish them?",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004041",
+      "before": "systems that take bodies and turns them into numbers",
+      "after": "systems that take bodies and turn them into numbers",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004205",
+      "before": "which makes that most interventions",
+      "after": "which means that most interventions",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004434",
+      "before": "bear with me audience as well",
+      "after": "bear with me, audience, as well",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004556",
+      "before": "as actual PhD",
+      "after": "as an actual PhD",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004556",
+      "before": "on theory level",
+      "after": "on a theoretical level",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004642",
+      "before": "energetic humor that is run through that",
+      "after": "energetic humor that runs through that",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004728",
+      "before": "as an artistic research",
+      "after": "as artistic research",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004740",
+      "before": "there's six affects",
+      "after": "there are six affects",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004836",
+      "before": "I also trace that through Dr. Strangelove in Kubrick and shows",
+      "after": "I also trace that through Dr. Strangelove in Kubrick and show",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004936",
+      "before": "the farce and the grotesque always takes different forms",
+      "after": "the farce and the grotesque always take different forms",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004936",
+      "before": "to see what are the disproportion here",
+      "after": "to see what the disproportions are here",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-004936",
+      "before": "and how can we learn to act through that",
+      "after": "and how we can learn to act through that",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-005124",
+      "before": "which of course pertains to data and AI discourse",
+      "after": "which of course pertain to data and AI discourse",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-005647",
+      "before": "And that sort of like, to me, appealed most of it.",
+      "after": "And that is what appealed to me most.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-010001",
+      "before": "And you hint of the various",
+      "after": "And you hint at the various",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-010001",
+      "before": "What I was left is that",
+      "after": "What I was left with is that",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-010001",
+      "before": "or at least turns on its head",
+      "after": "or at least turns it on its head",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-010348",
+      "before": "you nicely took out it from",
+      "after": "you nicely took it out of",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-010936",
+      "before": "what you would agree?",
+      "after": "something you would agree with?",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-011516",
+      "before": "Basically the work itself and your answers, it's very heterogeneous",
+      "after": "Basically the work itself and your answers are very heterogeneous",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-011516",
+      "before": "Hence the answer to the questions where we asked about art historical references and such, I think were handled",
+      "after": "Hence the answers to the questions where we asked about art historical references and such, I think, were handled",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r2-011601",
+      "before": "And I think it's now for us time to deliberate.",
+      "after": "And I think it's now time for us to deliberate.",
+      "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
     }
   ]
 }
