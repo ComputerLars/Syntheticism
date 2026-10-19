@@ -41,7 +41,7 @@ Appendices begin on p. **326**; the English abstract occupies pp. **327–330**,
 | Recordings of the defence | [Video and audio](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/releases/tag/defence-recordings-20260921) |
 | Author-edited reading transcript: opening lecture and discussions with Jan Bäcklund, Sine Nørholm Just and Jussi Parikka; proceedings led by Stefan Iversen | [Word reading edition](transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx) · [Read on GitHub](transcript/defence-transcript.md) |
 
-The transcript follows the author’s edited reading edition. Successive paragraphs by one speaker form one turn. The Word and Markdown versions contain the same spoken text. All 202 source timestamps remain as passage anchors; elapsed time restarts for recording 2. Article and page links lead to the dissertation, and added references are distinguished from the speech. Local corrections, grammatical edits and omissions of unfinished interjections are recorded in the [editorial record](documentation/transcript-editorial.md). The reading page connects the text to listening and video copies; the original recordings remain preserved separately.
+The author-edited transcript accompanies the audio and video recordings. Timestamps restart for recording 2. Article and page references link to the dissertation. See the [edition note](documentation/transcript-editorial.md).
 
 ## Defence and degree
 
@@ -72,7 +72,7 @@ The PhD research was supported by **Novo Nordisk Fonden / the Novo Nordisk Found
 
 Staunæs, Asker Bryld. 2026. *Syntheticism: How I Learned to Love Democracy*. PhD dissertation in artistic research, Aarhus University.
 
-For the defence transcript or slides, identify the material and the event date, **21 September 2026**. Machine-readable dissertation citation metadata are provided in [CITATION.cff](CITATION.cff); event, funding and file metadata are in [metadata.json](metadata.json). File sizes and SHA-256 checksums are recorded in [FILE-MANIFEST.json](FILE-MANIFEST.json).
+For the defence transcript or slides, identify the material and the event date, **21 September 2026**. [CITATION.cff](CITATION.cff) · [Bibliographic and event metadata](metadata.json).
 
 ## Licence
 

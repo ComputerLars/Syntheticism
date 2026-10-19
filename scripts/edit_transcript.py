@@ -166,7 +166,7 @@ def build():
     doc.add_paragraph('Public defence · 21 September 2026 · Aarhus University\nReading edition','Subtitle');md.append('*Public defence · 21 September 2026 · Aarhus University · Reading edition*')
    elif index==2:
     p=doc.add_paragraph('Asker Bryld Staunæs\nKasernen, Lille Sal, Aarhus')
-    note='Successive paragraphs by one speaker form one turn. Timestamps identify elapsed time within each recording. Article numbers use numerals. Links and numbered references are editorial additions; page numbers refer to printed folios, with the PDF viewer one page ahead.'
+    note='Edited reading transcript. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.'
     doc.add_paragraph(note,'Record');md.append('Asker Bryld Staunæs  \nKasernen, Lille Sal, Aarhus');md.append(note)
     md.append('[Opening remarks](#opening-remarks) · [Opening lecture](#opening-lecture) · [Jan Bäcklund](#discussion-with-jan-bäcklund) · [Sine Nørholm Just](#discussion-with-sine-nørholm-just) · [Jussi Parikka](#discussion-with-jussi-parikka) · [References](#references)')
     doc.add_paragraph('Recording 1','Heading 1');md.append('## Recording 1')
@@ -190,7 +190,7 @@ def build():
    md.append(''.join(pieces))
  assert expected==spoken
  doc.add_paragraph('References','Heading 1');md.append('## References')
- intro='The references below locate the articles, figures and discussions mentioned during the defence. They identify the included dissertation and do not replace the speakers’ formulations with its wording.'
+ intro='Article, figure and passage references to the dissertation and related works.'
  doc.add_paragraph(intro);md.append(intro)
  doc.add_paragraph('Articles','Heading 2');md.append('### Articles')
  for n,title,authors,first,last in ARTICLES:

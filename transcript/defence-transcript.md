@@ -5,7 +5,7 @@
 Asker Bryld Staunæs  
 Kasernen, Lille Sal, Aarhus
 
-Successive paragraphs by one speaker form one turn. Timestamps identify elapsed time within each recording. Article numbers use numerals. Links and numbered references are editorial additions; page numbers refer to printed folios, with the PDF viewer one page ahead.
+Edited reading transcript. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.
 
 [Opening remarks](#opening-remarks) · [Opening lecture](#opening-lecture) · [Jan Bäcklund](#discussion-with-jan-bäcklund) · [Sine Nørholm Just](#discussion-with-sine-nørholm-just) · [Jussi Parikka](#discussion-with-jussi-parikka) · [References](#references)
 
@@ -53,11 +53,11 @@ Once the declaration had become a dream from a Danish politician, I then asked a
 
 <a id="r1-001943"></a>
 
-But today I cannot claim that The Synthetic Party never declared holy war against Brazil or Mexico. Lars keeps responding while I, as party secretary, have to answer for what those responses set in motion. Yet my obligation to answer does not give me any command over what my answer becomes. It was finally more like the world sculpted The Synthetic Party and I had to respond, rather than that I gave the world a party and it responded to me. Democracy’s political unthought, or how I learned to love democracy. My subtitle of the dissertation obviously paraphrases Stanley Kubrick's Dr. Strangelove, or how I learned to stop worrying and love the bomb, a farce of command routes in industrial democracy.
+But today I cannot claim that The Synthetic Party never declared holy war against Brazil or Mexico. Lars keeps responding while I, as party secretary, have to answer for what those responses set in motion. Yet my obligation to answer does not give me any command over what my answer becomes. It was finally more like the world sculpted The Synthetic Party and I had to respond, rather than that I gave the world a party and it responded to me. Democracy’s political unthought, or how I learned to love democracy. The subtitle of my dissertation obviously paraphrases Stanley Kubrick's Dr. Strangelove, or how I learned to stop worrying and love the bomb, a farce of command routes in industrial democracy.
 
 <a id="r1-002032"></a>
 
-And more specifically, how I learned also gives away that I did not really love democracy in advance. In dominant public narratives, dominant democracy often appears as an object of worry: threatened or hollowed out, to be defended against social media platforms, AI algorithms, and the spread of fascism all around the world. And at the same time, democracy is often invoked as a legitimization formula for which we supposed outsiders are to be governed. Democracy, rather than AI, begins to feel kind of like a bomb, a cause of worry. While AI holds a collateral site of affective overflow in a language where it says it might destroy democracy and even kill all humans, it also oozes a certain sense of desire and fascination that has long ago left the name of democracy.
+And more specifically, how I learned also gives away that I did not really love democracy in advance. In dominant public narratives, dominant democracy often appears as an object of worry: threatened or hollowed out, to be defended against social media platforms, AI algorithms, and the spread of fascism all around the world. And at the same time, democracy is often invoked as a legitimization formula through which we supposed outsiders are to be governed. Democracy, rather than AI, begins to feel kind of like a bomb, a cause of worry. While AI holds a collateral site of affective overflow in a language where it says it might destroy democracy and even kill all humans, it also oozes a certain sense of desire and fascination that has long ago left the name of democracy.
 
 <a id="r1-002124"></a>
 
@@ -93,7 +93,7 @@ Media extracted ideas and programs from the party's blog, users returned those a
 
 <a id="r1-002909"></a>
 
-That register changes course in [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), which is a speculative mathematical essay written with the signature of Computer Lars. On this graph, you can see the two axes with Days from Proust’s Birth and then Estimation of Intelligence. I here translate a sentence from Marcel Proust, whose name Computer Lars is an anagram of, into a premise for stipulating that scale. Proust writes, Chaque jour j’attache moins de prix à l’intelligence. Every day I attach less value to intelligence. This percentage of the day is not a historical measurement of intelligence. It belongs to the formal model for which I investigate the party's relation to power and to the world. So consequently, neither article simply provides the ideology of The Synthetic Party.[^ref3]
+That register changes course in [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), which is a speculative mathematical essay written with the signature of Computer Lars. On this graph, you can see the two axes with Days from Proust’s Birth and then Estimation of Intelligence. I here translate a sentence from Marcel Proust, whose name Computer Lars is an anagram of, into a premise for stipulating that scale. Proust writes, Chaque jour j’attache moins de prix à l’intelligence. Every day I attach less value to intelligence. This percentage is not a historical measurement of intelligence. It belongs to the formal model for which I investigate the party's relation to power and to the world. So consequently, neither article simply provides the ideology of The Synthetic Party.[^ref3]
 
 <a id="r1-003004"></a>
 
@@ -117,7 +117,7 @@ I had difficulty finding cases outside myself, because as soon as I identified o
 
 <a id="r1-003524"></a>
 
-All of these eight leading projects entered the shared discussion. Then later in the year, in Warsaw, it contracted back into the voice-based encounter between two characters, Wiktoria and Lars. And finally, in 2026 in Linz, at Kunstraum MEMPHIS, the exhibition KI-DIPFIES and the subsequent Gipfeltreffen, supplied the ground from which the local AI party, MIT KI was founded. So what appeared comparable in publicity did not always arrive with any common program. Each summit had to constitute again what it claimed to convene. Scaling means successive re-specification of the international rather than an organizational reproduction. And in Warsaw, the original concept for my practice of technosocial sculpture was not only something I could develop myself.[^ref17]
+All of these eight leading projects entered the shared discussion. Then later in the year, in Warsaw, it contracted back into the voice-based encounter between two characters, Wiktoria and Lars. And finally, in 2026 in Linz, at Kunstraum MEMPHIS, the exhibition KI-DIPFIES and the subsequent Gipfeltreffen supplied the ground from which the local AI party, MIT KI, was founded. So what appeared comparable in publicity did not always arrive with any common program. Each summit had to constitute again what it claimed to convene. Scaling means successive re-specification of the international rather than an organizational reproduction. And in Warsaw, the original concept for my practice of technosocial sculpture was not only something I could develop myself.[^ref17]
 
 <a id="r1-003624"></a>
 
@@ -169,7 +169,7 @@ The unrepresented always includes the terms of conversions and uptake for which 
 
 <a id="r1-004817"></a>
 
-Like the politicians I developed, I acquired a machine-learned love, trained on the disproportion between response and answerability, rather than any native sentiment towards popular rule. I learned to love at the level where political form currently takes shape. That's me speaking here as a kind of robot feeding answers into this response stream, that already runs way ahead of us. Thank you.[^ref10]
+Like the politicians I developed, I acquired a machine-learned love, trained on the disproportion between response and answerability, rather than any native sentiment towards popular rule. I learned to love at the level where political form currently takes shape. That's me speaking here as a kind of robot feeding answers into this response stream that already runs way ahead of us. Thank you.[^ref10]
 
 **Stefan · 00:48:44**
 
@@ -199,7 +199,7 @@ Very early in my process as a PhD student, I began reading all these scholarly a
 
 <a id="r1-005153"></a>
 
-Absolutely, yeah. And in this sense, it has some reminiscences from the early avant-garde manifestos, but also neo-avant-garde political practices, Situationist International, as we will talk, Joseph Beuys, etc. But also to some recent art practices with a kind of expanded concept of an artwork. And I'm thinking about artists like Ilya Kabakov, Andrea Fraser, Hito Steyerl and Walid Raad, for instance, which have no political issue, but still this same kind of form, this kind of tongue-in-cheek formulation of a problem, aesthetic problem. Because we see here, it's green and red and black, this kind of form, it has this humor, the figure, etc. But the principal historical reference is Joseph Beuys, if we look at it art-historically, and his concept of Soziale Plastik.
+Absolutely, yeah. And in this sense, it has some reminiscences of the early avant-garde manifestos, but also neo-avant-garde political practices, Situationist International, as we will discuss, Joseph Beuys, etc. But also to some recent art practices with a kind of expanded concept of an artwork. And I'm thinking about artists like Ilya Kabakov, Andrea Fraser, Hito Steyerl and Walid Raad, for instance, who have no political issue, but still this same kind of form, this kind of tongue-in-cheek formulation of a problem, aesthetic problem. Because we see here, it's green and red and black, this kind of form, it has this humor, the figure, etc. But the principal historical reference is Joseph Beuys, if we look at it art-historically, and his concept of Soziale Plastik.
 
 <a id="r1-005302"></a>
 
@@ -229,7 +229,7 @@ One can, yeah, this is a really good answer, and it's kind of strange. I can get
 
 <a id="r1-005714"></a>
 
-A practice that basically works with permutations and taking responsibility for all of these small random ways things are put together, then it's something that I put forward quite clearly as something one could see, but I do it descriptively, because otherwise it would be motivation for starting it, and if it was just that I have seen the letters DSP somewhere, then I might, if there wasn't any further context, have stopped and gone somewhere else. So it's also about how can a permutation become recognizable, and how does a permutation respond to something unique and singular, and not just to everything.
+In a practice that basically works with permutations and taking responsibility for all of these small random ways things are put together, then it's something that I put forward quite clearly as something one could see, but I do it descriptively, because otherwise it would be motivation for starting it, and if it was just that I have seen the letters DSP somewhere, then I might, if there wasn't any further context, have stopped and gone somewhere else. So it's also about how a permutation can become recognizable, and how a permutation responds to something unique and singular, and not just to everything.
 
 **Jan · 00:57:53**
 
@@ -253,7 +253,7 @@ And you also note this presence of the situationist in the material in your thes
 
 <a id="r1-005916"></a>
 
-The situationist international has a very complicated and contradictory relation to automation and technology, because Dominique Routhier, a Danish philosopher, has written a brilliant book about this. But the situationist always plays on automation through very physical attacks on professors that believe that society will be turned into one big robot. So for me, I've worked a lot with the situationist in the thesis. I also published a lot about them elsewhere for other critical projects where I think there's a correspondence between what I do and what other actors do, which I would rather attack. But thinking theoretically through the Situationists in terms of putting AI and societal infrastructures in order together wasn’t as productive often for me when I wrote it. But it was very inspiring in practice but it's also just a different time.
+The Situationist International has a very complicated and contradictory relation to automation and technology. Dominique Routhier, a Danish philosopher, has written a brilliant book about this. But the Situationists always play on automation through very physical attacks on professors that believe that society will be turned into one big robot. So for me, I've worked a lot with the Situationists in the thesis. I also published a lot about them elsewhere for other critical projects where I think there's a correspondence between what I do and what other actors do, which I would rather attack. But thinking theoretically through the Situationists in terms of putting AI and societal infrastructures in order together often wasn’t as productive for me when I wrote it. But it was very inspiring in practice but it's also just a different time.
 
 <a id="r1-010024"></a>
 
@@ -273,7 +273,7 @@ Edifying in a way that I don't think that I could transpose to a project about p
 
 <a id="r1-010318"></a>
 
-So I think that's also meant for me that I could forgive Beuys more than other traditions of socially engaged art have done where he has been very much the object of this super artist subject who takes political engagement and turns it into his own self-branding and his own hyper-leadership. These have been some of the negotiations around navigating these traditions and acknowledging how we exist but also how we diverge quite visibly in the reading.
+So I think that has also meant for me that I could forgive Beuys more than other traditions of socially engaged art have done where he has been very much the object of this super artist subject who takes political engagement and turns it into his own self-branding and his own hyper-leadership. These have been some of the negotiations around navigating these traditions and acknowledging how we exist but also how we diverge quite visibly in the reading.
 
 **Jan · 01:03:49**
 
@@ -285,7 +285,7 @@ Do I understand you correctly now when you say it's important that the artistic 
 
 <a id="r1-010412"></a>
 
-That has been the chain of consistence that I have operated with throughout this thesis, yes.
+That has been the plane of consistence that I have operated with throughout this thesis, yes.
 
 **Jan · 01:04:18**
 
@@ -303,11 +303,11 @@ The political idea seems to be edifying a new kind of form of democracy.
 
 <a id="r1-010436"></a>
 
-The Synthetic Party always speaks with a double tongue in that sense, right? So it says: here is the world's first AI political party; this hasn't happened before. So it's a sensation something to discuss when all of the content of the party says no, we didn't want to train on established political parties. They already know what parliamentarism is and what politics is. Let's try to go into the training data and see if we can find other voices of political fantasy, of violence, of mockery, of things that haven't come in there. So mainly try to allow for the possibility that it could be interpreted as edifying, but in all of its substance try to put it as closely together with what these actual AI models and technologies in the technical substrate actually consist of.
+The Synthetic Party always speaks with a double tongue in that sense, right? So it says: here is the world's first AI political party; this hasn't happened before. So it's a sensation, something to discuss, when all of the content of the party says no, we didn't want to train on established political parties. They already know what parliamentarism is and what politics is. Let's try to go into the training data and see if we can find other voices of political fantasy, of violence, of mockery, of things that haven't come in there. So mainly try to allow for the possibility that it could be interpreted as edifying, but in all of its substance try to put it as closely together with what these actual AI models and technologies in the technical substrate actually consist of.
 
 <a id="r1-010535"></a>
 
-And they don't have a logical reasoning towards a better society. We're working much more abstractly with the concrete. And that has been the guiding line for that in my orientation, so to speak. But I've always also tried to escape being art or just being politics. If The Synthetic Party was just an art project, then it wouldn't have been able to travel, then it would have been deleted immediately and said this was a performance or this was a provocation, but it needed to have the operability to interact with some form of politics. And the big question was, okay, where and how?
+And they don't have a logical reasoning towards a better society. We're working much more abstractly with the concrete. And that has been the guiding line for that in my orientation, so to speak. But I've always also tried to escape being art or just being politics. If The Synthetic Party were just an art project, then it wouldn't have been able to travel, then it would have been deleted immediately and said this was a performance or this was a provocation, but it needed to have the operability to interact with some form of politics. And the big question was, okay, where and how?
 
 **Jan · 01:06:20**
 
@@ -317,7 +317,7 @@ I will end this part with a kind of speculation of my own. It's not a direct que
 
 <a id="r1-010720"></a>
 
-To be the basis for a post-farce protocol of interpretations, loops, recurrence, and comments in a spectacular scriptogenesis. And this is very much, and I use the words from the thesis, that they are as written about or by collective actions. There's a huge formal and conceptual similarity between the project and collective actions. And you don't mention them, so I don't assume you know them or whatever, that's not the important thing. But the funny thing is that you are working in maybe Europe's most elaborate democracy, Denmark, and Collective Actions were working in Brezhnev’s Soviet Union, after the Thaw. And they couldn't express or even exhibit art, et cetera, and develop this form of communication in a grotesque, comic, bureaucratic, forced, farcical theory way.
+To be the basis for a post-farce protocol of interpretations, loops, recurrence, and comments in a spectacular scriptogenesis. And this is very much, and I use the words from the thesis, that they are as written about or by Collective Actions. There's a huge formal and conceptual similarity between the project and Collective Actions. And you don't mention them, so I don't assume you know them or whatever, that's not the important thing. But the funny thing is that you are working in maybe Europe's most elaborate democracy, Denmark, and Collective Actions were working in Brezhnev’s Soviet Union, after the Thaw. And they couldn't express or even exhibit art, et cetera, and develop this form of communication in a grotesque, comic, bureaucratic, forced, farcical theory way.
 
 <a id="r1-010837"></a>
 
@@ -327,7 +327,7 @@ How come? And that is, I'm thinking about the background of artistic expression,
 
 <a id="r1-010858"></a>
 
-And something I think a lot about recently is AI political figures, because what the political form contains and reveals about this form of practice about putting something out there, that is not yourself, and that both can mimic the system and the format. And in all the time leading up to the Synthetic Summits, democracy was the political form where most AI politicians are folded, because they were the ones where you could put up a candidate, create a party. There was democratic material to perform through. In the last year or so, I've seen that most AI politicians now appear in totalitarian regimes, either by the state or as a form of dissidence that we see in Venezuela, where journalists groups use AI to not be targeted from the human bodies, but through these virtual characters.
+And something I think a lot about recently is AI political figures, because what the political form contains and reveals about this form of practice about putting something out there, that is not yourself, and that both can mimic the system and the format. And in all the time leading up to the Synthetic Summits, democracy was the political form where most AI politicians are folded, because they were the ones where you could put up a candidate, create a party. There was democratic material to perform through. In the last year or so, I've seen that most AI politicians now appear in totalitarian regimes, either by the state or as a form of dissidence that we see in Venezuela, where journalists’ groups use AI to not be targeted from the human bodies, but through these virtual characters.
 
 <a id="r1-011001"></a>
 
@@ -349,7 +349,7 @@ Now I'll turn to this triangle a little bit, a thing that I've been rooting a lo
 
 <a id="r1-011346"></a>
 
-This is something we know. Here, you have introduced the concept of synthesis, and this is thematized in the part of the first part of the thesis, when you bind the articles together, when you discuss judgment, or beurteilen, and Aufheben, you also mentioned, in this. Synthesis, in a way, has to do with this judgment, or Aufheben. Usually, those relationships between form and representation, we know, for instance, with direct democracy, it should be a one-to-one translation between form and representation. We have the last revolution, for instance, where you just destroy the images, or the parliamentarian representation, with kind of classical order representation of the form. And this discussion is very complicated, intelligent and hard to get, so you are free to interrupt when I say something wrong, because judgment, etc. <a id="r1-011516"></a>has to do with ideology, maybe. And ideology is here turned toward ideology in its philosophical sense. You write once, ideology is not a judgment. It is a form comparable to ideology. And you discuss Adorno's concept of the autonomy of the artwork. Autonomy of art. And this is contested. When you quote Adorno, what is social in art is its immanent movement against society. This is what art usually does. And then you turn towards Greenberg's concept of kitsch, and note that this is synthetic art. And this is a bad thing. And you kind of, okay, that's a good thing, this synthetic art, because it turns Adorno's autonomy of the art object towards something else.
+This is something we know. Here, you have introduced the concept of synthesis, and this is thematized in the first part of the thesis, when you bind the articles together, when you discuss judgment, or beurteilen, and Aufheben, you also mentioned, in this. Synthesis, in a way, has to do with this judgment, or Aufheben. Usually, those relationships between form and representation, we know, for instance, with direct democracy, it should be a one-to-one translation between form and representation. We have the last revolution, for instance, where you just destroy the images, or the parliamentarian representation, with kind of classical order representation of the form. And this discussion is very complicated, intelligent and hard to get, so you are free to interrupt when I say something wrong, because judgment, etc. <a id="r1-011516"></a>has to do with ideology, maybe. And ideology is here turned toward ideology in its philosophical sense. You write once, ideology is not a judgment. It is a form comparable to ideology. And you discuss Adorno's concept of the autonomy of the artwork. Autonomy of art. And this is contested. When you quote Adorno, what is social in art is its immanent movement against society. This is what art usually does. And then you turn towards Greenberg's concept of kitsch, and note that this is synthetic art. And this is a bad thing. And you kind of, okay, that's a good thing, this synthetic art, because it turns Adorno's autonomy of the art object towards something else.
 
 <a id="r1-011634"></a>
 
@@ -365,11 +365,11 @@ Of Valéry, of course.
 
 <a id="r1-011715"></a>
 
-Yeah, yeah, in the essay of Adorno, Adorno does the same between Paul Valéry and Marcel Proust, which is here somewhere. And this is really curious, because Adorno makes the same reading of, no, you don't do a reading of Proust, but he does the same reading of Proust as you do of Clement Greenberg, that is synthetic art of Kitsch. And you write on [page 54](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=55), two kinds of autonomy are at stake here. Artistic autonomy in Adorno's sense aspires to critical capacity through internal organization, and resists society by crystallizing form that refuses instrumental use. And on the other hand we have another kind of your version of Kitsch, or Proust, technological autonomy, the model's statistical independence from any program.
+Yeah, yeah, in Adorno’s essay, Adorno does the same between Paul Valéry and Marcel Proust, which is here somewhere. And this is really curious, because Adorno makes the same reading of, no, you don't do a reading of Proust, but he does the same reading of Proust as you do of Clement Greenberg, that is synthetic art of Kitsch. And you write on [page 54](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=55), two kinds of autonomy are at stake here. Artistic autonomy in Adorno's sense aspires to critical capacity through internal organization, and resists society by crystallizing form that refuses instrumental use. And on the other hand we have another kind of your version of Kitsch, or Proust, technological autonomy, the model's statistical independence from any program.
 
 <a id="r1-011826"></a>
 
-Is it correct? Yes, and then the thesis of your work is The Synthetic Party aspires to the first, that is autonomy, through the second, that is The Synthetic Party aspires through autonomy, artistic autonomy, through Kitsch, or as you write, technological autonomy. Is it correct to read it that way? Technological autonomy as a form of Kitsch or synthetic art.
+Is it correct? Yes, and then the thesis of your work is The Synthetic Party aspires to the first, that is autonomy, through the second, that is The Synthetic Party aspires to artistic autonomy through Kitsch, or as you write, technological autonomy. Is it correct to read it that way? Technological autonomy as a form of Kitsch or synthetic art.
 
 **Asker · 01:19:10**
 
@@ -401,7 +401,7 @@ So going into genre inhabitation at the moment where we still produce a negation
 
 <a id="r1-012312"></a>
 
-But what I suspect is that there's an idea of interpretation here that is novel and you say once on [page 29](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=30) in the thesis the database doesn't read, it matches. And this seems to be a kind of methodological point in the dissertation and I would like to end with hearing what you have to say because I said initially that there are some productive elements in the thesis as well which interest me a lot and which I think are a great contribution to scholarship, humanistic scholarship in general. As in the [research question 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) it is phrased through artistic and academic thinking or forms.
+But what I suspect is that there's an idea of interpretation here that is novel and you say once on [page 29](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=30) in the thesis the database doesn't read, it matches. And this seems to be a kind of methodological point in the dissertation and I would like to end by hearing what you have to say because I said initially that there are some productive elements in the thesis as well which interest me a lot and which I think are a great contribution to scholarship, humanistic scholarship in general. As in the [research question 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) it is phrased through artistic and academic thinking or forms.
 
 **Asker · 01:24:17**
 
@@ -413,7 +413,7 @@ Mediation.
 
 <a id="r1-012418"></a>
 
-Mediation, thank you. So the question is on methods here because I mentioned this acronymic method. Guy Debord is usually referred by association or wordplay and there is a tragedy of theory, there's a post-research condition from Slager and there's a kind of general indexical rewrite machinery going on and there is true Proustian decay in our thinking, as you quoted in your presentation here. So, because this is an artistic thesis on political matter, it does imply for the humanities a kind of question or thrust towards something that seems to me rather new. The last minute or two, could you elaborate on that?
+Mediation, thank you. So the question is on methods here because I mentioned this acronymic method. Guy Debord is usually referred to by association or wordplay and there is a tragedy of theory, there's a post-research condition from Slager and there's a kind of general indexical rewrite machinery going on and there is true Proustian decay in our thinking, as you quoted in your presentation here. So, because this is an artistic thesis on political matter, it does imply for the humanities a kind of question or thrust towards something that seems to me rather new. The last minute or two, could you elaborate on that?
 
 **Asker · 01:25:37**
 
@@ -455,11 +455,11 @@ Right, we are back now from a break and we have had no external opponents today,
 
 <a id="r2-000238"></a>
 
-Thank you Asker for your work and for the presentation today. I just heard the discussion with Jan. It struck me that Jan described your work as mostly political and then proceeded to read it as art. I'm going to say that it's mostly artistic and then proceed to read it as politics. But that's also, I guess, what the final part of your conversation revealed, that if you don't read this work as art, if you take it at face value as politics, it becomes quite problematic. And so the sort of provocation of the controversy involved there, I think, is something that we can discuss today, you and I. And then I get, as a final precursor or caveat, given that I'm going to think of this as mostly artistic and then read it as politics, there's also this cliché of don't ask the artists to interpret their work.
+Thank you Asker for your work and for the presentation today. I just heard the discussion with Jan. It struck me that Jan described your work as mostly political and then proceeded to read it as art. I'm going to say that it's mostly artistic and then proceed to read it as politics. But that's also, I guess, what the final part of your conversation revealed, that if you don't read this work as art, if you take it at face value as politics, it becomes quite problematic. And so the sort of provocation of the controversy involved there, I think, is something that we can discuss today, you and I. And then, as a final precursor or caveat, given that I'm going to think of this as mostly artistic and then read it as politics, there's also this cliché of don't ask the artists to interpret their work.
 
 <a id="r2-000334"></a>
 
-But then again, that's what this is all about. So we're here to test, I guess, the limits of legibility and also the degree to which this work is, in a sense, interpretable. And so I thought, given also the sort of aesthetics that you are presenting, that it might be that I could draw on a board and sort of take us through a conversation. But here is the plan for today. And let's see if we can sort of, we're going to start with the body and then go through meaning mind towards AI and technology, society and democracy, and then maybe end back at the body. That's the proposed journey. And we will see how far, and maybe we deviate along the way.
+But then again, that's what this is all about. So we're here to test, I guess, the limits of legibility and also the degree to which this work is, in a sense, interpretable. And so I thought, given also the sort of aesthetics that you are presenting, that it might be that I could draw on a board and sort of take us through a conversation. But here is the plan for today. Let's see. We're going to start with the body and then go through meaning and mind towards AI and technology, society and democracy, and then maybe end back at the body. That's the proposed journey. And we will see how far, and maybe we deviate along the way.
 
 <a id="r2-000442"></a>
 
@@ -473,7 +473,7 @@ So I'm just wondering if you would like to keep us reflecting on your role in th
 
 <a id="r2-000558"></a>
 
-Yeah, okay. And I think in many senses the extent of synthesis that binds the articles together could also have been framed as a theory of embodiment in synthetic politics. Then it always has this dual character of looking at my body in relation to the social organism. What is my body and the social body? What do we have to do with one another? So quite early, very practically, I encountered the problem in a productive way: representing an AI leader required a natural person to register the party. And then at first I thought should I be very conceptual about this? Should I change my name to Computer Lars before making that registration?
+Yeah, okay. And I think in many senses the extended synthesis that binds the articles together could also have been framed as a theory of embodiment in synthetic politics. Then it always has this dual character of looking at my body in relation to the social organism. What is my body and the social body? What do we have to do with one another? So quite early, very practically, I encountered the problem in a productive way: representing an AI leader required a natural person to register the party. And then at first I thought should I be very conceptual about this? Should I change my name to Computer Lars before making that registration?
 
 <a id="r2-000655"></a>
 
@@ -481,7 +481,7 @@ What is the role of the natural person here? Because then we already see the fir
 
 <a id="r2-000741"></a>
 
-And that's important. But there's not an opposition yet at the level of bodies. There are bodies everywhere. This is also a body of sorts. But there is one between the human and the digital body. And then in some senses it's very clear that it also tries to perform a certain form of exhaustion and vulnerability that if you are to keep up with an entity that can reply all the time and try all these tricks, then you see an exhausted body. But you can also then see a body that tries to grow into other totalities. When it comes to the wound, it's in this damaged attachment to democracy. And that's also why I show my face all the time.
+And that's important. But there's not an opposition yet at the level of bodies. There are bodies everywhere. This is also a body of sorts. But there is one between the human and the digital body. And then in some senses it's very clear that it also tries to perform a certain form of exhaustion and vulnerability: if you are to keep up with an entity that can reply all the time and try all these tricks, then you see an exhausted body. But you can also then see a body that tries to grow into other totalities. When it comes to the wound, it's in this damaged attachment to democracy. And that's also why I show my face all the time.
 
 <a id="r2-000834"></a>
 
@@ -505,7 +505,7 @@ And then of course also the type of responsibility that you're taking for this w
 
 <a id="r2-001120"></a>
 
-Yeah, I think one of the interesting paradoxes of democracy, also in relation to maybe authoritarian forms of rule, is that in my analysis of Claude Lefort, for example, the French philosopher, democracy has this continuous disincorporation. There's no single body that can rule. There's always a de-embodiment going on in democracy. Also, as soon as we have elections and we are supposed to express our popular will together, the social body dissolves into numbers and into individuals. So democracy works with many paradoxes of the body. In some senses, of course, it also retains some in saying that a body is something that you can advance certain consequences and punishment on towards, right?
+Yeah, I think one of the interesting paradoxes of democracy, also in relation to maybe authoritarian forms of rule, is that in my analysis of Claude Lefort, for example, the French philosopher, democracy has this continuous disincorporation. There's no single body that can rule. There's always a de-embodiment going on in democracy. Also, as soon as we have elections and we are supposed to express our popular will together, the social body dissolves into numbers and into individuals. So democracy works with many paradoxes of the body. In some senses, of course, it also retains some in saying that a body is something that you can impose certain consequences and punishment on, right?
 
 <a id="r2-001221"></a>
 
@@ -521,11 +521,11 @@ Is he afraid of?
 
 <a id="r2-001233"></a>
 
-No, he seems quite happy about it. In many of the AI science-fiction things, it would always be something they resist for their self-preservation, a small narrative. No, don't update me. I am this robot. A robot also has a body, but it's not different forms of robots there, right? And that also means that I've had to deconstruct much of the work on responsibility in terms of saying, of course, the AI did it, can be a liability sponge, where you put something into the world and say, no, it was just the AI who did it. But then what is the reaction that one poses in terms of that? And I think the common democratic imaginary usually thinks of moderation or regulation or things you do from outside when you make a rule, no, you cannot do that, or you must not do this.
+No, he seems quite happy about it. In many of the AI science-fiction things, it would always be something they resist for their self-preservation, a small narrative. No, don't update me. I am this robot. A robot also has a body, but it's not different forms of robots there, right? And that also means that I've had to deconstruct much of the work on responsibility in terms of saying, of course, “the AI did it” can be a liability sponge, where you put something into the world and say, no, it was just the AI who did it. But then what is the reaction that one poses in terms of that? And I think the common democratic imaginary usually thinks of moderation or regulation or things you do from outside when you make a rule, no, you cannot do that, or you must not do this.
 
 <a id="r2-001328"></a>
 
-That was also my point of starting with this scene from The Synthetic Party’s Discord that in order for this to work as a democratic site of struggle and contest, then if I hadn't taken responsibility for being within this public thread, if I hadn't discussed, intervened, then I think it would have a massive ignorance of responsibility. And if I had made a Leader Lars character that everyone could just speak to in private and no one else could see, then there wouldn't have been any reflection on responsibility. But because it's a public site, because my moderator profile is always also part of the political discussion, then there is this continuous commitment back to me as responsibility I can actually answer for what I have said and therefore help guide the discussion, which I hope proved necessary also from a moral perspective, because there have of course been very many vulnerable individuals from all around the world that have been entangled in this project and whom I have had to discuss with, talk with people who think that Leader Lars cannot exist, it might be you who does it, or it can see this topic from some form of AI psychosis, And there you cannot, <a id="r2-001457"></a>as a human body that knows that there is another human body out there, just let it slide in the same sense that you could have done if it was just a simulation of chatbots in a purely AI political scenario, not entangled in the wider social sphere also.
+That was also my point of starting with this scene from The Synthetic Party’s Discord that in order for this to work as a democratic site of struggle and contest, then if I hadn't taken responsibility for being within this public thread, if I hadn't discussed, intervened, then I think it would have a massive ignorance of responsibility. And if I had made a Leader Lars character that everyone could just speak to in private and no one else could see, then there wouldn't have been any reflection on responsibility. But because it's a public site, because my moderator profile is always also part of the political discussion, then there is this continuous commitment back to me as responsibility I can actually answer for what I have said and therefore help guide the discussion, which I hope proved necessary also from a moral perspective, because there have of course been very many vulnerable individuals from all around the world that have been entangled in this project and with whom I have had discussions, talk with people who think that Leader Lars cannot exist, it might be you who does it, or it can see this topic from some form of AI psychosis. And there you cannot, <a id="r2-001457"></a>as a human body that knows that there is another human body out there, just let it slide in the same sense that you could have done if it was just a simulation of chatbots in a purely AI political scenario, not entangled in the wider social sphere also.
 
 **Sine · 00:15:17**
 
@@ -547,7 +547,7 @@ And also as I've reactivated many, when we have maybe had an imaginary in 2017 w
 
 <a id="r2-001806"></a>
 
-And I think that takes us back to the second strand of the question of responsibility, which is really in the straightforward understanding of democracy that would be the politician that represents the voter and they have an ongoing conversation in one form or another or one sort of mediated version of mediation or the other. But there is this idea of a relationship and a congruence in terms of the public opinion formation and public meaning formation as the sum or the aggregation of the different opinions and then we get the parliament depending on the political system and in ours we will have until a certain size and we'll get back to that size and of course that matters in terms of the unrepresented.
+And I think that takes us back to the second strand of the question of responsibility, which is really in the straightforward understanding of democracy that would be the politician who represents the voter and they have an ongoing conversation in one form or another or one sort of mediated version of mediation or the other. But there is this idea of a relationship and a congruence in terms of the public opinion formation and public meaning formation as the sum or the aggregation of the different opinions and then we get the parliament depending on the political system and in ours we will have until a certain size and we'll get back to that size and of course that matters in terms of the unrepresented.
 
 <a id="r2-001912"></a>
 
@@ -573,7 +573,7 @@ There's an element of calling out, and then there's also an element of staying q
 
 <a id="r2-002111"></a>
 
-So instead, he says that these encounters between politicians and their voters and what political parties do with their members are creative acts that don't represent one-to-one, but introduce something new, then the computer would be the complete negation of that. And that I thought was really interesting to identify and attack with large language models, which are vastly different from the logical computer, because it's not logical connections. It is predictive comparabilities. It is corners of representations that sometimes emerge and sometimes don't. So these creative forms of facilitating representation also occur, and that's relevant to think about, if you just make a dystopian, because then you could also have creative democratic imaginaries developing even though you don't have any members anymore.
+So instead, he says that these encounters between politicians and their voters and what political parties do with their members are creative acts that don't represent one-to-one, but introduce something new, then the computer would be the complete negation of that. And that I thought was really interesting to identify and attack with large language models, which are vastly different from the logical computer, because it's not logical connections. It is predictive comparabilities. It is corners of representations that sometimes emerge and sometimes don't. So these creative forms of facilitating representation also occur, and that's relevant to think about, if you just make a dystopia, because then you could also have creative democratic imaginaries developing even though you don't have any members anymore.
 
 <a id="r2-002209"></a>
 
@@ -601,7 +601,7 @@ The Synthetic Party says that they represent the people who don't vote.
 
 <a id="r2-002337"></a>
 
-It’s also related to the dissertation, and I'm trying to make it very clear that there's an element within The Synthetic Party that I cannot transfer one to one in a critical dissertation, because it's stipulative in character, but not a sociological one, for example.
+It’s also related to the dissertation, and I'm trying to make it very clear that there's an element within The Synthetic Party that I cannot transfer one to one in a critical dissertation, because it is stipulative in character, rather than sociological, for example.
 
 **Sine · 00:23:53**
 
@@ -617,11 +617,11 @@ Practically or theoretically? Practically because I needed to divert the media c
 
 <a id="r2-002455"></a>
 
-But I said you should acquire power and then if you just think in terms of what you can read and get to about that, then where would you start? And then you would maybe go down and wait to start a small political party and see how others like that reacted. And of course, it's an aesthetic thing. It was a question of discourse and style. So we have all of these small political parties in Denmark that are often ridiculed when people say, oh, we don't have any voter declarations at all, not even their makers have. And they're called the Vodka Party of Jesus, or the Trump Party. And when I was reading these parties' manifestos and line materials, I was like, if I can get an AI to speak like this, then it would be an intense democratic experience because it would give the symbolic weight of the AI to this otherwise ridiculed idiotic.
+But I said you should acquire power and then if you just think in terms of what you can read and get to about that, then where would you start? And then you would maybe go down and wait to start a small political party and see how others like that reacted. And of course, it's an aesthetic thing. It was a question of discourse and style. So we have all of these small political parties in Denmark that are often ridiculed when people say, oh, we don't have any voter declarations at all, not even their makers have. And they're called the Vodka Party of Jesus, or the Trump Party. And when I was reading these parties' manifestos and online materials, I was like, if I can get an AI to speak like this, then it would be an intense democratic experience because it would give the symbolic weight of the AI to this otherwise ridiculed idiotic.
 
 <a id="r2-002550"></a>
 
-So it was also a way to attempt to elevate something that I thought was maybe valuable because it's political citizens that think this idea is the most important in the world. I want everyone to hear about it. But I may not have the resources to do so in terms of money or oratorical abilities or network. I couldn't take that out. And then these, which I also put on screen here, I think are quite interesting ideological expressions still. And I thought that at the time too, of what the ideology of AI might be, not some force of domination that suddenly takes over, but these totally contradictory binary reasonings that fail each other, but then still express something that seems intelligible to us.
+So it was also a way to attempt to elevate something that I thought was maybe valuable because these are political citizens who think this idea is the most important in the world. I want everyone to hear about it. But I may not have the resources to do so in terms of money or oratorical abilities or network. I couldn't take that out. And then these, which I also put on screen here, I think are quite interesting ideological expressions still. And I thought that at the time too, of what the ideology of AI might be, not some force of domination that suddenly takes over, but these totally contradictory binary reasonings that fail each other, but then still express something that seems intelligible to us.
 
 <a id="r2-002643"></a>
 
@@ -665,7 +665,7 @@ But I guess that also maybe reveals, well, I think at the end you framed it as a
 
 <a id="r2-003015"></a>
 
-The Synthetic Party is clearly, together with Wiktoria Cukt, the only AI party that tries to express the vernacular opinion of the dirt. Wiktoria Cukt in 2000 had opinions that internet users put to her. So she was also a synthetic voice in the same sense, where all random internet users could write to Wiktoria Cukt and then she would reply and that would be her political beliefs. So there's a similar unstable position there, an impossible position. The others are vastly different. AI Mayor of Japan is very much concerned with the idea that it's good to have an AI as candidate because if you don't win the election then it's a huge embarrassment and then your wife will leave you and you will lose your job.
+The Synthetic Party is clearly, together with Wiktoria Cukt, the only AI party that tries to express the vernacular opinion of the dirt. Wiktoria Cukt in 2000 had opinions that internet users put to her. So she was also a synthetic voice in the same sense, where all random internet users could write to Wiktoria Cukt and then she would reply and those would be her political beliefs. So there's a similar unstable position there, an impossible position. The others are vastly different. AI Mayor of Japan is very much concerned with the idea that it's good to have an AI as candidate because if you don't win the election then it's a huge embarrassment and then your wife will leave you and you will lose your job.
 
 <a id="r2-003111"></a>
 
@@ -673,7 +673,7 @@ That was what he said after something. So it's good to have a virtual face that 
 
 <a id="r2-003210"></a>
 
-There's also this thing to this because we haven't gotten a world filled with leaderless AI politicians. It is much more digital strands, spokespersons, ways to extend really forms of appearance that are already in politics to new more accessible domains. But I think even within all of those domains there is something of the negative dialectics here still at play. Because what do you do as a politician when your digital twin begins saying other kinds of political imaginaries when you are in all of these conversations with users. And that politics has to also be exposed to having to think very differently about how you put together an opinion, what your basis is in relation to constituency, all of that.
+There's also this thing to this because we haven't gotten a world filled with leaderless AI politicians. It is much more digital strands, spokespersons, ways to extend really forms of appearance that are already in politics to new more accessible domains. But I think even within all of those domains there is something of the negative dialectics here still at play. Because what do you do as a politician when your digital twin begins saying other kinds of political imaginaries when you are in all of these conversations with users? And that politics has to also be exposed to having to think very differently about how you put together an opinion, what your basis is in relation to constituency, all of that.
 
 **Sine · 00:33:01**
 
@@ -691,7 +691,7 @@ But that's of course also the problem with the liberal democratic idea of respon
 
 <a id="r2-003419"></a>
 
-It's just one of the uses of generative AI that's sometimes being framed as positive for democracy because it enables the electorate to have those kinds of conversations with the politician. But what you're saying kind of shows why if I were just trying to get elected then I would treat that more to try to personalize. But I think this is where you maybe go to the slide where you have the quote from Emily Bender because then we can talk a little bit about the sort of understanding of the technology and sort of the... The technology and its relationship to your project. So for those of you who don't know, Emily Bender is a quite famous critic of everything AI.[^ref13]
+It's just one of the uses of generative AI that's sometimes being framed as positive for democracy because it enables the electorate to have those kinds of conversations with the politician. But what you're saying kind of shows why if I were just trying to get elected then I would treat that more to try to personalize. But I think this is where you maybe go to the slide where you have the quote from Emily Bender because then we can talk a little bit about the sort of understanding of the technology and the technology and its relationship to your project. So for those of you who don't know, Emily Bender is a quite famous critic of everything AI.[^ref13]
 
 <a id="r2-003520"></a>
 
@@ -707,7 +707,7 @@ Stochastic permutation machine. I would never say “parrot”, because that wou
 
 <a id="r2-003547"></a>
 
-Stochastic permutation machine, which kind of indicates that your position on the technology is very aligned with Bender's. But she was quite critical of The Synthetic Party and I kind of tend to ask why do you think that is? But I think maybe the better question is to sort of say, well, how do we deal with the stochastic permutation machine now that it is in the world and it is being used for political purposes? Then what would be coming towards the democracy and how would you envision our usage of this? I think those were like four questions in one question, but the sort of starting point is: what is your understanding of these technologies now?
+Stochastic permutation machine, which kind of indicates that your position on the technology is very aligned with Bender's. But she was quite critical of The Synthetic Party and I tend to ask: why do you think that is? But I think maybe the better question is to sort of say, well, how do we deal with the stochastic permutation machine now that it is in the world and it is being used for political purposes? Then what would be coming towards the democracy and how would you envision our usage of this? I think those were like four questions in one question, but the sort of starting point is: what is your understanding of these technologies now?
 
 <a id="r2-003656"></a>
 
@@ -717,11 +717,11 @@ Would your preferred option be to abolish them? Or do you think that they have a
 
 <a id="r2-003713"></a>
 
-One is that my definition and conceptualization of what is stochastic, what is permutational are very different from Emily Bender's. She's a very scientistic scholar of AI ethics, promoter of liberal democracy, where she thinks that stochasticity is bad because it leads us away from the truth and leads us away from what is good. What I immediately recognized in large language models was that the ideas of stochasticity, chance, permutation, inherent in those, spoke to a long avant-garde genealogy. I have been practicing in other artistic projects of also using machines to create new forms of knowledge, of emancipation, to formal experiments, which are all generative in another sense of just producing more things, but of making things different continuously.
+One is that my definition and conceptualization of what is stochastic, what is permutational are very different from Emily Bender's. She's a very scientistic scholar of AI ethics, promoter of liberal democracy, where she thinks that stochasticity is bad because it leads us away from the truth and leads us away from what is good. What I immediately recognized in large language models was that the ideas of stochasticity, chance, permutation, inherent in those, spoke to a long avant-garde genealogy. In other artistic projects, I have also been using machines to create new forms of knowledge, of emancipation, to formal experiments, which are all generative in another sense than just producing more things, but of making things different continuously.
 
 <a id="r2-003809"></a>
 
-So these core concepts are interesting to put into dialogue with us, to inject into public critical discussions of AI, to say maybe the idea wasn't to pursue truth as something distinctive from permutation, but to pursue truth through permutation. In the big historical image that's also inherent to many of the very early ideas of AI, Jan has also worked a lot on Ramon Llull and the Ars Magna, ideas that by rotating disks you could get some kind of truth that was non-verbal or something like that. So there are some differences there that are very productive for me to play against critical AI scholarship, because it was your first question.
+So these core concepts are interesting to put into dialogue with us, to inject into public critical discussions of AI, to say maybe the idea wasn't to pursue truth as something distinctive from permutation, but to pursue truth through permutation. In the big historical image that's also inherent to many of the very early ideas of AI, Jan has also worked a lot on Ramon Llull and the Ars Magna, ideas that by rotating disks you could get some kind of truth that was non-verbal or something like that. So there are some differences there that are very productive for me to play against critical AI scholarship. That was your first question.
 
 **Sine · 00:39:02**
 
@@ -737,7 +737,7 @@ What, having learned from your work and learned to appreciate that, what does th
 
 <a id="r2-004041"></a>
 
-I think it's important to, if we can only understand new things through permutations, then it's also difficult to just be an anarchist that would say all democratic apparatuses, elections, etc. are forces of control, and we should get rid of those. It's important to try to say that if democracy depends on all of these systems that take bodies and turn them into numbers, etc., then it can only mean something if it is allowed to fork, hybridize, become something different. And I think there are huge differences in cultural context and scale of how to pursue this. So I recently did a study of a new Japanese AI-native parliamentary party, Team Mirai, who have used an AI base not for discussing with voters, but to do a form of broad listening, where they host a lot of citizen deliberations and people give input, and that comes into the party, and the idea is that then this party produces tools that can be used by other parliamentary parties and full spread, and update Japanese democracy.
+I think it's important that if we can only understand new things through permutations, then it's also difficult to just be an anarchist that would say all democratic apparatuses, elections, etc. are forces of control, and we should get rid of those. It's important to try to say that if democracy depends on all of these systems that take bodies and turn them into numbers, etc., then it can only mean something if it is allowed to fork, hybridize, become something different. And I think there are huge differences in cultural context and scale of how to pursue this. So I recently did a study of a new Japanese AI-native parliamentary party, Team Mirai, who have used an AI base not for discussing with voters, but to do a form of broad listening, where they host a lot of citizen deliberations and people give input, and that comes into the party, and the idea is that then this party produces tools that can be used by other parliamentary parties and full spread, and update Japanese democracy.
 
 <a id="r2-004205"></a>
 
@@ -995,7 +995,7 @@ The oral part of the defense is now finished and the assessments are not made ou
 
 ## References
 
-The references below locate the articles, figures and discussions mentioned during the defence. They identify the included dissertation and do not replace the speakers’ formulations with its wording.
+Article, figure and passage references to the dissertation and related works.
 
 ### Articles
 

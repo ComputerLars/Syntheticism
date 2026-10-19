@@ -50,5 +50,44 @@
     "camera_date": "2026:09:21 16:06:09",
     "photographer": null,
     "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "jan-backlund",
+    "src": "assets/photos/jan-backlund.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Jan Bäcklund during the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_5418.HEIC",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "2e9f579062ade1a8b8769d1c8b31fc6b865d87daf0aef8d28ddc619ac014a85e",
+    "camera_date": "2026:09:21 14:51:26",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "sine-norholm-just",
+    "src": "assets/photos/sine-norholm-just.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Sine Nørholm Just during the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_5419.HEIC",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "171d7a9a98a3c8bb2b8c469e033de6a693518a3c9da7d1d5350bd4d9c6c9c9cb",
+    "camera_date": "2026:09:21 14:51:28",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "jussi-parikka",
+    "src": "assets/photos/jussi-parikka.jpg",
+    "width": 1800,
+    "height": 2400,
+    "caption": "Jussi Parikka during the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_5423.HEIC",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "a7a0a038c3632d6aadb688f072f6a56eabcc326d18fa82482b336536178a8fb6",
+    "camera_date": "2026:09:21 15:45:38",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
   }
 ]

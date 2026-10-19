@@ -61,12 +61,14 @@ def build():
  (R/'assets/defence.json').write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n')
  body=[]
  photos={x['id']:x for x in json.loads((R/'assets/photos/sources.json').read_text())}if (R/'assets/photos/sources.json').exists()else{}
- def plate(key):
+ def plate(key,speaker=False):
   if key not in photos:return ''
   p=photos[key]
-  return '<figure class="documentary-plate"><a href="'+p['src']+'"><img src="'+p['src']+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" loading="lazy" alt="'+E(p['caption'],quote=True)+'"></a><figcaption>'+E(p['caption'])+'</figcaption></figure>'
+  cls='speaker-portrait'+(' portrait'if p['height']>p['width']else'')if speaker else'documentary-plate'
+  return '<figure class="'+cls+'"><a href="'+p['src']+'"><img src="'+p['src']+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" loading="lazy" alt="'+E(p['caption'],quote=True)+'"></a><figcaption>'+E(p['caption'])+'</figcaption></figure>'
  for s in sections:
   body.append('<section class="transcript-section" id="'+s['id']+'"><header><p class="section-meta"><span class="formal-label">RECORDING '+str(s['recording'])+'</span></p><h2>'+E(s['title'])+'</h2></header>')
+  if s['id'] in {'jan-backlund','sine-norholm-just','jussi-parikka'}:body.append(plate(s['id'],speaker=True))
   for t in s['turns']:
    sec=sum(int(v)*w for v,w in zip(t['time'].split(':'),[3600,60,1]))
    body.append('<div class="speaker-turn"><p class="speaker"><span>'+E(t['speaker'])+'</span> <button data-play="'+str(t['recording'])+'" data-time="'+str(sec)+'" aria-label="Play recording '+str(t['recording'])+' at '+t['time']+'">'+t['time']+'</button></p>')

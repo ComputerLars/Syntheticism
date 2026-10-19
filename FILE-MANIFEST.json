@@ -28,8 +28,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 32704,
-      "sha256": "b1c5c19926fa77ae0f28f5278ac244180b6aa8f251289c21a52ef9f7da4736df"
+      "bytes": 32107,
+      "sha256": "50d1a908605e0ba49ac5278fad310fb7e75754070ac339ce0f5d12141a5b0721"
     },
     {
       "path": "assets/defence-poster.jpg",
@@ -72,6 +72,16 @@
       "sha256": "97d01d1c8ac03031ec4553c83652f44de42baa84679a8119bb898d322cb0b234"
     },
     {
+      "path": "assets/photos/jan-backlund.jpg",
+      "bytes": 503714,
+      "sha256": "4db51cd5e5500934ef64ea9a1603cc4d01b5d0dd3d38722e36317f0a24cac18b"
+    },
+    {
+      "path": "assets/photos/jussi-parikka.jpg",
+      "bytes": 395777,
+      "sha256": "0be8959baf9d2b2e0680b7d804653dd57fb344cab2eb005aedc7ea0b9c50d532"
+    },
+    {
       "path": "assets/photos/lecture.jpg",
       "bytes": 683262,
       "sha256": "db99f8c25a519614bec4f3261cd22f36edd0b156f49af51b076439109511efb8"
@@ -87,9 +97,14 @@
       "sha256": "655f609077744afd838f00b942c70745a0477531b33991607567d8308aed60dd"
     },
     {
+      "path": "assets/photos/sine-norholm-just.jpg",
+      "bytes": 500236,
+      "sha256": "cd02f10f31115cc7251222695c3205ad88b8abe058e8208c46a2ecb61c45a1ce"
+    },
+    {
       "path": "assets/photos/sources.json",
-      "bytes": 2174,
-      "sha256": "1aba4d282fdaf8489cd81fa2c50df72568d141ec7cf14db6cbdc66a1dbc03af0"
+      "bytes": 3871,
+      "sha256": "06b0bc763f544d8d7c9f1d28b43a96e2086eb11021f2ff616c24cd57a27f137a"
     },
     {
       "path": "assets/slides/slide-01.jpg",
@@ -363,8 +378,8 @@
     },
     {
       "path": "defence.css",
-      "bytes": 8338,
-      "sha256": "78ff162f4788a288c5b693e163ead22ec3991ba319d71ab912650c0b2957dd54"
+      "bytes": 8694,
+      "sha256": "c9f83bc5c74a416bcf619520dd01250019e6f03338d9097416a6cd4b62bfaeda"
     },
     {
       "path": "defence.js",
@@ -407,13 +422,13 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 41861,
-      "sha256": "496a7419aeb1af0d172be10ff12d79caa4e5216a9d0fa03dfb7cc966740065c9"
+      "bytes": 57043,
+      "sha256": "6c52540d9f75ef0fd53fdecbe684f51d64e1543581e46bc1dc8182b08df29337"
     },
     {
       "path": "documentation/transcript-editorial.md",
-      "bytes": 2408,
-      "sha256": "12c78d4b0396cb7f719b18a149aadc2c960695ef9c937be4f913785d3f1f7db5"
+      "bytes": 1358,
+      "sha256": "a785a369ba20ddabfbe9ce5f5ae0815adc77ea39fa27012940cc5267a9131fe2"
     },
     {
       "path": "documentation/typography.md",
@@ -422,8 +437,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 181391,
-      "sha256": "c2dfebd93d99c4429919cb8b004735d21cdb18e41b99f32b929b0605b1a637d8"
+      "bytes": 182207,
+      "sha256": "cc4d24fee10906c8345d45306b9bdb0c1d04db6371b38ff32573eba0dac63f3a"
     },
     {
       "path": "metadata.json",
@@ -432,8 +447,8 @@
     },
     {
       "path": "scripts/build_defence_page.py",
-      "bytes": 10977,
-      "sha256": "c2f216933463e198ffd0624bf332bfa4a517442893634f34f0060f8943a3e9be"
+      "bytes": 11195,
+      "sha256": "fbfab522c0c9986bc2c398490fc9aadc9ab3740b03c0101f326e5f2703ee6d0b"
     },
     {
       "path": "scripts/check_transcript.py",
@@ -442,8 +457,8 @@
     },
     {
       "path": "scripts/edit_transcript.py",
-      "bytes": 15833,
-      "sha256": "a625cadf2da916fca5d21edbee9a348258b2f49a44c6f102f418af7d379dab0f"
+      "bytes": 15564,
+      "sha256": "c39c8941c54764611af87490cbb8518bc85eb845a1e8c97ea0f19f471d6c3d06"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -454,13 +469,13 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75284,
-      "sha256": "101349dd2db19db5e4fe69a7f2f18c52b182438e5e95488ea41797cac30c40d9"
+      "bytes": 75167,
+      "sha256": "90478b3e72c8be28f3e70f6f04f73c730a3d043c10e8d85f2f2f9d16624f9583"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 133384,
-      "sha256": "4e12e4dc131adb304a3fa0e12db065d34a3c3eeee7390a5f9cf76ae37a312a9c"
+      "bytes": 133010,
+      "sha256": "cd5144e4786f655b2019b08f3713329dbdb6fb07a481b89025da8e8e284b5a23"
     },
     {
       "path": "transcript/navigation.json",
