@@ -407,8 +407,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 41848,
-      "sha256": "f300d304badc629e176cf2c3814c3525241fca80481e255c26d538190a6a8e69"
+      "bytes": 41861,
+      "sha256": "496a7419aeb1af0d172be10ff12d79caa4e5216a9d0fa03dfb7cc966740065c9"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -422,8 +422,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 181379,
-      "sha256": "377ab4cdf59cd3d0d1d5282b009568caf760323f5f35ee28ba441c49253030de"
+      "bytes": 181391,
+      "sha256": "c2dfebd93d99c4429919cb8b004735d21cdb18e41b99f32b929b0605b1a637d8"
     },
     {
       "path": "metadata.json",
@@ -454,13 +454,13 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75273,
-      "sha256": "6902c371609005bdbb136dc5fc8004806277aa7e4b6b0d02c9350d9057b05aa9"
+      "bytes": 75284,
+      "sha256": "101349dd2db19db5e4fe69a7f2f18c52b182438e5e95488ea41797cac30c40d9"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 133372,
-      "sha256": "02c500077c9fffe9d7cb42f090f0a25a5417ca9d17ddd2c6dfd0d752ce289ffe"
+      "bytes": 133384,
+      "sha256": "4e12e4dc131adb304a3fa0e12db065d34a3c3eeee7390a5f9cf76ae37a312a9c"
     },
     {
       "path": "transcript/navigation.json",
