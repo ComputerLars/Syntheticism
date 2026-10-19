@@ -199,7 +199,7 @@ Very early in my process as a PhD student, I began reading all these scholarly a
 
 <a id="r1-005153"></a>
 
-Absolutely, yeah. And in this sense, it has some reminiscences from the early avant-garde manifestos, but also neo-avant-garde political practices, Situationist International, as we will talk, Joseph Beuys, etc. But also to some recent art practices with a kind of expanded concept of an artwork. And I'm thinking about artists like Ilya Kabakov, Andrea Fraser, Hito Steyerl, or [name unclear], for instance, which have no political issue, but still this same kind of form, this kind of tongue-in-cheek formulation of a problem, aesthetic problem. Because we see here, it's green and red and black, this kind of form, it has this humor, the figure, etc. But the principal historical reference is Joseph Beuys, if we look at it art-historically, and his concept of Soziale Plastik.
+Absolutely, yeah. And in this sense, it has some reminiscences from the early avant-garde manifestos, but also neo-avant-garde political practices, Situationist International, as we will talk, Joseph Beuys, etc. But also to some recent art practices with a kind of expanded concept of an artwork. And I'm thinking about artists like Ilya Kabakov, Andrea Fraser and Hito Steyerl, for instance, which have no political issue, but still this same kind of form, this kind of tongue-in-cheek formulation of a problem, aesthetic problem. Because we see here, it's green and red and black, this kind of form, it has this humor, the figure, etc. But the principal historical reference is Joseph Beuys, if we look at it art-historically, and his concept of Soziale Plastik.
 
 <a id="r1-005302"></a>
 

@@ -59,13 +59,13 @@ def check():
   assert a['url'].endswith('#page='+str(page+1))
  assert 'database does not read' in norm(pdf.pages[29].extract_text())
  assert 'Two kinds of autonomy' in norm(pdf.pages[54].extract_text())
- validation=json.loads((ROOT/'documentation/publication-validation.json').read_text())
- for path,key in [('dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf','pdf_published_sha256'),('defence/Syntheticism-Defence-21-September-2026.pptx','ppt_after_sha256')]:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==validation[key]
+ manifest={row['path']:row for row in json.loads((ROOT/'FILE-MANIFEST.json').read_text())['files']}
+ for path in ['dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf','defence/Syntheticism-Defence-21-September-2026.pptx']:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==manifest[path]['sha256']
  assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r2-004514')]['speaker']=='Asker'
  assert all(n['anchor'] in anchors for n in nav['passage_references'])
  assert 'IMG_' not in text
  old_readme=source('README.md').decode();readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]
- result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'source_speech_changes_match_correction_register':True,'published_binaries_match_validation_record':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
+ result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'source_speech_changes_match_correction_register':True,'published_binaries_match_manifest':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
  print(json.dumps(result,indent=2))
 
 if __name__=='__main__':check()

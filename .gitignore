@@ -1,2 +1,6 @@
 __pycache__/
 *.py[cod]
+
+# Local editorial working files
+/documentation/publication-validation.json
+/scripts/update_publication.py

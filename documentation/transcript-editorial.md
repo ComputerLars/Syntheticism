@@ -1,25 +1,21 @@
-# Defence transcript
+# Reading edition
 
-## Reading edition of 19 October 2026
+*Public PhD defence · 21 September 2026 · Aarhus University*
 
-The base text is the author's edited Word reading edition published on 17 October 2026. That edition remains available in the [repository history](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/blob/8f1a8ed61664f3ce379f77b01353d3bcef12375a/transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx).
+The transcript follows Asker Bryld Staunæs’ author-edited reading of the recorded defence. The opening lecture is collated against the speaker notes preserved in the defence PowerPoint. The discussions retain their own formulations.
 
-Successive paragraphs by the same speaker now form one turn. A new paragraph does not in itself introduce another speaker label. Paragraph breaks that divided the same sentence have been joined; the other paragraph boundaries remain. Changes of speaker are retained. The isolated unfinished interjection “I don’t think” at recording 1, 01:04:27 is omitted from the reading; its timestamp remains an anchor. The author identifies the brief reply at recording 2, 00:45:14 as Asker.
+Successive paragraphs by the same speaker form one turn. Paragraph breaks within the same sentence are joined; changes of speaker are retained. Light edits correct grammar, punctuation, repeated words, false starts, names and technical terms. The speakers’ arguments and distinctive vocabulary remain. The [correction register](transcript-corrections.json) records the local readings and author-confirmed omissions. The Word and Markdown editions contain the same spoken text.
 
-The opening remarks and lecture belong to recording 1, as does the discussion with Jan Bäcklund. Recording 2 begins after the break and contains the discussions with Sine Nørholm Just and Jussi Parikka. Timestamps restart for recording 2. Every original timestamp remains an addressable passage anchor, including those whose repeated speaker labels are no longer displayed. The complete mapping is in [navigation.json](../transcript/navigation.json).
+## Recordings and coverage
 
-Numbered dissertation articles are written as *Article 1*, *Article 2*, and so on. Named research questions likewise use numerals and link to their synthesis chapters. Collective references use *Articles 1 and 2*, for example. Generic mentions of articles, newspapers and scholarship are unchanged.
+Recording 1 contains Stefan Iversen’s opening remarks, Asker’s lecture and the discussion with Jan Bäcklund. The reading begins at the formal opening, 00:12:46; waiting time and preparatory microphone checks are omitted. Recording 2 contains the discussions with Sine Nørholm Just and Jussi Parikka and the closing remarks. Timestamps restart for recording 2.
 
-Links and numbered references are editorial additions. Article links lead to the corresponding article leaf in the complete dissertation. The passage references distinguish an article's complete extent from a particular figure or synthesis discussion. Explicit page references in the speech retain their wording and link to the cited page. Numbers refer to printed folios; the PDF viewer is one page ahead. Thus printed p. 54 opens PDF page 55.
+All 202 source timestamps remain addressable, including those whose repeated speaker labels are no longer displayed. The [navigation data](../transcript/navigation.json) connect them with the speakers and references. The video copy of recording 1 begins at source time 00:12:46; the website accounts for that offset. Listening copies preserve the source time axes.
 
-The Word and Markdown versions contain the same spoken text. The author’s corrections and local checks of selected audio passages are listed in [the correction register](transcript-corrections.json). Light grammatical and punctuation edits do not replace the speakers’ formulations with the dissertation’s wording. Unresolved passages remain marked. The brief Valéry interjection retains its intelligible wording while its doubtful false start is omitted. The source recordings are preserved separately; access copies are available from the public defence page.
+## References
 
-[Reading transcript](../transcript/defence-transcript.md) · [Word edition](../transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx) · [Rebuild script](../scripts/edit_transcript.py)
+Numbered dissertation articles are written as *Article 1*, *Article 2*, and so on. Research questions likewise use numerals. Article links lead to the corresponding article leaf; passage references distinguish a complete article from a particular figure or synthesis discussion.
 
-## Coverage
+Links and numbered notes are editorial additions. Page numbers refer to printed folios; the PDF viewer is one page ahead. Thus printed p. 54 opens PDF page 55. Quotations and source identifications are checked against the dissertation and the cited material without replacing the speakers’ claims.
 
-The reading begins with the formal opening at recording 1, 00:12:46. Waiting time and preparatory exchanges before the opening are omitted, including the recorded microphone/readiness checks. Both discussions and the closing remarks are retained through the ends of the two recordings. Chunk overlaps were deduplicated in the earlier transcription pass. The reading edition retains the speakers’ formulations, with the documented local corrections.
-
-The recorded opening lecture is also collated against the speaker notes preserved in the defence PowerPoint. Proper names, technical terms and the punctuation of read-out quotations are corrected where these sources agree. The notes do not replace unscripted answers. The description of Joë Bousquet is retained as spoken and supplied with a separate biographical reference.
-
-The 19 October reading pass corrects agreement, missing grammatical words, repeated words, incomplete restarts and punctuation. It preserves technical vocabulary, arguments and the speakers’ distinctive formulations. The isolated interjection at 01:04:27 is omitted without removing its source anchor. The continuation across 00:13:28–00:14:57 in recording 2 is joined within Asker’s turn.
+[Read and listen](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/) · [Markdown transcript](../transcript/defence-transcript.md) · [Word edition](../transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx)

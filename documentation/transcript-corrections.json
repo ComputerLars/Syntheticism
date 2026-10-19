@@ -176,7 +176,7 @@
       "anchor": "r1-005153",
       "before": "Hito Steyerl [name uncertain]",
       "after": "Hito Steyerl",
-      "basis": "Name supported by the independent local readings; the next artist remains unresolved."
+      "basis": "Name confirmed by Asker Bryld Staunæs."
     },
     {
       "anchor": "r1-010720",
@@ -801,6 +801,12 @@
       "before": "And I think it's now for us time to deliberate.",
       "after": "And I think it's now time for us to deliberate.",
       "basis": "Reading edition: grammar, punctuation or removal of an unfinished restart; argument and vocabulary retained."
+    },
+    {
+      "anchor": "r1-005153",
+      "before": "Ilya Kabakov, Andrea Fraser, Hito Steyerl, or [name unclear]",
+      "after": "Ilya Kabakov, Andrea Fraser and Hito Steyerl",
+      "basis": "Asker Bryld Staunæs confirms the three names and requests omission of the final inaudible name from the reading edition."
     }
   ]
 }
