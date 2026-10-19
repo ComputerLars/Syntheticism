@@ -53,7 +53,6 @@ WEB_SOURCES={
  'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
  'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),
  'r2-000834':('Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.','https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240'),
- 'r2-004434':('The opening joke concerns the probability that AI would kill everyone present.',''),
 }
 NOTES += [(anchor,text,[]) for anchor,(text,url) in WEB_SOURCES.items()]
 NOTE_MAP={key:(i,text,pages)for i,(key,text,pages)in enumerate(NOTES,1)}

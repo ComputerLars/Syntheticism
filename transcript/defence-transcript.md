@@ -773,7 +773,7 @@ Thank you, Sine.
 
 <a id="r2-004434"></a>
 
-I refrain from all the puns, but one would sort of be the low-hanging one about, you know, what is the percentage of synthetic [wording unclear]—ninety percent, or that, as per recent AI discourse, which I find silly, to say the least, but that's not what we're going to do. I'm going to try to perhaps continue on certain themes that have been mentioned. So we're kind of circling back similar-ish points, but also hopefully new points. This section will be shorter as well. So bear with me, audience, as well. How are your energy levels?[^ref20]
+I refrain from the puns that would be the low-hanging ones, you know — what is the percentage of AI killing humanity, as per recent AI discourse, which I find silly. That's not what we're going to do. I'm going to try to perhaps continue on certain themes that have been mentioned. So we're kind of circling back similar-ish points, but also hopefully new points. This section will be shorter as well. So bear with me, audience, as well. How are your energy levels?
 
 **Asker · 00:45:14**
 
@@ -857,7 +857,7 @@ No, no, no, I mean, because I like listening to what you're saying, it makes tot
 
 <a id="r2-005727"></a>
 
-Although you kind of like quite in a pithy way early on, this is not a question perhaps, it's not the same thing. You sort of a party with math, you used the math-hat thing [wording uncertain] earlier on as well, and then you do flirt with the idea, and I guess you responded to sort of, you do flirt with the idea that they have, they can have a specific knowledge function as such, but also not, which is how you do things, is that you're like, it might be precise, or it might not be. This is my observation. I think by this time of day…
+You used the mathemes in Lacan earlier on as well. Then you do flirt with the idea that they can have a specific knowledge-function — but also not. You play with the idea that it might be precise, and it might not be. This is my observation. I think by this time of day…
 
 **Asker · 00:58:03**
 
@@ -1052,5 +1052,3 @@ The references below locate the articles, figures and discussions mentioned duri
 [^ref18]: The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026. [Source](https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet).
 
 [^ref19]: Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue. [Source](https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240).
-
-[^ref20]: The opening joke concerns the probability that AI would kill everyone present.

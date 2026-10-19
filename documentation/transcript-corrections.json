@@ -807,6 +807,18 @@
       "before": "Ilya Kabakov, Andrea Fraser, Hito Steyerl, or [name unclear]",
       "after": "Ilya Kabakov, Andrea Fraser and Hito Steyerl",
       "basis": "Asker Bryld Staunæs confirms the three names and requests omission of the final inaudible name from the reading edition."
+    },
+    {
+      "anchor": "r2-004434",
+      "before": "I refrain from all the puns, but one would sort of be the low-hanging one about, you know, what is the percentage of synthetic [wording unclear]—ninety percent, or that, as per recent AI discourse, which I find silly, to say the least, but that's not what we're going to do.",
+      "after": "I refrain from the puns that would be the low-hanging ones, you know — what is the percentage of AI killing humanity, as per recent AI discourse, which I find silly. That's not what we're going to do.",
+      "basis": "Asker Bryld Staunæs supplies the wording and identifies the AI-extinction reference. Light punctuation and agreement edit."
+    },
+    {
+      "anchor": "r2-005727",
+      "before": "Although you kind of like quite in a pithy way early on, this is not a question perhaps, it's not the same thing. You sort of a party with math, you used the math-hat thing [wording uncertain] earlier on as well, and then you do flirt with the idea, and I guess you responded to sort of, you do flirt with the idea that they have, they can have a specific knowledge function as such, but also not, which is how you do things, is that you're like, it might be precise, or it might not be. This is my observation. I think by this time of day…",
+      "after": "You used the mathemes in Lacan earlier on as well. Then you do flirt with the idea that they can have a specific knowledge-function — but also not. You play with the idea that it might be precise, and it might not be. This is my observation. I think by this time of day…",
+      "basis": "Asker Bryld Staunæs identifies mathemes in Lacan and supplies the knowledge-function passage. Remove incomplete introductory restarts and repeated clauses; retain the substantive formulation and source anchor."
     }
   ]
 }

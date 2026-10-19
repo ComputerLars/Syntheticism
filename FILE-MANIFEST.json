@@ -407,8 +407,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 40023,
-      "sha256": "bb29ea5a059ae35daa0eafba9083b55c83efeae743893e590798e2db11c1f150"
+      "bytes": 41848,
+      "sha256": "f300d304badc629e176cf2c3814c3525241fca80481e255c26d538190a6a8e69"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -422,8 +422,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 181929,
-      "sha256": "f088e47ce7f953b5eb8d3194164d8c72f7f516b9b0991751bcc3ef90bcec2fba"
+      "bytes": 181379,
+      "sha256": "377ab4cdf59cd3d0d1d5282b009568caf760323f5f35ee28ba441c49253030de"
     },
     {
       "path": "metadata.json",
@@ -442,8 +442,8 @@
     },
     {
       "path": "scripts/edit_transcript.py",
-      "bytes": 15933,
-      "sha256": "5fbc0f7b6ecb1a46be3300060650dcf8ea07679d75af9abfdd4f0b48c1e0ee8b"
+      "bytes": 15833,
+      "sha256": "a625cadf2da916fca5d21edbee9a348258b2f49a44c6f102f418af7d379dab0f"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -454,18 +454,18 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75459,
-      "sha256": "9ece075bceeb72b3af25214a6e1057b16258c16023ff662ef7aab1b518ffe214"
+      "bytes": 75273,
+      "sha256": "6902c371609005bdbb136dc5fc8004806277aa7e4b6b0d02c9350d9057b05aa9"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 133812,
-      "sha256": "cf066e5cd60c19d2585decb0a4519035b8b6faa9b61d8c26a7bbca0215f22615"
+      "bytes": 133372,
+      "sha256": "02c500077c9fffe9d7cb42f090f0a25a5417ca9d17ddd2c6dfd0d752ce289ffe"
     },
     {
       "path": "transcript/navigation.json",
-      "bytes": 37765,
-      "sha256": "f6a25cb9b25f5ad4d5191a9df88b983da59bf3092df4850fa923362346e6112f"
+      "bytes": 37576,
+      "sha256": "76483426ae92a0debf71bf3cd8a65a1e117dbfd968d4b7b6f30d441acc55aad4"
     }
   ]
 }
