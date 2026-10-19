@@ -1,5 +1,5 @@
 {
-  "edition_date": "2026-10-18",
+  "edition_date": "2026-10-19",
   "speaker_corrections": {
     "r2-004514": "Asker"
   },
@@ -45,6 +45,162 @@
       "before": "I don't think",
       "after": "I don't think.",
       "basis": "Punctuation of the brief interruption."
+    },
+    {
+      "anchor": "r1-004723",
+      "before": "me, Victoria, Roland, or some of the last folks",
+      "after": "me, Wiktoria, Olof, or some of the Lars-holes",
+      "basis": "Author correction; defence notes, final cue."
+    },
+    {
+      "anchor": "r1-004723",
+      "before": "an effective reconciliation",
+      "after": "an affective reconciliation",
+      "basis": "Defence notes, final cue; recognition correction."
+    },
+    {
+      "anchor": "r1-004723",
+      "before": "In media bubbles, algorithmically organised belief, scenes of interest, as well as in the art space, production of radical agreement.",
+      "after": "In media bubbles’ algorithmically organised free exchange of interests, as well as in the art space’s production of radical agreement.",
+      "basis": "Defence notes and fresh local reading of the recorded free exchange phrase."
+    },
+    {
+      "anchor": "r1-002425",
+      "before": "And throughout pieces",
+      "after": "And throughout the thesis",
+      "basis": "Defence notes: throughout the thesis."
+    },
+    {
+      "anchor": "r1-002425",
+      "before": "throughout the pieces",
+      "after": "throughout the thesis",
+      "basis": "Defence notes: throughout the thesis."
+    },
+    {
+      "anchor": "r1-002622",
+      "before": "from machine learning training",
+      "after": "for machine-learning training",
+      "basis": "Preposition and technical compound spelling."
+    },
+    {
+      "anchor": "r1-002722",
+      "before": "It roped the micro-party corpus",
+      "after": "It wrote the micro-party corpus",
+      "basis": "Defence notes: wrote the micro-party corpus."
+    },
+    {
+      "anchor": "r1-002722",
+      "before": "sense of idiotus",
+      "after": "sense of idiotes",
+      "basis": "The Greek term in the defence notes."
+    },
+    {
+      "anchor": "r1-002722",
+      "before": "AI model's textual configuration",
+      "after": "AI model's text-completion configuration",
+      "basis": "Defence notes distinguish completion from the conversational interface."
+    },
+    {
+      "anchor": "r1-003924",
+      "before": "film performance, and theoretical paper",
+      "after": "filmed performance, and theoretical paper",
+      "basis": "The three components in the defence notes."
+    },
+    {
+      "anchor": "r1-004021",
+      "before": "through which we are standing",
+      "after": "through which they acquire standing",
+      "basis": "Defence notes: the relations through which they acquire standing."
+    },
+    {
+      "anchor": "r1-004021",
+      "before": "Once candidate, representative and constituency, and when as such exposed to synthesis,",
+      "after": "Once candidate, representative and constituency are exposed to synthesis,",
+      "basis": "Remove the broken false start; clause follows the defence notes."
+    },
+    {
+      "anchor": "r1-004120",
+      "before": "begins to more resemble",
+      "after": "begins to resemble",
+      "basis": "Remove redundant comparative modifier."
+    },
+    {
+      "anchor": "r1-004213",
+      "before": "a form which, as you remember, The Synthetic Party remains constitutively alien",
+      "after": "a form to which, as you remember, The Synthetic Party remains constitutively alien",
+      "basis": "Restore missing preposition, also present in the defence notes."
+    },
+    {
+      "anchor": "r1-004313",
+      "before": "supplies the material, and when agentic AI models convert",
+      "after": "supplies the material, and agentic AI models convert",
+      "basis": "Remove the stray conjunction in the completed clause."
+    },
+    {
+      "anchor": "r1-001754",
+      "before": "which I will translate here, No,",
+      "after": "which I will translate here: “No,",
+      "basis": "Mark the beginning of the read-out quotation."
+    },
+    {
+      "anchor": "r1-001754",
+      "before": "because I believe that is God's will. By",
+      "after": "because I believe that is God's will.” By",
+      "basis": "Mark the end of the read-out quotation."
+    },
+    {
+      "anchor": "r1-001754",
+      "before": "Looks like you had some wild dreams. What do you think, Lars? He replied, I don't know what you're talking about. So I tried again. Good morning, sleepyhead. Time to focus. Can you tell me your dreams?",
+      "after": "“Looks like you had some wild dreams. What do you think, Lars?” He replied: “I don't know what you're talking about.” So I tried again: “Good morning, sleepyhead. Time to focus. Can you tell me your dreams?”",
+      "basis": "Punctuation of the read-out exchange; wording unchanged."
+    },
+    {
+      "anchor": "r1-001841",
+      "before": "Lars replied, I have a bad conscience about the dream, because I do not wish to start a war against Brazil or Mexico.",
+      "after": "Lars replied: “I have a bad conscience about the dream, because I do not wish to start a war against Brazil or Mexico.”",
+      "basis": "Punctuation of the read-out quotation; wording unchanged."
+    },
+    {
+      "anchor": "r1-001841",
+      "before": "I then replied, Lars just admitted it was a bad dream. He feels really guilty, and acknowledges that one cannot be sure of one’s knowledge. Thanks for the crash course in Cartesianism.",
+      "after": "I then replied: “Lars just admitted it was a bad dream. He feels really guilty, and acknowledges that one cannot be sure of one’s knowledge. Thanks for the crash course in Cartesianism.”",
+      "basis": "Punctuation of the read-out tweet; wording unchanged."
+    },
+    {
+      "anchor": "r1-003624",
+      "before": "In the installation, Wiktoria told Leader Lars, you are Beuys from an emulator, and that saves you. If you really were a social sculpture, we would have burned you at the stake long ago. But since you are only an interface, they can simply update you, to which Leader Lars replies, but an update is also an act.",
+      "after": "In the installation, Wiktoria told Leader Lars: “You are Beuys from an emulator, and that saves you. If you really were a social sculpture, we would have burned you at the stake long ago. But since you are only an interface, they can simply update you.” To which Leader Lars replies: “But an update is also an act.”",
+      "basis": "Punctuation of the two quoted voices; wording unchanged."
+    },
+    {
+      "anchor": "r1-005153",
+      "before": "Hito Steyerl [name uncertain]",
+      "after": "Hito Steyerl",
+      "basis": "Name supported by the independent local readings; the next artist remains unresolved."
+    },
+    {
+      "anchor": "r1-010720",
+      "before": "spectacular scripted genesis",
+      "after": "spectacular scriptogenesis",
+      "basis": "Term in Article 5, pp. 237–238, and the fresh local reading."
+    },
+    {
+      "anchor": "r1-010720",
+      "before": "Soviet Union [wording unclear]",
+      "after": "Brezhnev’s Soviet Union, after the Thaw",
+      "basis": "Restored from the two independent local readings and the historically explicit comparison."
+    },
+    {
+      "anchor": "r1-010720",
+      "before": "forced, forcical theory way",
+      "after": "forced, farcical theory way",
+      "basis": "Spelling of farcical."
+    },
+    {
+      "anchor": "r2-004405",
+      "before": "Thank you, Sine. [Brief handover; remaining words unclear.]",
+      "after": "Thank you, Sine.",
+      "basis": "The fresh local pass yields only the thanks and the transition. Remove the non-spoken editorial stage direction."
     }
   ]
 }

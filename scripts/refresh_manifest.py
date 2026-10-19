@@ -10,7 +10,7 @@ for name in sorted(set(names)):
  path=ROOT/name
  if not name or name=='FILE-MANIFEST.json'or not path.is_file():continue
  row=old.get(name,{'path':name}).copy();data=path.read_bytes();row.update(bytes=len(data),sha256=hashlib.sha256(data).hexdigest())
- if name.endswith('Reading-Edition.docx'):row.update(date='2026-10-18',description='Author-edited reading edition with linked article and passage references')
+ if name.endswith('Reading-Edition.docx'):row.update(date='2026-10-19',description='Author-edited reading edition with linked article and passage references')
  files.append(row)
 manifest.write_text(json.dumps({'algorithm':'SHA-256','files':files},ensure_ascii=False,indent=2)+'\n')
 print('Manifest:',len(files),'files')

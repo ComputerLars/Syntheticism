@@ -1,6 +1,6 @@
 # Defence transcript
 
-## Reading edition of 18 October 2026
+## Reading edition of 19 October 2026
 
 The base text is the author's edited Word reading edition published on 17 October 2026. That edition remains available in the [repository history](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/blob/8f1a8ed61664f3ce379f77b01353d3bcef12375a/transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx).
 
@@ -19,3 +19,5 @@ The Word and Markdown versions contain the same spoken text. The author’s corr
 ## Coverage
 
 The reading begins with the formal opening at recording 1, 00:12:46. Waiting time and preparatory exchanges before the opening are omitted, including the recorded microphone/readiness checks. Both discussions and the closing remarks are retained through the ends of the two recordings. Chunk overlaps were deduplicated in the earlier transcription pass. This edition does not claim a new word-for-word audit of every second of the recordings.
+
+The recorded opening lecture is also collated against the speaker notes preserved in the defence PowerPoint. Proper names, technical terms and the punctuation of read-out quotations are corrected where these sources agree. The notes do not replace unscripted answers. The description of Joë Bousquet is retained as spoken and supplied with a separate biographical reference.

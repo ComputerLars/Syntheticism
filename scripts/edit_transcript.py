@@ -19,7 +19,7 @@ BASE='8f1a8ed61664f3ce379f77b01353d3bcef12375a'
 DOC='transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx'
 TITLE='Syntheticism: How I Learned to Love Democracy'
 PDF='https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf'
-DATE='2026-10-18'
+DATE='2026-10-19'
 ARTICLES=[
  (1,'The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy','Asker Bryld Staunæs & Computer Lars',135,155),
  (2,'A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason','Asker Bryld Staunæs & Computer Lars',157,177),
@@ -39,6 +39,9 @@ NOTES=[
  ('r1-003129','Guardian composite: Figure N.3, p. 27; synthesis discussion, pp. 28–29. The complete article is Article 4, pp. 207–233.',[27,28,29,207]),
  ('r1-003624','Wiktoria–Lars exchange, pp. 106–107; social and technosocial sculpture, pp. 86–94.',[106,107,86,94]),
  ('r1-004213','Synthetic Summit Simulator and proposed Synthetic Chamber: Article 6, pp. 268–294; constitutional workflow and uptake, pp. 279–285.',[268,279,285]),
+ ('r1-004021','Opening formulation of democracy’s disproportion: printed p. 6.',[6]),
+ ('r1-004120','Abstract formulation of democracy’s disproportion: printed p. 327.',[327]),
+ ('r1-004817','The closing thesis formulation appears in the English abstract, p. 330. The spoken ending is the present defence formulation.',[330]),
  ('r1-004415','Collective Resolution and democratic specification: synthesis, pp. 107–109; Article 7, pp. 296–324.',[107,109,296]),
  ('r2-002017','Jan-Werner Müller’s reading of Asimov’s electoral computer and its limits: Article 3, pp. 197–199.',[197,198,199]),
  ('r2-003419','Emily Bender’s objection to The Synthetic Party is quoted and discussed on p. 85.',[85]),
@@ -49,6 +52,7 @@ WEB_SOURCES={
  'r1-003416':('Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.','https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit'),
  'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
  'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),
+ 'r2-000834':('Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.','https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240'),
  'r2-004434':('The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.',''),
 }
 NOTES += [(anchor,text,[]) for anchor,(text,url) in WEB_SOURCES.items()]
@@ -85,6 +89,8 @@ def spans(text):
   for j,num in enumerate(nums):
    a=m.start()+(0 if j==0 else num.start());b=m.start()+num.end();n=int(num[0]);article=BY_NUMBER[n]
    out.append((a,b,page_url(article[3]),f'Article {n}: {article[1]}; printed pp. {article[3]}–{article[4]}'))
+ for i,word in enumerate(['first','second','third','fourth','fifth','sixth','seventh'],1):
+  for m in re.finditer(r'\b'+word+r' (?:research )?article\b',text,re.I):out.append((m.start(),m.end(),page_url(BY_NUMBER[i][3]),'Article '+str(i)))
  for m in re.finditer(r'\bpage (29|54)\b',text):out.append((m.start(),m.end(),page_url(int(m[1])),f'Printed p. {m[1]}; PDF page {int(m[1])+1}'))
  return sorted(out)
 
@@ -191,11 +197,13 @@ def build():
   p=doc.add_paragraph();bookmark(p,'ref_'+str(i));p.add_run(str(i)+'. ');linked_word(p,text,page_spans)
   extra=''
   if anchor in WEB_SOURCES and WEB_SOURCES[anchor][1]:
-   url=WEB_SOURCES[anchor][1];p.add_run(' ');hyperlink(p,'Event record',url=url);extra=' [Event record]('+url+').'
+   url=WEB_SOURCES[anchor][1];p.add_run(' ');hyperlink(p,'Source',url=url);extra=' [Source]('+url+').'
+   if anchor=='r1-003524':
+    p.add_run(' Linz: ');hyperlink(p,'KI-DIPFIES',url='https://memphismemph.is/program/ki-dipfies');p.add_run(' · ');hyperlink(p,'KI-DIPFEL GIPFELTREFFEN',url='https://memphismemph.is/program/ki-dipfel-gipfeltreffen');extra+=' Linz: [KI-DIPFIES](https://memphismemph.is/program/ki-dipfies) · [KI-DIPFEL GIPFELTREFFEN](https://memphismemph.is/program/ki-dipfel-gipfeltreffen).'
   md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans)+extra)
  for name in ['Title','Subtitle','Heading 1','Heading 2','Speaker','Record']:
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
- doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,18,0,0,tzinfo=timezone.utc)
+ doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,19,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
  navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':len(anchors)-merged,'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')

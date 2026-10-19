@@ -1,5 +1,5 @@
 {
-  "edition_date": "2026-10-18",
+  "edition_date": "2026-10-19",
   "source_edition_commit": "8f1a8ed61664f3ce379f77b01353d3bcef12375a",
   "source_docx_sha256": "df79cca2a28d1dd48d83c5acef98df20afa0bedbe24e614667bfff948eb694d6",
   "source_timestamps": 202,
@@ -1571,6 +1571,30 @@
     },
     {
       "number": 8,
+      "anchor": "r1-004021",
+      "reference": "Opening formulation of democracy’s disproportion: printed p. 6.",
+      "printed_pages": [
+        6
+      ]
+    },
+    {
+      "number": 9,
+      "anchor": "r1-004120",
+      "reference": "Abstract formulation of democracy’s disproportion: printed p. 327.",
+      "printed_pages": [
+        327
+      ]
+    },
+    {
+      "number": 10,
+      "anchor": "r1-004817",
+      "reference": "The closing thesis formulation appears in the English abstract, p. 330. The spoken ending is the present defence formulation.",
+      "printed_pages": [
+        330
+      ]
+    },
+    {
+      "number": 11,
       "anchor": "r1-004415",
       "reference": "Collective Resolution and democratic specification: synthesis, pp. 107–109; Article 7, pp. 296–324.",
       "printed_pages": [
@@ -1580,7 +1604,7 @@
       ]
     },
     {
-      "number": 9,
+      "number": 12,
       "anchor": "r2-002017",
       "reference": "Jan-Werner Müller’s reading of Asimov’s electoral computer and its limits: Article 3, pp. 197–199.",
       "printed_pages": [
@@ -1590,7 +1614,7 @@
       ]
     },
     {
-      "number": 10,
+      "number": 13,
       "anchor": "r2-003419",
       "reference": "Emily Bender’s objection to The Synthetic Party is quoted and discussed on p. 85.",
       "printed_pages": [
@@ -1598,7 +1622,7 @@
       ]
     },
     {
-      "number": 11,
+      "number": 14,
       "anchor": "r2-005241",
       "reference": "Stiegler’s idiotextual geometry: Article 5, pp. 245–247.",
       "printed_pages": [
@@ -1608,7 +1632,7 @@
       ]
     },
     {
-      "number": 12,
+      "number": 15,
       "anchor": "r2-010436",
       "reference": "Retro-futurist scenography, p. 69. The earlier formulation is “consumable futurisms”, p. 58.",
       "printed_pages": [
@@ -1617,25 +1641,31 @@
       ]
     },
     {
-      "number": 13,
+      "number": 16,
       "anchor": "r1-003416",
       "reference": "Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.",
       "printed_pages": []
     },
     {
-      "number": 14,
+      "number": 17,
       "anchor": "r1-003524",
       "reference": "AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.",
       "printed_pages": []
     },
     {
-      "number": 15,
+      "number": 18,
       "anchor": "r2-002758",
       "reference": "The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.",
       "printed_pages": []
     },
     {
-      "number": 16,
+      "number": 19,
+      "anchor": "r2-000834",
+      "reference": "Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.",
+      "printed_pages": []
+    },
+    {
+      "number": 20,
       "anchor": "r2-004434",
       "reference": "The author identifies the opening joke as referring to the probability that AI would kill everyone present. Its exact wording remains unclear.",
       "printed_pages": []
