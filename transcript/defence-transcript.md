@@ -631,7 +631,7 @@ And this might be something that is still deeply rooted in all of these service 
 
 <a id="r2-002652"></a>
 
-And also wasn't completely predictable to you because of course today, and again, there's a difference between what you could do when you started this project and what we could do today, but today anybody could be like, I want you, ChatGPT or whichever generative AI model I'm using, to talk to me as if you were a little Samaritan or Jesus. There is actually a talk to Jesus, which apparently only spews back Bible verses, so rather restricted training material. But yeah, if you could have done that at the time, would you still have chosen to do something more unpredictable, more open to the, shall we call it agency, of the material?
+And also wasn't completely predictable to you because of course today, and again, there's a difference between what you could do when you started this project and what we could do today, but today anybody could be like, I want you, ChatGPT or whichever generative AI model I'm using, to talk to me as if you were Jair Bolsonaro or Jesus. There is actually a talk to Jesus, which apparently only spews back Bible verses, so rather restricted training material. But yeah, if you could have done that at the time, would you still have chosen to do something more unpredictable, more open to the, shall we call it agency, of the material?
 
 **Asker · 00:27:47**
 

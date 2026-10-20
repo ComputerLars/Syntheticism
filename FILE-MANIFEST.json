@@ -437,8 +437,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 68517,
-      "sha256": "efac653a7bf6a67fd4f51649b7af7a65692b50d72af8e81a27426c0392f6bddf"
+      "bytes": 68712,
+      "sha256": "f07e71c13c31ef9a727d66b56c76a5239dfd05f873358a68e83efab6ab836588"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -452,8 +452,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 182683,
-      "sha256": "479ecb1b6d730b625095035543998f2babea60c2435be95c69680dcb9a334551"
+      "bytes": 182767,
+      "sha256": "57e64dd679eebabaa22613368a4b8f71516854849f13f4afe8ea8dbeaa55bc2d"
     },
     {
       "path": "metadata.json",
@@ -462,8 +462,8 @@
     },
     {
       "path": "scripts/build_defence_page.py",
-      "bytes": 11248,
-      "sha256": "3d68fa457e01b78e2661dc890b284517d925ee28d31f6a0b0bfe4b243a530830"
+      "bytes": 11336,
+      "sha256": "a0621a303a21f1a905e3a1a7a253de00d8675187d3ca5f7ff9d72b73bc8d0836"
     },
     {
       "path": "scripts/check_transcript.py",
@@ -481,16 +481,26 @@
       "sha256": "0aaec76472e3e5ea6851c02ec235ace97a62bf94aaf07622be74b8875d5d15eb"
     },
     {
+      "path": "seek-controls.css",
+      "bytes": 915,
+      "sha256": "db8588aff3d810b5d07b985bf5300238cdfa0f164772cdb97f87ec3ac3c1e1a1"
+    },
+    {
+      "path": "seek-controls.js",
+      "bytes": 3376,
+      "sha256": "c3894f8f70852d9e65d7413b3890bf649920ba247d90bec2693a1d1e66c600e4"
+    },
+    {
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
       "bytes": 75294,
-      "sha256": "1bdde7f6440c9cd1cf2fff99ef4dd36bf038a98d95ace750f4aa0a3f15f4fbe6"
+      "sha256": "f6f90d287634184eb8a8f6f80e79ee448d391dcc76addd8774b49b862a9c03d3"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 132986,
-      "sha256": "4fd1fc131fb6a92f7378050ef71f82a75e8ce05144956d23b89ee77bd2399980"
+      "bytes": 132982,
+      "sha256": "ed5a40378816e5568c9f4d389504b1adc86ea443f9762f7f59136487298222c6"
     },
     {
       "path": "transcript/navigation.json",
