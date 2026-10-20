@@ -113,11 +113,11 @@ I first met all of the Synthetic Summit international participants quite virtual
 
 <a id="r1-003416"></a>
 
-I had difficulty finding cases outside myself, because as soon as I identified one, I contacted its creators. And once I contacted them, I attempted to enter a new collaboration. This synthetic international then accumulated as positions I acquired through other projects, co-creator, advisor, international secretary, and the parties also signed various bilateral agreements of collaboration. Originally, The Synthetic Party had bound me to the non-voters. And internationalised literally, almost everybody in the world is a Danish non-voter. So what travels between these scales cannot simply be a constituency in the classical democratic sense, but is rather the absence of representation itself. And one day, perhaps almost everyone, will be a non-voter. In Aarhus, the Synthetic Summit, which was the first meeting between political AIs in the world, took the form of an AI World Congress.[^ref16]
+I had difficulty finding cases outside myself, because as soon as I identified one, I contacted its creators. And once I contacted them, I attempted to enter a new collaboration. This synthetic international then accumulated as positions I acquired through other projects, co-creator, advisor, international secretary, and the parties also signed various bilateral agreements of collaboration. Originally, The Synthetic Party had bound me to the non-voters. And internationalised literally, almost everybody in the world is a Danish non-voter. So what travels between these scales cannot simply be a constituency in the classical democratic sense, but is rather the absence of representation itself. And one day, perhaps almost everyone, will be a non-voter. In Aarhus, the Synthetic Summit, which was the first meeting between political AIs in the world, took the form of an AI World Congress.[^ref17]
 
 <a id="r1-003524"></a>
 
-All of these eight leading projects entered the shared discussion. Then later in the year, in Warsaw, it contracted back into the voice-based encounter between two characters, Wiktoria and Lars. And finally, in 2026 in Linz, at Kunstraum MEMPHIS, the exhibition KI-DIPFIES and the subsequent Gipfeltreffen supplied the ground from which the local AI party, MIT KI, was founded. So what appeared comparable in publicity did not always arrive with any common program. Each summit had to constitute again what it claimed to convene. Scaling means successive re-specification of the international rather than an organizational reproduction. And in Warsaw, the original concept for my practice of technosocial sculpture was not only something I could develop myself.[^ref17]
+All of these eight leading projects entered the shared discussion. Then later in the year, in Warsaw, it contracted back into the voice-based encounter between two characters, Wiktoria and Lars. And finally, in 2026 in Linz, at Kunstraum MEMPHIS, the exhibition KI-DIPFIES and the subsequent Gipfeltreffen supplied the ground from which the local AI party, MIT KI, was founded. So what appeared comparable in publicity did not always arrive with any common program. Each summit had to constitute again what it claimed to convene. Scaling means successive re-specification of the international rather than an organizational reproduction. And in Warsaw, the original concept for my practice of technosocial sculpture was not only something I could develop myself.[^ref18]
 
 <a id="r1-003624"></a>
 
@@ -335,7 +335,7 @@ And then in the opposite direction, you also see that Bolsonaro, for example, th
 
 <a id="r1-011049"></a>
 
-And I think that applies well to all dissidents in totalitarian regimes, all people who just think of themselves as dissidents, such as Bolsonaro. The Russian background of cybernetic thought in politics and avant-garde art is also something that has been very formative for me through my upbringing. My grandmother wrote a book on cybernetic carnival and technopolitical imaginations in this. I also tried at one point to bring Alexander Bogdanov into this thesis, especially his novel Red Star, which has a communist society on Mars that is essentially computer-driven. Computers didn't exist in 1914, but the descriptions he made are still of computers. That is also something that I pursued, that there is a cultural myth that I immediately bought into by launching this project that makes this a recurring experience.
+And I think that applies well to all dissidents in totalitarian regimes, all people who just think of themselves as dissidents, such as Bolsonaro. The Russian background of cybernetic thought in politics and avant-garde art is also something that has been very formative for me through my upbringing. My grandmother wrote a book on cybernetic carnival and technopolitical imaginations in this. I also tried at one point to bring Alexander Bogdanov into this thesis, especially his novel Red Star, which has a communist society on Mars that is essentially computer-driven. Computers didn't exist in 1908, but the descriptions he made are still of computers. That is also something that I pursued, that there is a cultural myth that I immediately bought into by launching this project that makes this a recurring experience.[^ref16]
 
 <a id="r1-011157"></a>
 
@@ -485,7 +485,7 @@ And that's important. But there's not an opposition yet at the level of bodies. 
 
 <a id="r2-000834"></a>
 
-And this is also in all of the news articles that I've found in this project. I've always used my own face first rather than any single face of Leader Lars. And it's an interesting theoretical discussion that goes long back also to Gilles Deleuze, who has this analysis of the Catalonian painter Joë Bousquet, who says, my wound precedes me and I was born to embody it. So it's this purpose in the wound and the body. But you haven't acquired the wound at any specific moment. But what you embody, what you are, is in the expression of this wound. And then for me that gives, in one way it is amor fati, it's learning to love your destiny.[^ref19]
+And this is also in all of the news articles that I've found in this project. I've always used my own face first rather than any single face of Leader Lars. And it's an interesting theoretical discussion that goes long back also to Gilles Deleuze, who has this analysis of the Catalonian painter Joë Bousquet, who says, my wound precedes me and I was born to embody it. So it's this purpose in the wound and the body. But you haven't acquired the wound at any specific moment. But what you embody, what you are, is in the expression of this wound. And then for me that gives, in one way it is amor fati, it's learning to love your destiny.[^ref20]
 
 <a id="r2-000924"></a>
 
@@ -649,7 +649,7 @@ Yeah, producing something that makes it represent all the unrepresented in Denma
 
 <a id="r2-002758"></a>
 
-I thought about it a lot last week when I was in Sweden for an election where we had an Olof Palme candidate for the AI party. And we were sitting in a theatre hall like this where Olof Palme was speaking from all the corners, and then something I set up, co-created Palme, but I'm not into the details anymore. And then I could see that whatever this Olof Palme character said went straight into the minds of all in the audience: he was brilliant, he was just like an older Olof Palme. And I really tried to ask people, but you see, you have these books over there, can't you just try to write down what he says compared with the books?[^ref18]
+I thought about it a lot last week when I was in Sweden for an election where we had an Olof Palme candidate for the AI party. And we were sitting in a theatre hall like this where Olof Palme was speaking from all the corners, and then something I set up, co-created Palme, but I'm not into the details anymore. And then I could see that whatever this Olof Palme character said went straight into the minds of all in the audience: he was brilliant, he was just like an older Olof Palme. And I really tried to ask people, but you see, you have these books over there, can't you just try to write down what he says compared with the books?[^ref19]
 
 <a id="r2-002844"></a>
 
@@ -1045,10 +1045,12 @@ Article, figure and passage references to the dissertation and related works.
 
 [^ref15]: Retro-futurist scenography, [p. 69](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=70). The earlier formulation is “consumable futurisms”, [p. 58](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=59).
 
-[^ref16]: Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025. [Source](https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit).
+[^ref16]: Alexander Bogdanov, Red Star (Красная звезда), Saint Petersburg, 1908. First-edition catalogue, National Electronic Library / Russian State Library. [Source](https://rusneb.ru/catalog/000199_000009_003746695/).
 
-[^ref17]: AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025. [Source](https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art). Linz: [KI-DIPFIES](https://memphismemph.is/program/ki-dipfies) · [KI-DIPFEL GIPFELTREFFEN](https://memphismemph.is/program/ki-dipfel-gipfeltreffen).
+[^ref17]: Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025. [Source](https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit).
 
-[^ref18]: The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026. [Source](https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet).
+[^ref18]: AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025. [Source](https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art). Linz: [KI-DIPFIES](https://memphismemph.is/program/ki-dipfies) · [KI-DIPFEL GIPFELTREFFEN](https://memphismemph.is/program/ki-dipfel-gipfeltreffen).
 
-[^ref19]: Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue. [Source](https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240).
+[^ref19]: The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026. [Source](https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet).
+
+[^ref20]: Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue. [Source](https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240).

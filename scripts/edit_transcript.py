@@ -49,6 +49,7 @@ NOTES=[
  ('r2-010436','Retro-futurist scenography, p. 69. The earlier formulation is “consumable futurisms”, p. 58.',[69,58]),
 ]
 WEB_SOURCES={
+ 'r1-011049':('Alexander Bogdanov, Red Star (Красная звезда), Saint Petersburg, 1908. First-edition catalogue, National Electronic Library / Russian State Library.','https://rusneb.ru/catalog/000199_000009_003746695/'),
  'r1-003416':('Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.','https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit'),
  'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
  'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),

@@ -437,8 +437,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 68180,
-      "sha256": "a476fa1f91a3016487599a04c39a3652914ba00757ed1e6a342ea34e161fad2b"
+      "bytes": 68517,
+      "sha256": "efac653a7bf6a67fd4f51649b7af7a65692b50d72af8e81a27426c0392f6bddf"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -452,8 +452,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 182329,
-      "sha256": "97b660b10eac7b7d6b039dacbf117e1bea4e194cf3f1281d8dce2a8472891c13"
+      "bytes": 182683,
+      "sha256": "479ecb1b6d730b625095035543998f2babea60c2435be95c69680dcb9a334551"
     },
     {
       "path": "metadata.json",
@@ -472,8 +472,8 @@
     },
     {
       "path": "scripts/edit_transcript.py",
-      "bytes": 16226,
-      "sha256": "4e6b648021f77f37875bb35b51b2994f9cb281fea61cf513fb4eed075a0cec6e"
+      "bytes": 16459,
+      "sha256": "fa53fc94346f68c2fea91bccd9c12d8793db4377581c908f9ae20e40e77593f6"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -484,18 +484,18 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75118,
-      "sha256": "c1bdd74ac128452d02018e672981a6528a629abe170a6bbd8d95e913af9bd3fe"
+      "bytes": 75294,
+      "sha256": "1bdde7f6440c9cd1cf2fff99ef4dd36bf038a98d95ace750f4aa0a3f15f4fbe6"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 132743,
-      "sha256": "ec5b3f9656b1e49d9cafea12edcf02ee151345f7b9377bd5aa93abb0c5837bcf"
+      "bytes": 132986,
+      "sha256": "4fd1fc131fb6a92f7378050ef71f82a75e8ce05144956d23b89ee77bd2399980"
     },
     {
       "path": "transcript/navigation.json",
-      "bytes": 37576,
-      "sha256": "6028acc36a91c1849d31dbee931e5ddf318992ab303f86c8deae4e97bc38847a"
+      "bytes": 37848,
+      "sha256": "b62b53c406d70319676ddf47cea443fa1f4332a48a36ea9b10598877b4d4eb0e"
     }
   ]
 }
