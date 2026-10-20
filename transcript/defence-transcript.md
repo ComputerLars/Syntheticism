@@ -349,7 +349,7 @@ Now I'll turn to this triangle a little bit, a thing that I've been brooding a l
 
 <a id="r1-011346"></a>
 
-This is something we know. Here, you have introduced the concept of synthesis, and this is thematized in the first part of the thesis, when you bind the articles together, when you discuss judgment, or beurteilen, and Aufheben, you also mentioned, in this. Synthesis, in a way, has to do with this judgment, or Aufheben. Usually, those relationships between form and representation, we know, for instance, with direct democracy, it should be a one-to-one translation between form and representation. We have the last revolution, for instance, where you just destroy the images, or the parliamentarian representation, with kind of classical order representation of the form. And this discussion is very complicated, intelligent and hard to get, so you are free to interrupt when I say something wrong, because judgment, etc. <a id="r1-011516"></a>has to do with ideology, maybe. And ideology is here turned toward ideology in its philosophical sense. You write once, ideology is not a judgment. It is a form comparable to ideology. And you discuss Adorno's concept of the autonomy of the artwork. Autonomy of art. And this is contested. When you quote Adorno, what is social in art is its immanent movement against society. This is what art usually does. And then you turn towards Greenberg's concept of kitsch, and note that this is synthetic art. And this is a bad thing. And you kind of, okay, that's a good thing, this synthetic art, because it turns Adorno's autonomy of the art object towards something else.
+This is something we know. Here, you have introduced the concept of synthesis, and this is thematized in the first part of the thesis, when you bind the articles together, when you discuss judgment, or beurteilen, and Aufheben, you also mentioned, in this. Synthesis, in a way, has to do with this judgment, or Aufheben. Usually, those relationships between form and representation, we know, for instance, with direct democracy, it should be a one-to-one translation between form and representation. We have the last revolution, for instance, where you just destroy the images, or the parliamentarian representation, with kind of classical order representation of the form. And this discussion is very complicated, intelligent and hard to get, so you are free to interrupt when I say something wrong, because judgment, etc. <a id="r1-011516"></a>has to do with ideology, maybe. And ideology is here turned toward ideology in its philosophical sense. Idiocy is not a judgment. It is a form comparable to ideology. And you discuss Adorno's concept of the autonomy of the artwork. Autonomy of art. And this is contested. When you quote Adorno, what is social in art is its immanent movement against society. This is what art usually does. And then you turn towards Greenberg's concept of kitsch, and note that this is synthetic art. And this is a bad thing. And you kind of, okay, that's a good thing, this synthetic art, because it turns Adorno's autonomy of the art object towards something else.
 
 <a id="r1-011634"></a>
 
@@ -547,7 +547,7 @@ And also as I've reactivated many, when we have maybe had an imaginary in 2017 w
 
 <a id="r2-001806"></a>
 
-And I think that takes us back to the second strand of the question of responsibility, which is really in the straightforward understanding of democracy that would be the politician who represents the voter and they have an ongoing conversation in one form or another or one sort of mediated version of mediation or the other. But there is this idea of a relationship and a congruence in terms of the public opinion formation and public meaning formation as the sum or the aggregation of the different opinions and then we get the parliament depending on the political system and in ours we will have until a certain size and we'll get back to that size and of course that matters in terms of the unrepresented.
+And I think that takes us back to the second strand of the question of responsibility, which is really in the straightforward understanding of democracy that would be the politician who represents the voter and they have an ongoing conversation in one form or another or one sort of mediated version of mediation or the other. But there is this idea of a relationship and a congruence in terms of the public opinion formation and public meaning formation as the sum or the aggregation of the different opinions and then we get the parliament depending on the political system and in ours we have a threshold of a certain size and we'll get back to that size and of course that matters in terms of the unrepresented.
 
 <a id="r2-001912"></a>
 
@@ -625,7 +625,7 @@ So it was also a way to attempt to elevate something that I thought was maybe va
 
 <a id="r2-002643"></a>
 
-And that this might be something that's still deeply rooted in all of these services, systems, and as first people received from the activity.
+And this might be something that is still deeply rooted in all of these service assistants’ replies that people receive from ChatGPT.
 
 **Sine · 00:26:52**
 
@@ -789,7 +789,7 @@ That's how you come across. I think I want to, this is sort of like, I have note
 
 <a id="r2-004556"></a>
 
-And you talked about it on the multiple registers that I, not correspondence, but relation, and you're setting up these systems that are in movement and you need to make sure that they are still here and there as well. And so that it comes out as an actual PhD that is recognizable as research. And to me, that is really interesting. It's about all those kinds of different registers on which you move. And on the one hand, on a theoretical level, I think there's a certain, you play with certain theorists, melancholy almost, the sort of an end of social, the sort of like, the type of like, uppercutting things about technology. And yet at the same time, I think everybody in the room agrees as well.
+And you talked about it on the multiple registers that I, not correspondence, but relation, and you're setting up these systems that are in movement and you need to make sure that they are still here and there as well. And so that it comes out as an actual PhD that is recognizable as research. And to me, that is really interesting. It's about all those kinds of different registers on which you move. And on the one hand, on a theoretical level, you play with certain theorists’ melancholia, almost — a sort of end of the social, the apocalyptic imaginations about technology. And yet at the same time, I think everybody in the room agrees as well.
 
 <a id="r2-004642"></a>
 
@@ -863,7 +863,7 @@ You used the mathemes in Lacan earlier on as well. Then you do flirt with the id
 
 <a id="r2-005803"></a>
 
-The stress of going to the pretext of totality also pursues in that way.
+That also takes us to the question of totality.
 
 **Jussi · 00:58:12**
 
@@ -903,7 +903,7 @@ Not only that it's embedded in text and vectors, but also that it is involved in
 
 <a id="r2-010254"></a>
 
-But, you know, and of course the implication of what you say, we have in much good critical scholarship now also concepts of synthetic media, like ABL, etc. And as soon as you overproduce one concept that then names all of them, then its distinctiveness is also difficult. And that isn't just a call for some Deleuze and Guattarian constant production of concepts, as you can also see, I try to use as classical concepts as I actually can through most of the work. But I think the synthetic must obviously have limits, but those limits are just not artificial, fake or virtual. Those limits are elsewhere, and it's probably also something we are discovering, what are the limits of the image, for example, or the text. Those would be some ideas.
+But, you know, and of course the implication of what you say, we have in much good critical scholarship now also concepts of synthetic media, like Gabriele de Seta’s. And as soon as you overproduce one concept that then names all of them, then its distinctiveness is also difficult. And that isn't just a call for some Deleuze and Guattarian constant production of concepts, as you can also see, I try to use as classical concepts as I actually can through most of the work. But I think the synthetic must obviously have limits, but those limits are just not artificial, fake or virtual. Those limits are elsewhere, and it's probably also something we are discovering, what are the limits of the image, for example, or the text. Those would be some ideas.
 
 **Jussi · 01:03:48**
 
@@ -913,7 +913,7 @@ And also exactly that, you nicely took it out of a sort of AI discourse to earli
 
 <a id="r2-010436"></a>
 
-And it's, I think you parted with the term retro-futurist aesthetics of the particular setting that was curated for the summit, for the sort of like a gathering as well. And that juxtaposes with obviously the topic itself about seeming the futures of popular democracy and politics. And it seems to contrast also with what you call consumable futures a couple of pages earlier before you talk about retro-futurist aesthetics. In other words, you have these different moments of time that are part also in your artistic aesthetics, right? Can you talk about this? The short question is, what is retro-futurism in the first place?[^ref15]
+And it's, I think you parted with the term retro-futurist aesthetics of the particular setting that was curated for the summit, for the sort of like a gathering as well. That juxtaposes, obviously, with the topic itself: the futures of popular democracy and politics. And it seems to contrast also with what you call consumable futures a couple of pages earlier before you talk about retro-futurist aesthetics. In other words, you have these different moments of time that are part also in your artistic aesthetics, right? Can you talk about this? The short question is, what is retro-futurism in the first place?[^ref15]
 
 **Asker · 01:05:25**
 
@@ -955,7 +955,7 @@ Then through that, wherever we are also trying to analyze how that window actual
 
 <a id="r2-011221"></a>
 
-That could maybe reorient the whole process. Of course, that is a Proustian move. When you come to the end, you have to figure out how to read the novel again. But it's also a question because one is that it's practice-based research, so I wouldn't be able to answer that through practice. Maybe I sort of answer it through the practice that is already there in those two objects as generating the answers to the third research question, which is the Synthetic Summit Simulator and especially the Synthetic Summit Resolution that we have this collective design paper on what democracy is and should be, that none of us actually wrote…
+That could maybe reorient the whole process. Of course, that is a Proustian move. When you come to the end, you have to figure out how to read the novel again. But it's also a question because it is practice-based *research*, but I wouldn't be able to answer that solely through practice. Maybe I sort of answer it through the practice that is already there in those two objects as generating the answers to the third research question, which is the Synthetic Summit Simulator and especially the Synthetic Summit Resolution that we have this collective design paper on what democracy is and should be, that none of us actually wrote…
 
 **Jussi · 01:13:08**
 

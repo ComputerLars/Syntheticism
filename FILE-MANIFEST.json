@@ -437,8 +437,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 65060,
-      "sha256": "c4362364ea2c0df9e50afbe7dafd1d3e373fdac16fc3ac2722082c756170223a"
+      "bytes": 68180,
+      "sha256": "a476fa1f91a3016487599a04c39a3652914ba00757ed1e6a342ea34e161fad2b"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -452,8 +452,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 182435,
-      "sha256": "5413adbcd08a27803c19abcfe5df8f1e961ac2ab2c2e293d651520846e388139"
+      "bytes": 182329,
+      "sha256": "97b660b10eac7b7d6b039dacbf117e1bea4e194cf3f1281d8dce2a8472891c13"
     },
     {
       "path": "metadata.json",
@@ -467,13 +467,13 @@
     },
     {
       "path": "scripts/check_transcript.py",
-      "bytes": 5112,
-      "sha256": "73d78b060693b9ab5e4c7cec9860932caf319b5bb92749d1da8378a73b044a62"
+      "bytes": 5514,
+      "sha256": "3282ad273b8331362a1d696dd2cb07b2c310b0e0e6c1246563e49da685892098"
     },
     {
       "path": "scripts/edit_transcript.py",
-      "bytes": 15564,
-      "sha256": "78f77bbf065380e4073a83dfa5e4001c17e2ec7fe810c64a2577071060fdbd2d"
+      "bytes": 16226,
+      "sha256": "4e6b648021f77f37875bb35b51b2994f9cb281fea61cf513fb4eed075a0cec6e"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -484,13 +484,13 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75128,
-      "sha256": "2afca19708c165ea630a2721e34ba2d47793fc32f2808720c3cb75bf9d0441d1"
+      "bytes": 75118,
+      "sha256": "c1bdd74ac128452d02018e672981a6528a629abe170a6bbd8d95e913af9bd3fe"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 132841,
-      "sha256": "2f655cec09b0fe399a56b0cd5726968b84dbf664793be9ee517a66684ba806d9"
+      "bytes": 132743,
+      "sha256": "ec5b3f9656b1e49d9cafea12edcf02ee151345f7b9377bd5aa93abb0c5837bcf"
     },
     {
       "path": "transcript/navigation.json",

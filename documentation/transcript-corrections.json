@@ -1251,6 +1251,63 @@
       "before": "I wouldn't continue on this so long, but we're running out of time",
       "after": "We could continue on this so long, but we are running out of time",
       "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-011516",
+      "before": "You write once, ideology is not a judgment.",
+      "after": "Idiocy is not a judgment.",
+      "basis": "Author confirms “Idiocy”. Remove the claim that Jan is quoting the dissertation; retain the formulation in Jan’s own speaking turn."
+    },
+    {
+      "anchor": "r2-001806",
+      "before": "and in ours we will have until a certain size",
+      "after": "and in ours we have a threshold of a certain size",
+      "basis": "Author-confirmed reading, 20 October 2026; light grammatical integration."
+    },
+    {
+      "anchor": "r2-002643",
+      "before": "And that this might be something that's still deeply rooted in all of these services, systems, and as first people received from the activity.",
+      "after": "And this might be something that is still deeply rooted in all of these service assistants’ replies that people receive from ChatGPT.",
+      "basis": "Author-confirmed reading, 20 October 2026; light grammatical integration."
+    },
+    {
+      "anchor": "r2-004556",
+      "before": "And on the one hand, on a theoretical level, I think there's a certain, you play with certain theorists, melancholy almost, the sort of an end of social, the sort of like, the type of like, uppercutting things about technology.",
+      "after": "And on the one hand, on a theoretical level, you play with certain theorists’ melancholia, almost — a sort of end of the social, the apocalyptic imaginations about technology.",
+      "basis": "Author-confirmed reading, 20 October 2026; light grammatical integration."
+    },
+    {
+      "anchor": "r2-005803",
+      "before": "The stress of going to the pretext of totality also pursues in that way.",
+      "after": "That also takes us to the question of totality.",
+      "basis": "Author approves the proposed editorial solution, 20 October 2026."
+    },
+    {
+      "anchor": "r2-010254",
+      "before": "concepts of synthetic media, like ABL, etc.",
+      "after": "concepts of synthetic media, like Gabriele de Seta’s.",
+      "basis": "Author identifies Gabriele de Seta, 20 October 2026."
+    },
+    {
+      "anchor": "r2-010436",
+      "before": "And that juxtaposes with obviously the topic itself about seeming the futures of popular democracy and politics.",
+      "after": "That juxtaposes, obviously, with the topic itself: the futures of popular democracy and politics.",
+      "basis": "Author-confirmed reading, 20 October 2026; light grammatical integration."
+    },
+    {
+      "anchor": "r2-011221",
+      "before": "because one is that it's practice-based research, so I wouldn't be able to answer that through practice",
+      "after": "because it is practice-based research, but I wouldn't be able to answer that solely through practice",
+      "basis": "Author-confirmed reading, 20 October 2026; light grammatical integration."
+    }
+  ],
+  "emphasis": [
+    {
+      "anchor": "r2-011221",
+      "phrase": "practice-based research",
+      "text": "research",
+      "style": "italic",
+      "basis": "Author requests italic emphasis on research, 20 October 2026."
     }
   ]
 }

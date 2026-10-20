@@ -38,6 +38,7 @@ def check():
  text=(ROOT/'transcript/defence-transcript.md').read_text();body=text.split('**Stefan · 00:12:46**',1)[1].split('\n## References',1)[0]
  body=re.sub(r'^#{1,6} .*$', '',body,flags=re.M);body=re.sub(r'^\*\*.*?\*\*$', '',body,flags=re.M);body=re.sub(r'^\*IMG_.*?\*$', '',body,flags=re.M)
  body=re.sub(r'<a id="[^"]+"></a>','',body);body=re.sub(r'\[\^ref\d+\]','',body);body=re.sub(r'\[([^\]]+)\]\([^)]+\)',r'\1',body)
+ body=re.sub(r'(?<!\*)\*([^*\n]+)\*(?!\*)',r'\1',body)
  assert norm(body)==norm(after),'Markdown/Word speech differs'
  assert not re.search(r'\barticles? (one|two|three|four|five|six|seven)\b',body,re.I)
  assert text.splitlines()[0]=='# Syntheticism: How I Learned to Love Democracy'
@@ -62,6 +63,11 @@ def check():
  manifest={row['path']:row for row in json.loads((ROOT/'FILE-MANIFEST.json').read_text())['files']}
  for path in ['dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf','defence/Syntheticism-Defence-21-September-2026.pptx']:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==manifest[path]['sha256']
  assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r2-004514')]['speaker']=='Asker'
+ paragraph=next(p for p in new.paragraphs if 'solely through practice' in p.text)
+ assert any(run.text=='research' and run.italic for run in paragraph.runs)
+ assert 'practice-based *research*' in text
+ assert 'You write once, ideology is not a judgment' not in text
+ assert 'Idiocy is not a judgment. It is a form comparable to ideology.' in text
  assert all(n['anchor'] in anchors for n in nav['passage_references'])
  assert 'IMG_' not in text
  old_readme=source('README.md').decode();readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]

@@ -98,10 +98,15 @@ def spans(text):
 def page_spans(text):
  return [(m.start(),m.end(),page_url(int(m[1])),'Printed folio '+m[1])for m in re.finditer(r'\bpp?\. (\d+)(?:[–-]\d+)?',text)]
 
-def linked_md(text,span_fn=spans):
+def linked_md(text,span_fn=spans,anchor=None):
  cursor=0;out=''
  for a,b,url,title in span_fn(text):out+=text[cursor:a]+'['+text[a:b]+']('+url+')';cursor=b
- return out+text[cursor:]
+ out+=text[cursor:]
+ for rule in CORRECTIONS.get('emphasis',[]):
+  if rule['anchor']==anchor:
+   assert out.count(rule['phrase'])==1
+   out=out.replace(rule['phrase'],rule['phrase'].replace(rule['text'],'*'+rule['text']+'*'))
+ return out
 
 bookmark_id=0
 def bookmark(p,name):
@@ -119,11 +124,19 @@ def hyperlink(p,text,url=None,anchor=None,tip=None,superscript=False):
   v=OxmlElement('w:vertAlign');v.set(qn('w:val'),'superscript');rp.append(v)
  r.append(rp);t=OxmlElement('w:t');t.set(qn('xml:space'),'preserve');t.text=unbroken_range(text);r.append(t);h.append(r);p._p.append(h)
 
-def linked_word(p,text,span_fn=spans):
+def plain_word(p,text,anchor):
+ rule=next((r for r in CORRECTIONS.get('emphasis',[])if r['anchor']==anchor and r['phrase']in text),None)
+ if not rule:
+  p.add_run(text)
+  return
+ start=text.index(rule['phrase'])+rule['phrase'].index(rule['text']);end=start+len(rule['text'])
+ p.add_run(text[:start]);p.add_run(text[start:end]).italic=True;p.add_run(text[end:])
+
+def linked_word(p,text,span_fn=spans,anchor=None):
  cursor=0
  for a,b,url,title in span_fn(text):
-  p.add_run(text[cursor:a]);hyperlink(p,text[a:b],url=url,tip=title);cursor=b
- p.add_run(text[cursor:])
+  plain_word(p,text[cursor:a],anchor);hyperlink(p,text[a:b],url=url,tip=title);cursor=b
+ plain_word(p,text[cursor:],anchor)
 
 def continuation(before,after):
  # Join only source paragraph breaks that divide the same sentence.
@@ -183,7 +196,7 @@ def build():
    p=doc.add_paragraph(style=event['paragraph'].style.name);pieces=[]
    for j,part in enumerate(event['parts']):
     if j:p.add_run(' ');pieces.append(' ')
-    bookmark(p,part['anchor']);linked_word(p,part['text']);pieces.append('<a id="'+part['anchor']+'"></a>'+('\n\n'if j==0 else'')+linked_md(part['text']))
+    bookmark(p,part['anchor']);linked_word(p,part['text'],anchor=part['anchor']);pieces.append('<a id="'+part['anchor']+'"></a>'+('\n\n'if j==0 else'')+linked_md(part['text'],anchor=part['anchor']))
     if part['anchor']in NOTE_MAP:
      n,_,_=NOTE_MAP[part['anchor']];hyperlink(p,'['+str(n)+']',anchor='ref_'+str(n),superscript=True);pieces.append('[^ref'+str(n)+']')
     spoken.append(part['text'])
@@ -208,7 +221,7 @@ def build():
   md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans)+extra)
  for name in ['Title','Subtitle','Heading 1','Heading 2','Speaker','Record']:
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
- doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,19,0,0,tzinfo=timezone.utc)
+ doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,20,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
  navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':sum(e['type']=='speaker'for e in events),'omitted_interjections':[e['entry']['anchor']for e in events if e['type']=='omission'],'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')
