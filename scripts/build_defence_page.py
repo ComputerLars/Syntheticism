@@ -79,8 +79,8 @@ def build():
    body.append('</div>')
   body.append('</section>')
   if s['id']=='opening-lecture':body.append(plate('lecture'))
-  if s['id']=='sine-norholm-just':body.append(plate('discussion'))
-  if s['id']=='jussi-parikka':body.append(plate('lille-sal'))
+  if s['id']=='sine-norholm-just':body.append(plate('audience'))
+  if s['id']=='jussi-parikka':body.extend([plate('audience-after-defence'),plate('following-defence',speaker=True)])
  nav=''.join('<a href="#'+s['id']+'">'+E(s['title'].replace('Discussion with ',''))+'</a>'for s in sections)
  thumbs=''.join('<button class="slide-thumb" data-slide="'+str(s['number'])+'"><img src="'+s['src']+'" loading="lazy" width="1920" height="1080" alt="'+E(s['title'],quote=True)+'"><span>'+str(s['number'])+'</span></button>'for s in slides)
  document='''<!doctype html>

@@ -89,5 +89,44 @@
     "camera_date": "2026:09:21 15:45:38",
     "photographer": null,
     "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "audience",
+    "src": "assets/photos/audience.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "Audience during the public defence, Lille Sal, Kasernen, Aarhus University, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_5410.HEIC",
+    "source_archive": "iCloud Photos.zip",
+    "source_sha256": "9451cd94fe760c0c87cb26d8be613b2c14363d53ed1190cbea8f224f66386ee7",
+    "camera_date": "2026:09:21 13:11:59",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "audience-after-defence",
+    "src": "assets/photos/audience-after-defence.jpg",
+    "width": 2400,
+    "height": 1800,
+    "caption": "In the hall following the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4640.heic",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "ea0dfff9a27af6ee3e3042a2712482a521ea61274714a28e672e85b4570a7903",
+    "camera_date": "2026:09:21 16:06:06",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "following-defence",
+    "src": "assets/photos/following-defence.jpg",
+    "width": 1800,
+    "height": 2400,
+    "caption": "Following the public defence, Lille Sal, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4644.heic",
+    "source_archive": "iCloud Photos (1).zip",
+    "source_sha256": "69c9ad2651b4206f6a2a5114332a218141c3f9533a825090e4a98be5b9bd267c",
+    "camera_date": "2026:09:21 16:08:58",
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
   }
 ]

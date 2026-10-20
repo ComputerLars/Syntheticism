@@ -1,5 +1,5 @@
 {
-  "edition_date": "2026-10-19",
+  "edition_date": "2026-10-20",
   "speaker_corrections": {
     "r2-004514": "Asker"
   },
@@ -1119,6 +1119,138 @@
       "before": "I think it's important to, if",
       "after": "I think it's important that if",
       "basis": "Light reading edit: repair an unfinished grammatical construction; the conditional argument is retained."
+    },
+    {
+      "anchor": "r1-011049",
+      "before": "We rushed and backgrounded cybernetic thought in politics and avant-garde art. It's also something",
+      "after": "The Russian background of cybernetic thought in politics and avant-garde art is also something",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-011241",
+      "before": "rooting a lot over",
+      "after": "brooding a lot over",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-011634",
+      "before": "in the kind of spare of Kitsch.",
+      "after": "in the sphere of judgment.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-011956",
+      "before": "Yeah, I was surfacing a widely different... Yeah, I was just saying, why different expressions that then come from, you know, what happens there,",
+      "after": "Yes, and the surfacing of widely different expressions that then come from what happens there,",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-011956",
+      "before": "because we are so over-engineered",
+      "after": "because they are so over-engineered",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-012108",
+      "before": "and I was already with domestication of a phenomenon",
+      "after": "and there was already this domestication of the phenomenon",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-012108",
+      "before": "and not critically supported for a text.",
+      "after": "and not critically subversive projects.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r1-012203",
+      "before": "relief has moved elsewhere",
+      "after": "the leak has moved elsewhere",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-002455",
+      "before": "the Vodka Party of Jesus, or the Trump Party",
+      "after": "the Vodka Party, the Jesus Party or the Trump Party",
+      "basis": "The sequence names separate parties; reading and punctuation follow the electoral-party context."
+    },
+    {
+      "anchor": "r2-002455",
+      "before": "to this otherwise ridiculed idiotic",
+      "after": "to the otherwise ridiculed idiotic",
+      "basis": "Retain the speaker’s substantive use of “the idiotic”; repair the determiner only."
+    },
+    {
+      "anchor": "r2-002844",
+      "before": "but I thought that was a much more masterful performance that this dramaturg Emma did. Maybe of saying what's happening with AI today and what I could have done by introducing",
+      "after": "but I thought this dramaturg Emma gave a much more masterful performance of what is happening with AI today than I could have done by introducing",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-003111",
+      "before": "who work together with the Prime Minister of New Zealand to release.",
+      "after": "who work together with the Prime Minister of New Zealand.",
+      "basis": "Remove an unfinished infinitive; do not supply an unspoken object."
+    },
+    {
+      "anchor": "r2-003210",
+      "before": "There's also this thing to this because we haven't gotten a world filled with leaderless AI politicians. It is much more digital strands,",
+      "after": "There is also its distinctiveness, because we have not gotten a world filled with AI politicians like Leader Lars. It is much more digital twins,",
+      "basis": "Local recognition and the surrounding contrast between Leader Lars and politicians’ digital twins."
+    },
+    {
+      "anchor": "r2-003210",
+      "before": "when your digital twin begins saying other kinds of political imaginaries when you are in all of these conversations with users? And that politics has to also be exposed",
+      "after": "when your digital twin begins saying other kinds of political imaginaries than your own in all of these conversations with users? Then that politician’s body will also be exposed",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-004041",
+      "before": "tools that can be used by other parliamentary parties and full spread, and update Japanese democracy.",
+      "after": "tools that can be used by other parliamentary parties to update Japanese democracy.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-004740",
+      "before": "That's so interesting. It's got that way of trying to teach other people how to do the same thing as me, which was something also in the international that when we, for example, did a local AI party in Linz and another one that I had to speak with the media and he answered very rational arguments and I was like, just speak from the heart.",
+      "after": "That is so interesting. I discovered that while trying to teach other people how to do the same thing as me. This was also something in the International: when we, for example, did a local AI party in Linz, someone else had to speak with the media, and he had very rational arguments. I was like, just speak from the heart.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-004836",
+      "before": "you are a giant that needs to have some contact with the folks.",
+      "after": "you are a giant that needs to have some contact with the earth.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-005647",
+      "before": "Can I say something to that? ",
+      "after": "",
+      "basis": "Omit a detached, non-substantive interruption cue; the surrounding argument remains continuous."
+    },
+    {
+      "anchor": "r2-010725",
+      "before": "campaign timescales",
+      "after": "competing timescales",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-011221",
+      "before": "Of course, that's a sculptural move, right? And then when you come to the end, you have to figure out how to rerun it all again.",
+      "after": "Of course, that is a Proustian move. When you come to the end, you have to figure out how to read the novel again.",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
+    },
+    {
+      "anchor": "r2-011221",
+      "before": "according to as generating the first, the answers to the first research questions,",
+      "after": "as generating the answers to the third research question,",
+      "basis": "The passage explicitly names the Simulator and Resolution; recognition and dissertation architecture both locate RQ3."
+    },
+    {
+      "anchor": "r2-011418",
+      "before": "I wouldn't continue on this so long, but we're running out of time",
+      "after": "We could continue on this so long, but we are running out of time",
+      "basis": "Local re-recognition checked against the surrounding exchange; light correction of the reading edition."
     }
   ]
 }

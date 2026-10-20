@@ -67,9 +67,24 @@
       "sha256": "0985066662eb755ed3683ae5482a81a9195b49ce3f7e165cc2388b3dbece7dd7"
     },
     {
+      "path": "assets/photos/audience-after-defence.jpg",
+      "bytes": 861566,
+      "sha256": "579d4c4738ff9765e2afe7ba257d6208c188cda7a08d0c4c7fefb090fd13d70d"
+    },
+    {
+      "path": "assets/photos/audience.jpg",
+      "bytes": 789756,
+      "sha256": "94bda7738fbebe99e5b690fea757a9329c4af95f1dfa3593274022492b3f5577"
+    },
+    {
       "path": "assets/photos/discussion.jpg",
       "bytes": 836788,
       "sha256": "97d01d1c8ac03031ec4553c83652f44de42baa84679a8119bb898d322cb0b234"
+    },
+    {
+      "path": "assets/photos/following-defence.jpg",
+      "bytes": 870151,
+      "sha256": "c2f944e6a1141d059e1d3ad320cd5efa1ad4e2388bfb69daf6ac17a1cccee086"
     },
     {
       "path": "assets/photos/jan-backlund.jpg",
@@ -103,8 +118,8 @@
     },
     {
       "path": "assets/photos/sources.json",
-      "bytes": 3871,
-      "sha256": "06b0bc763f544d8d7c9f1d28b43a96e2086eb11021f2ff616c24cd57a27f137a"
+      "bytes": 5583,
+      "sha256": "c5b4b74de3baab9d10b4932814b2f2c1e8c633324b5bf883519cc013c8c69f8c"
     },
     {
       "path": "assets/slides/slide-01.jpg",
@@ -422,8 +437,8 @@
     },
     {
       "path": "documentation/transcript-corrections.json",
-      "bytes": 57043,
-      "sha256": "6c52540d9f75ef0fd53fdecbe684f51d64e1543581e46bc1dc8182b08df29337"
+      "bytes": 65060,
+      "sha256": "c4362364ea2c0df9e50afbe7dafd1d3e373fdac16fc3ac2722082c756170223a"
     },
     {
       "path": "documentation/transcript-editorial.md",
@@ -437,8 +452,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 182207,
-      "sha256": "cc4d24fee10906c8345d45306b9bdb0c1d04db6371b38ff32573eba0dac63f3a"
+      "bytes": 182435,
+      "sha256": "5413adbcd08a27803c19abcfe5df8f1e961ac2ab2c2e293d651520846e388139"
     },
     {
       "path": "metadata.json",
@@ -447,8 +462,8 @@
     },
     {
       "path": "scripts/build_defence_page.py",
-      "bytes": 11195,
-      "sha256": "fbfab522c0c9986bc2c398490fc9aadc9ab3740b03c0101f326e5f2703ee6d0b"
+      "bytes": 11248,
+      "sha256": "3d68fa457e01b78e2661dc890b284517d925ee28d31f6a0b0bfe4b243a530830"
     },
     {
       "path": "scripts/check_transcript.py",
@@ -458,7 +473,7 @@
     {
       "path": "scripts/edit_transcript.py",
       "bytes": 15564,
-      "sha256": "c39c8941c54764611af87490cbb8518bc85eb845a1e8c97ea0f19f471d6c3d06"
+      "sha256": "78f77bbf065380e4073a83dfa5e4001c17e2ec7fe810c64a2577071060fdbd2d"
     },
     {
       "path": "scripts/refresh_manifest.py",
@@ -469,18 +484,18 @@
       "path": "transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx",
       "description": "Author-edited reading edition with linked article and passage references",
       "date": "2026-10-19",
-      "bytes": 75167,
-      "sha256": "90478b3e72c8be28f3e70f6f04f73c730a3d043c10e8d85f2f2f9d16624f9583"
+      "bytes": 75128,
+      "sha256": "2afca19708c165ea630a2721e34ba2d47793fc32f2808720c3cb75bf9d0441d1"
     },
     {
       "path": "transcript/defence-transcript.md",
-      "bytes": 133010,
-      "sha256": "cd5144e4786f655b2019b08f3713329dbdb6fb07a481b89025da8e8e284b5a23"
+      "bytes": 132841,
+      "sha256": "2f655cec09b0fe399a56b0cd5726968b84dbf664793be9ee517a66684ba806d9"
     },
     {
       "path": "transcript/navigation.json",
       "bytes": 37576,
-      "sha256": "76483426ae92a0debf71bf3cd8a65a1e117dbfd968d4b7b6f30d441acc55aad4"
+      "sha256": "6028acc36a91c1849d31dbee931e5ddf318992ab303f86c8deae4e97bc38847a"
     }
   ]
 }

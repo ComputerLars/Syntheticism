@@ -19,7 +19,7 @@ BASE='8f1a8ed61664f3ce379f77b01353d3bcef12375a'
 DOC='transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx'
 TITLE='Syntheticism: How I Learned to Love Democracy'
 PDF='https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf'
-DATE='2026-10-19'
+DATE='2026-10-20'
 ARTICLES=[
  (1,'The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy','Asker Bryld Staunæs & Computer Lars',135,155),
  (2,'A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason','Asker Bryld Staunæs & Computer Lars',157,177),
