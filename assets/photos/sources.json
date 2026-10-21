@@ -128,5 +128,18 @@
     "camera_date": "2026:09:21 16:08:58",
     "photographer": null,
     "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
+  },
+  {
+    "id": "hall",
+    "src": "assets/photos/hall-20260921.jpg",
+    "width": 1170,
+    "height": 667,
+    "caption": "Public PhD defence, Lille Sal, Kasernen, Aarhus University, 21 September 2026.",
+    "source_file": "iCloud Photos/IMG_4751.jpeg",
+    "source_archive": "iCloud Photos (2).zip",
+    "source_sha256": "b4de0cfd17ea578cf5e6858ecbebd9c9e7d1bc5da455e1c7b2e40776851f3c06",
+    "camera_date": null,
+    "photographer": null,
+    "processing": "Full frame, orientation applied, sRGB access copy; location metadata omitted."
   }
 ]
