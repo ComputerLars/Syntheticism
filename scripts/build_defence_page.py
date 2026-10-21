@@ -111,6 +111,9 @@ def build():
 <dialog id="slide-view"><div class="slide-controls"><button id="previous-slide" aria-label="Previous slide">Previous</button><span id="slide-number"></span><button id="next-slide" aria-label="Next slide">Next</button><button id="close-slide">Close</button></div><img id="slide-image" alt=""><p class="slide-title" id="slide-title"></p></dialog>
 <script src="seek-controls.js"></script></body></html>'''
  document=document.replace('REPOSITORY',REPO).replace('NAVIGATION',nav).replace('TRANSCRIPT',''.join(body)).replace('THUMBNAILS',thumbs).replace('REFERENCES',''.join(reference_parts))
+ for asset in ['defence.css','defence.js']:
+  version=hashlib.sha256((R/asset).read_bytes()).hexdigest()[:12]
+  document=document.replace('"'+asset+'"','"'+asset+'?v='+version+'"')
  if 'opening'in photos:
   p=photos['opening'];document=document.replace('<img id="poster" src="assets/defence-poster.jpg" width="960" height="540" alt="Asker Bryld Staunæs presenting the dissertation in Lille Sal, with the assessment committee and audience.">','<img id="poster" src="'+p['src']+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" alt="Presenting Syntheticism from the lectern in Lille Sal, 21 September 2026.">')
  (R/'index.html').write_text(document+'\n')

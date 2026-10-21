@@ -477,8 +477,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 237973,
-      "sha256": "3005799f7e9abe3c3b509c5e40547c77ab797fd5e53a2f23797ec6fcbfb82aef"
+      "bytes": 238003,
+      "sha256": "3d8f9e72b86c33738ed02c89a3d1545eb75823e5f412f26ff58b9b1581238920"
     },
     {
       "path": "metadata.json",
@@ -502,8 +502,8 @@
     },
     {
       "path": "scripts/build_defence_page.py",
-      "bytes": 12480,
-      "sha256": "5ca250fd83a86bd023370fc06f17f9d069235f91b3757f50a8333e02dfcef868"
+      "bytes": 12661,
+      "sha256": "4025d6eb4469376938e9ada4d0cf8fdd3049c590355ac33a4c402cfbcbb2a307"
     },
     {
       "path": "scripts/build_slide_posters.py",
