@@ -999,19 +999,19 @@ Article, figure and passage references to the dissertation and related works.
 
 ### Articles
 
-- [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136). Asker Bryld Staunæs & Computer Lars. *The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy*. In dissertation: pp. 135–155.
+- [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136). Asker Bryld Staunæs & Computer Lars. *The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy*. Concreta 23 (2024), pp. 84–97. Published in Spanish as “Partido sintético y líder Lars: sobre la representación algorítmica en la democracia política”. In dissertation: pp. 135–155.
 
-- [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158). Asker Bryld Staunæs & Computer Lars. *A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason*. In dissertation: pp. 157–177.
+- [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158). Asker Bryld Staunæs & Computer Lars. *A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason*. The Nordic Journal of Aesthetics 33, no. 67 (2024), pp. 184–202. DOI: 10.7146/nja.v33i67.148465. In dissertation: pp. 157–177.
 
-- [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181). Asker Bryld Staunæs. *Isaac Asimov’s Incubation of Political AI: An Immanent Critique?* In dissertation: pp. 180–205.
+- [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181). Asker Bryld Staunæs. *Isaac Asimov’s Incubation of Political AI: An Immanent Critique?* In Ulf Dalvad Berthelsen, Mads Rosendahl Thomsen and Morten Tannert (eds.), Beyond the Turing Test: What Science Fiction Can Teach Us About Artificial Intelligence. Routledge, 2026. Accepted manuscript included in the dissertation. In dissertation: pp. 180–205.
 
-- [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208). Asker Bryld Staunæs & Maja Bak Herrie. *Deep Faking in a Flat Reality?* In dissertation: pp. 207–233.
+- [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208). Asker Bryld Staunæs & Maja Bak Herrie. *Deep Faking in a Flat Reality?* A Peer-Reviewed Journal About (APRJA) 13, no. 1 (2024), pp. 105–123. DOI: 10.7146/aprja.v13i1.151235. In dissertation: pp. 207–233.
 
-- [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236). Asker Bryld Staunæs. *Scripting the Spectacle: A Theory Tragedy*. In dissertation: pp. 235–265.
+- [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236). Asker Bryld Staunæs. *Scripting the Spectacle: A Theory Tragedy*. Passepartout – Uden titel, no. 16 (2026), pp. 127–151. In dissertation: pp. 235–265.
 
-- [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269). Michal Malý & Asker Bryld Staunæs. *Synthetic Chamber: Agentic Mediation in Representative Democracy*. In dissertation: pp. 268–294.
+- [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269). Michal Malý & Asker Bryld Staunæs. *Synthetic Chamber: Agentic Mediation in Representative Democracy*. AI & Society, Open Forum (2026), published 28 May 2026. DOI: 10.1007/s00146-026-03110-w. In dissertation: pp. 268–294.
 
-- [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297). Asker Bryld Staunæs. *Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society*. In dissertation: pp. 296–324.
+- [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297). Asker Bryld Staunæs. *Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society*. Controversies of AI Society: Proceedings (2026), pp. 6–26. Aalborg University Open. Proceedings DOI: 10.54337/aau.add.scai.2026. In dissertation: pp. 296–324.
 
 ### Passage references
 

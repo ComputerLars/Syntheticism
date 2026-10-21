@@ -124,7 +124,8 @@
     "editorial_record": "documentation/transcript-editorial.md",
     "navigation": "transcript/navigation.json",
     "speaker_turns": 90,
-    "source_timestamps": 202
+    "source_timestamps": 202,
+    "pdf": "transcript/Syntheticism-Defence-Reading-Edition.pdf"
   },
   "repository": "https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy",
   "rights": {

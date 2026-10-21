@@ -36,6 +36,7 @@ Appendices begin on p. **326**; the English abstract occupies pp. **327–330**,
 
 | Material | File |
 | :--- | :--- |
+| Defence book, PDF | [Transcript, photographs, slides and references](transcript/Syntheticism-Defence-Reading-Edition.pdf) |
 | Complete dissertation, PDF | [Read or download](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf) |
 | Defence slides, 21 September 2026, including the speaker notes used on the day | [PowerPoint](defence/Syntheticism-Defence-21-September-2026.pptx) |
 | Recordings of the defence | [Video and audio](https://github.com/ComputerLars/Syntheticism-How-I-Learned-to-Love-Democracy/releases/tag/defence-recordings-20260921) |

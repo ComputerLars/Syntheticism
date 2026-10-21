@@ -30,6 +30,7 @@ ARTICLES=[
  (7,'Democracy as a Governance Algorithm: A Constraint Hierarchy for the AI Society','Asker Bryld Staunæs',296,324),
 ]
 BY_NUMBER={a[0]:a for a in ARTICLES}
+PUBLICATIONS=json.loads((ROOT/'documentation/article-publications.json').read_text())
 # Bibliographic locations, not replacements for the spoken formulations.
 NOTES=[
  ('r1-002322','Geometry of the dissertation: Figure N.1, p. 14; directional variations, pp. 15–16.',[14,15,16]),
@@ -209,8 +210,8 @@ def build():
  doc.add_paragraph('Articles','Heading 2');md.append('### Articles')
  for n,title,authors,first,last in ARTICLES:
   stop=''if title.endswith(('.', '?', '!'))else'.'
-  p=doc.add_paragraph();hyperlink(p,f'Article {n}',url=page_url(first));p.add_run(f'. {authors}. ');p.add_run(title).italic=True;p.add_run(unbroken_range(stop+f' In dissertation: pp. {first}–{last}.'))
-  md.append(f'- [Article {n}]('+page_url(first)+f'). {authors}. *{title}*'+stop+f' In dissertation: pp. {first}–{last}.')
+  p=doc.add_paragraph();hyperlink(p,f'Article {n}',url=page_url(first));p.add_run(f'. {authors}. ');p.add_run(title).italic=True;p.add_run(unbroken_range(stop+' '+PUBLICATIONS[str(n)]+f' In dissertation: pp. {first}–{last}.'))
+  md.append(f'- [Article {n}]('+page_url(first)+f'). {authors}. *{title}*'+stop+' '+PUBLICATIONS[str(n)]+f' In dissertation: pp. {first}–{last}.')
  doc.add_paragraph('Passage references','Heading 2');md.append('### Passage references')
  for i,(anchor,text,pages)in enumerate(NOTES,1):
   p=doc.add_paragraph();bookmark(p,'ref_'+str(i));p.add_run(str(i)+'. ');linked_word(p,text,page_spans)
