@@ -57,7 +57,8 @@ def build():
    root=etree.fromstring(z.read(f'ppt/slides/slide{n}.xml'))
    paras=[''.join(p.xpath('.//a:t/text()',namespaces=NS))for p in root.findall('.//a:p',NS)]
    text=' '.join(p for p in paras if p.strip())
-   slides.append({'number':n,'src':f'assets/slides/slide-{n:02}.jpg','title':paras[0]or 'Defence slide','text':text})
+   image=f'assets/slides/slide-{n:02}.jpg';version=hashlib.sha256((R/image).read_bytes()).hexdigest()[:12]
+   slides.append({'number':n,'src':image+'?v='+version,'title':paras[0]or 'Defence slide','text':text})
  data={'title':meta['title'],'recordings':[
   {'id':1,'label':'Opening and Jan Bäcklund','video':RELEASE+'Syntheticism-Defence-Recording-1.mp4','audio':RELEASE+'Syntheticism-Defence-Recording-1.m4a','video_offset':766,'start':766,'duration':5383.483333},
   {'id':2,'label':'Sine Nørholm Just and Jussi Parikka','video':RELEASE+'Syntheticism-Defence-Recording-2.mp4','audio':RELEASE+'Syntheticism-Defence-Recording-2.m4a','video_offset':0,'start':149,'duration':4646.582}
@@ -75,6 +76,7 @@ def build():
   return '<figure class="lecture-slide" id="'+ident+'" data-slide-ref="'+str(n)+'"><button data-slide="'+str(n)+'" aria-label="Enlarge slide '+str(n)+'"><img src="'+s['src']+'" width="1920" height="1080" loading="lazy" alt="'+E('Slide '+str(n)+'. '+s['text'],quote=True)+'"></button><figcaption><a href="defence/Syntheticism-Defence-21-September-2026.pdf#page='+str(n)+'">Slide '+str(n)+'</a></figcaption></figure>'
  for s in sections:
   body.append('<section class="transcript-section" id="'+s['id']+'"><header><p class="section-meta"><span class="formal-label">RECORDING '+str(s['recording'])+'</span></p><h2>'+E(s['title'])+'</h2></header>')
+  if s['id']=='opening-lecture':body.append('<p class="section-meta">The lecture follows the author’s defence script. Time links locate corresponding passages in the recording.</p>')
   if s['id'] in {'jan-backlund','sine-norholm-just','jussi-parikka'}:body.append(plate(s['id'],speaker=True))
   for t in s['turns']:
    sec=sum(int(v)*w for v,w in zip(t['time'].split(':'),[3600,60,1]))

@@ -54,7 +54,7 @@ WEB_SOURCES={
  'r1-003416':('Synthetic Summit, Kunsthal Aarhus; exhibition and AI World Congress, 2025.','https://www.kunsthalaarhus.dk/en/Events/Opening-Of-Synthetic-Summit'),
  'r1-003524':('AI: Authority of Art, Ujazdowski Castle Centre for Contemporary Art, Warsaw, 18 July–21 September 2025.','https://u-jazdowski.pl/en/programme/exhibitions/ai-authority-of-art'),
  'r2-002758':('The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026.','https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet'),
- 'r2-000834':('Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.','https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240'),
+ 'r2-000834':('Joë Bousquet (1897–1950), a French poet, is discussed in Gilles Deleuze, The Logic of Sense, “Twenty-First Series of the Event”, pp. 148–153, especially p. 148. Translated by Mark Lester with Charles Stivale; edited by Constantin V. Boundas. New York: Columbia University Press, 1990. Deleuze quotes Bousquet: “My wound existed before me, I was born to embody it.”','https://archive.org/details/logicofsense0000dele/page/148/mode/2up'),
 }
 NOTES += [(anchor,text,[]) for anchor,(text,url) in WEB_SOURCES.items()]
 NOTE_MAP={key:(i,text,pages)for i,(key,text,pages)in enumerate(NOTES,1)}
@@ -166,8 +166,11 @@ def build():
    if style.startswith('Heading'):last=None
    events.append({'type':'metadata','paragraph':p,'original_index':i})
  assert len(anchors)==202
- from lecture_layout import reparagraph
+ from lecture_layout import reparagraph,script_paragraphs
  events=reparagraph(events)
+ first=next(i for i,a in enumerate(anchors)if a['anchor']=='r1-001543')
+ last=next(i for i,a in enumerate(anchors)if a['anchor']=='r1-004817')
+ expected=expected[:first]+[p['text']for p in script_paragraphs()]+expected[last+1:]
  # Reuse the author's styles, margins, headers and footers.
  for child in list(doc._element.body):
   if child.tag!=qn('w:sectPr'):doc._element.body.remove(child)
@@ -183,7 +186,7 @@ def build():
     doc.add_paragraph('Public defence · 21 September 2026 · Aarhus University\nReading edition','Subtitle');md.append('*Public defence · 21 September 2026 · Aarhus University · Reading edition*')
    elif index==2:
     p=doc.add_paragraph('Asker Bryld Staunæs\nKasernen, Lille Sal, Aarhus')
-    note='Edited reading transcript. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.'
+    note='The opening lecture follows the author’s defence script; its timestamps locate corresponding recorded passages. The discussions are edited from the recordings. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.'
     doc.add_paragraph(note,'Record');md.append('Asker Bryld Staunæs  \nKasernen, Lille Sal, Aarhus');md.append(note)
     md.append('[Opening remarks](#opening-remarks) · [Opening lecture](#opening-lecture) · [Jan Bäcklund](#discussion-with-jan-bäcklund) · [Sine Nørholm Just](#discussion-with-sine-nørholm-just) · [Jussi Parikka](#discussion-with-jussi-parikka) · [References](#references)')
     doc.add_paragraph('Recording 1','Heading 1');md.append('## Recording 1')
@@ -206,8 +209,10 @@ def build():
      bookmark(p,part['anchor']);pieces.append('<a id="'+part['anchor']+'"></a>')
     if j==0 and not event.get('paragraph_id'):pieces.append('\n\n')
     linked_word(p,part['text'],anchor=part['anchor']);pieces.append(linked_md(part['text'],anchor=part['anchor']))
-    if part['anchor']in NOTE_MAP and part.get('emit_reference',True):
-     n,_,_=NOTE_MAP[part['anchor']];hyperlink(p,'['+str(n)+']',anchor='ref_'+str(n),superscript=True);pieces.append('[^ref'+str(n)+']')
+    refs=([part['anchor']]if part.get('emit_reference',True)else[])+part.get('references',[])
+    for reference in refs:
+     if reference in NOTE_MAP:
+      n,_,_=NOTE_MAP[reference];hyperlink(p,'['+str(n)+']',anchor='ref_'+str(n),superscript=True);pieces.append('[^ref'+str(n)+']')
     spoken.append(part['text'])
    md.append(''.join(pieces))
  assert re.sub(r'\s+',' ',' '.join(expected)).strip()==re.sub(r'\s+',' ',' '.join(spoken)).strip()
@@ -221,18 +226,20 @@ def build():
   md.append(f'- [Article {n}]('+page_url(first)+f'). {authors}. *{title}*'+stop+' '+PUBLICATIONS[str(n)]+f' In dissertation: pp. {first}–{last}.')
  doc.add_paragraph('Passage references','Heading 2');md.append('### Passage references')
  for i,(anchor,text,pages)in enumerate(NOTES,1):
-  p=doc.add_paragraph();bookmark(p,'ref_'+str(i));p.add_run(str(i)+'. ');linked_word(p,text,page_spans)
+  span_fn=page_spans if anchor!='r2-000834'else lambda t:[(a,b,WEB_SOURCES[anchor][1],'Deleuze, The Logic of Sense, p. 148')for a,b,_,_ in page_spans(t)]
+  p=doc.add_paragraph();bookmark(p,'ref_'+str(i));p.add_run(str(i)+'. ');linked_word(p,text,span_fn)
   extra=''
   if anchor in WEB_SOURCES and WEB_SOURCES[anchor][1]:
    url=WEB_SOURCES[anchor][1];p.add_run(' ');hyperlink(p,'Source',url=url);extra=' [Source]('+url+').'
    if anchor=='r1-003524':
     p.add_run(' Linz: ');hyperlink(p,'KI-DIPFIES',url='https://memphismemph.is/program/ki-dipfies');p.add_run(' · ');hyperlink(p,'KI-DIPFEL GIPFELTREFFEN',url='https://memphismemph.is/program/ki-dipfel-gipfeltreffen');extra+=' Linz: [KI-DIPFIES](https://memphismemph.is/program/ki-dipfies) · [KI-DIPFEL GIPFELTREFFEN](https://memphismemph.is/program/ki-dipfel-gipfeltreffen).'
-  md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans)+extra)
+  md.append('[^ref'+str(i)+']: '+linked_md(text,span_fn)+extra)
  for name in ['Title','Subtitle','Heading 1','Heading 2','Speaker','Record']:
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
  doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,21,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
  navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':sum(e['type']=='speaker'for e in events),'omitted_interjections':[e['entry']['anchor']for e in events if e['type']=='omission'],'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
+ navigation['opening_lecture']={'basis':'authorial defence script','source':'defence/Syntheticism-Defence-21-September-2026.pptx','time_links':'corresponding recorded passages'}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')
  print(json.dumps({k:navigation[k]for k in ['source_timestamps','speaker_turns','removed_repeated_speaker_labels','sentence_continuations_joined']},indent=2))
 

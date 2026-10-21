@@ -33,7 +33,11 @@ def check():
   if p.style.name=='Speaker':
    m=re.fullmatch(r'(.+?)\s{2,}(\d\d:\d\d:\d\d)',p.text);base=f'r{rec}-'+m[2].replace(':','');seen[base]=seen.get(base,0)+1;anchor=base+('-'+str(seen[base]) if seen[base]>1 else '')
    expected.append(normalise(original.paragraphs[i+1].text,anchor))
- assert norm(' '.join(expected))==norm(after),'Unrecorded changes to source speech'
+ from lecture_layout import script_paragraphs
+ keys=list(seen)
+ first=keys.index('r1-001543');last=keys.index('r1-004817')
+ expected=expected[:first]+[p['text']for p in script_paragraphs()]+expected[last+1:]
+ assert norm(' '.join(expected))==norm(after),'Reading text differs from defence script or corrected discussion'
  changes=CORRECTIONS['corrections']
  text=(ROOT/'transcript/defence-transcript.md').read_text();body=text.split('**Stefan · 00:12:46**',1)[1].split('\n## References',1)[0]
  body=re.sub(r'^#{1,6} .*$', '',body,flags=re.M);body=re.sub(r'^\*\*.*?\*\*$', '',body,flags=re.M);body=re.sub(r'^\*IMG_.*?\*$', '',body,flags=re.M)
@@ -78,7 +82,7 @@ def check():
  assert all(n['anchor'] in anchors for n in nav['passage_references'])
  assert 'IMG_' not in text
  old_readme=source('README.md').decode();readme=(ROOT/'README.md').read_text();assert old_readme.split('## English abstract\n',1)[1]==readme.split('## English abstract\n',1)[1]
- result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'source_speech_changes_match_correction_register':True,'published_binaries_match_manifest':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
+ result={'source_words':len(old_tokens),'documented_local_corrections':len(changes),'speaker_turns':len(names),'source_time_anchors':202,'word_markdown_speech_identical':True,'opening_lecture_matches_defence_script':True,'recorded_discussion_matches_correction_register':True,'published_binaries_match_manifest':True,'abstracts_unchanged':True,'pdf_links_checked':len(urls),'printed_page_offset':1}
  print(json.dumps(result,indent=2))
 
 if __name__=='__main__':check()

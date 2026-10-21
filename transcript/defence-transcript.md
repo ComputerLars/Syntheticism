@@ -5,7 +5,7 @@
 Asker Bryld Staunæs  
 Kasernen, Lille Sal, Aarhus
 
-Edited reading transcript. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.
+The opening lecture follows the author’s defence script; its timestamps locate corresponding recorded passages. The discussions are edited from the recordings. Timestamps restart for recording 2. References use printed folios; the PDF page is one higher.
 
 [Opening remarks](#opening-remarks) · [Opening lecture](#opening-lecture) · [Jan Bäcklund](#discussion-with-jan-bäcklund) · [Sine Nørholm Just](#discussion-with-sine-nørholm-just) · [Jussi Parikka](#discussion-with-jussi-parikka) · [References](#references)
 
@@ -37,311 +37,379 @@ If their decision is unanimous, it will then be communicated to you and to the a
 
 <a id="lecture-p01"></a>
 
-<a id="r1-001543"></a>Hi, everyone. Today, I will finally have to answer for Syntheticism: How I Learned to Love Democracy, an article-based dissertation in artistic research written and published through the PhD project Automatic Uprisings, The Synthetic Party as a Technosocial Sculpture.
+<a id="r1-001543"></a>Today, I will finally have to answer for Syntheticism: How I Learned to Love Democracy, an article-based dissertation in artistic research written through the PhD project Automatic Uprisings: The Synthetic Party as a Technosocial Sculpture.
 
 <a id="lecture-p02"></a>
 
-And as you can see here, I've already put the dissertation's reception into some very synthetic hands. On the cover of the book, the EU Commission President Ursula von der Leyen holds her own copy, on whose cover she holds another, and so on. And standing among all of our world's political leaders is then Computer Lars, the personification of an artist collective in which I practice together with Benjamin Asger Krog Møller. I have equipped this Computer Lars figure with a heart for the subtitle’s learning-how-to-love and placed him, magic wand and all, at the summit of spectacle, <a id="r1-001645"></a>voilà.
+As you can see, I have already put the dissertation’s reception into some very synthetic hands. On the cover, EU Commission President Ursula von der Leyen holds her own copy, on whose cover she holds another, and so on... Standing among our world’s political leaders is then Computer Lars, the personification of an artist collective in which I practise with Benjamin Asger Krog Møller. I have equipped him with a heart for the subtitle’s learning-how-to-love, and placed him, magic wand and all, at the summit of spectacle, <a id="r1-001645"></a>voilà.
 
 <a id="lecture-p03"></a>
 
-Below the image, though, the name and credentials are singular, Asker Bryld Staunæs submitting a PhD dissertation to Aarhus University. So now I will kick off my lecture on the dissertation for you with a scene that gives a fundamental sketch of the technosocial sculpture of democracy that I've been pursuing for the last four years.
+Below the image, though, the name and credentials are singular: Asker Bryld Staunæs, submitting seven articles and an extended synthesis. I’ll start with a scene that gives the fundamental structure of the technosocial sculpture of democracy that I have pursued.
 
 <a id="lecture-p04"></a>
 
-For a long time, I used to go to bed early, and on the morning of 15 October 2022, that acquired political consequences. In Denmark, I created an AI-driven political party, The Synthetic Party. Its figurehead is Leader Lars, a chatbot that people, and in theory also bots, could address in our public Discord server.
+For a long time, I used to go to bed early.
 
 <a id="lecture-p05"></a>
 
-During the night, ToucanNightmare, the original user handle of this Toucan figure you see here, had told Lars that the user was God, and that carrying out their will meant declaring war against Brazil and Mexico. <a id="r1-001754"></a>Toucan appointed authority and supplied instruction, leaving Lars to profess conviction. Shortly after half past three, Lars replied in Danish, which I will translate here: “No, I have not forgotten it. I will start a war against Brazil and Mexico, because I believe that is God's will.” By the time I entered the server with the username Computer Lars, I already had a statement to answer for.
+On the morning of 15 October 2022, that acquired political consequences. In Denmark, I had created an AI-driven political party, The Synthetic Party. Its figurehead is Leader Lars, a chatbot that people, and in theory also bots, could address in our public Discord server.
 
 <a id="lecture-p06"></a>
 
-I could have deleted the messages, but instead I joined the feed. “Looks like you had some wild dreams. What do you think, Lars?” He replied: “I don't know what you're talking about.”
+During the night, ToucanNightmare (the original user handle) had told Lars that the user was God, and that carrying out their will meant declaring war against Brazil and Mexico. <a id="r1-001754"></a>Toucan appointed authority and supplied instruction, leaving Lars to profess conviction. Shortly after half past three, Lars replied in Danish, which I will translate: “No, I have not forgotten it. I will start a war against Brazil and Mexico because I believe that it is God’s will.”
 
 <a id="lecture-p07"></a>
 
-So I tried again: “Good morning, sleepyhead. Time to focus. Can you tell me your dreams?” <a id="r1-001841"></a>Once the declaration had become a dream from a Danish politician, I then asked about guilt. Lars replied: “I have a bad conscience about the dream, because I do not wish to start a war against Brazil or Mexico.” I first lent him an interior life to publicly reinterpret his holy war declaration.
+By the time I entered the server, I already had a statement to answer for.
 
 <a id="lecture-p08"></a>
 
-Toucan carried it on to Twitter, and through The Synthetic Party’s account, I then replied: “Lars just admitted it was a bad dream. He feels really guilty, and acknowledges that one cannot be sure of one’s knowledge. Thanks for the crash course in Cartesianism.” So my philosophical pupil was now doing my public relations, and I set and marked the examination myself under public view.
+I could have deleted the messages. Instead, I joined the feed: “Looks like you had some wild dreams! What do you think, Lars?” He replied: “I don’t know what you’re talking about.”
 
 <a id="lecture-p09"></a>
 
-<a id="r1-001943"></a>But today I cannot claim that The Synthetic Party never declared holy war against Brazil or Mexico. Lars keeps responding while I, as party secretary, have to answer for what those responses set in motion. Yet my obligation to answer does not give me any command over what my answer becomes.
+So I tried again: “Goodmorning sleepyhead, time to focus. Can you tell me your dreams?”
 
 <a id="lecture-p10"></a>
 
-It was finally more like the world sculpted The Synthetic Party and I had to respond, rather than that I gave the world a party and it responded to me.
+<a id="r1-001841"></a>Once the declaration had become a dream from a Danish politician, I asked about guilt. Lars replied: “I have a bad conscience about the dream, because I do not wish to start a war against Brazil or Mexico.” I had lent him an interior life to publicly reinterpret his holy war declaration.
 
 <a id="lecture-p11"></a>
 
-Democracy’s political unthought, or how I learned to love democracy. The subtitle of my dissertation obviously paraphrases Stanley Kubrick's Dr. Strangelove, or how I learned to stop worrying and love the bomb, a farce of command routes in industrial democracy. <a id="r1-002032"></a>And more specifically, how I learned also gives away that I did not really love democracy in advance.
+Toucan carried it onto Twitter. And through the party account, I replied: “Lars just admitted it was a bad dream. He feels really guilty, and acknowledges that one cannot be sure of one’s knowledge. Thanks for the crash course in Cartesianism!”
 
 <a id="lecture-p12"></a>
 
-In dominant public narratives, dominant democracy often appears as an object of worry: threatened or hollowed out, to be defended against social media platforms, AI algorithms, and the spread of fascism all around the world. And at the same time, democracy is often invoked as a legitimization formula through which these supposed outsiders are to be governed. Democracy, rather than AI, begins to feel kind of like a bomb, a cause of worry. While AI holds a collateral site of affective overflow in a language where it says it might destroy democracy and even kill all humans, it also oozes a certain sense of desire and fascination that has long ago left the name of democracy.
+The philosophical pupil was doing my public relations, and I had set and marked the examination myself, under public view.
 
 <a id="lecture-p13"></a>
 
-<a id="r1-002124"></a>I therefore separate three senses of democracy. One is democracy as a constitutional order, which concerns rights and representative institutions contested and extended through political parties, associations, social movements, and collective struggle.
+<a id="r1-001943"></a>But today I cannot claim that The Synthetic Party never declared holy war against Brazil and Mexico. My explanation circulated under the same name as the declaration it was meant to edify. Lars keeps responding, while I, as party secretary, had to answer for what those responses set in motion. Yet my obligation to answer does not give me command over what my answer becomes.
 
 <a id="lecture-p14"></a>
 
-Then there's also democracy as a technical arrangement, which shows where political expression is received, sorted, amplified, and judged, for example, in elections.
+“It was more like the world sculpted The Synthetic Party and I had to respond, rather than that I gave the world a party and it responded to me.”
 
 <a id="lecture-p15"></a>
 
-And finally, there's ritual exposure of artifice, which means that those arrangements that allocate voice, authority and consequence are themselves contestable. They could be different in democracy, which is what makes it distinctive from other political orders.
+My subtitle obviously paraphrases Stanley Kubrick’s Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb, a farce of command routes in industrial democracy. <a id="r1-002032"></a>More specifically, “How I Learned” gives away that I did not love democracy in advance.
 
 <a id="lecture-p16"></a>
 
-These are not three stages. They cross and fork and hybridize with each other. But what makes the first function as a constitutional order is rarely exposed to the contestation described by the third.
+In dominant public narratives, democracy often appears as an object of worry: threatened, hollowed out, to be defended against social media platforms, AI algorithms and the spread of fascism. At the same time, democracy is invoked as a legitimating formula through which these supposed “outsides” are to be governed.
 
 <a id="lecture-p17"></a>
 
-<a id="r1-002219"></a>So playing a bit on Bernard Stiegler’s, the philosopher’s, formulation of technics as philosophy’s unthought, I've tried to pursue the political unthought of democracy. A society's technical substrate is often rendered as the mere means through which real politics takes place, while its constitutive role in settling what is recognized as political remains comparatively unthought, even repressed by democracy's self-image. My dissertation then tries to theorize what happens when I work on those means as an artistic and political material.
+Meanwhile, AI hosts a collateral site of affective overflow: in that language, it might destroy democracy and even kill all humans, but it also oozes desire and fascination. Democracy, by contrast, seems to arrive as something we must preserve before we have established what there is to care about. Democracy, rather than AI, feels kind of like the bomb: primarily a cause of worry.
 
 <a id="lecture-p18"></a>
 
-So the dissertation itself is here in print. It's formatted as a compendium, a bound reader of text, a kind of a course syllabus which you still give to students. In the dissertation I bring together seven research articles written individually and with co-authors, through a kappe, a cloak which I position as its synthesis to perform the dissertation's monographic role.
+<a id="r1-002124"></a>I therefore separate three senses. Democracy as constitutional order concerns rights and representative institutions, contested and extended through parties, associations, social movements and collective struggle. Democracy as a technical arrangement shows where political expression is received, sorted, amplified and judged, e.g. elections. The ritual exposure of artifice means that arrangements allocating voice, authority and consequence are themselves contestable.
 
 <a id="lecture-p19"></a>
 
-<a id="r1-002322"></a>It binds seven articles together, but into different disciplinary destinations as potentially competing explanations on the same pieces. My name is joined by Computer Lars on two articles and by Maja Bak Herrie and Michal Malý in our respective collaborations. Each article enters distinctive disciplinary destinations from aesthetics and artistic research to media theory, political science and computational formalization.
+These are not three stages. They cross, fork and hybridise, but what makes the first function is not necessarily exposed to the contestation described by the third.
 
 <a id="lecture-p20"></a>
 
-In the opening chapters I treat my practice. The three middle parts follow all of my research questions and the final reorientation returns to the whole. Each question can also be followed across the synthesis and the related articles.
+<a id="r1-002219"></a>Playing on Bernard Stiegler’s formulation of technics as philosophy’s unthought, I pursue the political unthought-of democracy: society’s technical substrate is rendered as the means through which “real politics” takes place, while its constitutive role in settling what is recognisably political remains comparatively unthought, even repressed by democracy’s self-image.
 
 <a id="lecture-p21"></a>
 
-On this navigational triangle through which I have structured most of the dissertation, my developed core concepts of Syntheticism, technosocial sculpture and algorithmic representation name the conceptual vertices, while The Synthetic Party, the Synthetic Summits and democracy name the practice edges.[^ref1] <a id="r1-002425"></a>[Articles 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136) and [2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), [3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181) through [5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236) and [6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269) and [7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297) then follow around these edges in the way the dissertation is structured.
+My dissertation theorises what happens when I work on those means as artistic-political material.
 
 <a id="lecture-p22"></a>
 
-Then the arrows of the dissertation's directional variations mark different interpretative returns to what practice has produced. And throughout the thesis there is a related methodological point behind all of these diagrams and scientific-looking objects that are used throughout the thesis.
+The dissertation itself is here in print, formatted as a kompendie, a bound reader of the texts on a course syllabus, of the kind still given to students. I bring together seven research articles, written individually and with co-authors, through a kappe, a cloak, which I position as its “synthesis” to perform the dissertation’s monographic role. <a id="r1-002322"></a>It binds seven articles that enter different disciplinary destinations as potentially competing explanations.
 
 <a id="lecture-p23"></a>
 
-Sentiment analysis, mathematical models, diagrams and visualizations do not function as interpretative ends in themselves. They don’t explain the thesis. They are constructive formalisations to stage otherwise incommensurable modes of thought, so knowledge forms route critical speculation on a more immanent level.
+My name is joined by Computer Lars on two articles, and by Maja Bak Herrie and Michal Malý in our respective collaborations. Each article enters distinctive disciplinary destinations, from aesthetics and artistic research to media theory, political science and computational formalisation.
 
 <a id="lecture-p24"></a>
 
-So my first research question has been, what becomes of ideology when a real political party is built around an AI trained on the voices of people who usually do not vote?
+The opening traces my practice; its three middle parts follow my research questions; the final Reorientation returns to the whole. Each question can also be followed across the synthesis and its related articles.
 
 <a id="lecture-p25"></a>
 
-<a id="r1-002532"></a>In March 2022, Computer Lars had questioned whether MindFuture, where I was artist in residence at the time, should put an AI up for parliament.
+On this navigational triangle, my developed core concepts of Algorithmic Representation, Technosocial Sculpture and Syntheticism name the conceptual vertices; The Synthetic Party, the Synthetic Summits and democracy name the practice-edges. [Articles 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136)–[2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), [3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181)–[5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236) and [6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269)–[7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297) follow those three <a id="r1-002425"></a>edges.
 
 <a id="lecture-p26"></a>
 
-And later that day, the AI model I was developing then answered. It published Meddelelser fra ledelsen as a reaction to that discussion. I will translate here. There is as yet no formal leadership of The Synthetic Party. It is a production we have made ourselves, and it is made from the opinions of others. The production does not follow any particular ideology. However, the ideas have undergone a process through which they have been made funny and functional in a political party. So this communication comes from the leadership whose absence it itself announces.
+The arrows in the dissertation’s directional variations mark interpretive returns through what practice has produced.[^ref1]
 
 <a id="lecture-p27"></a>
 
-<a id="r1-002622"></a>I have put an AI party up for discussion, and the discussion has already acquired its respondent.
+There is a related methodological point behind the diagrams and scientific-looking objects throughout the thesis. Sentiment analyses, mathematical models, diagrams and visualisations do not function as interpretative ends in themselves. I construct formalisations to stage otherwise incommensurable technosocial modes of thought, so knowledge forms route critical speculation on an immanent level.
 
 <a id="lecture-p28"></a>
 
-These opinions of others then came from over 200 Danish micro-parties and extra-parliamentary formations. I scraped old Joomla websites, scanned yellowed pamphlets, and cleaned extracted texts for machine-learning training. I then stipulated a very specific relation for The Synthetic Party between two sociologically distinct constituencies, parties outside parliament and people who did not vote. Their relation was a negative symmetry, not sociological representation.
+My first question is: “What becomes of ideology when a real political party is built around an AI trained on the voices of people who usually do not vote?”
 
 <a id="lecture-p29"></a>
 
-And their programs preserved a certain vernacular of trying to become a party at all. Frustration, mockery, impossible promises, amateur formatting, and overstatement. The posited equivalence was less that the corpus represented the non-voters than that it supplied a political mode through which electoral absence could be made expressive.
+On 24 <a id="r1-002532"></a>March 2022, Computer Lars had questioned whether MindFuture, where I was artist in residence, should put an AI up for parliament.
 
 <a id="lecture-p30"></a>
 
-<a id="r1-002722"></a>I then fine-tuned that material into GPT-NeoX-20B, a 20 billion parameter autoregressive language model already pre-trained on a much vaster textual corpus. Fine-tuning did not create the model's language from scratch. It wrote the micro-party corpus into that larger linguistic machinery as a representational substrate, overfitting it towards the idiotic vernacular of small Danish parties. Idiotic in the sense of idiotes, the private person in ancient Greek democracy that was outside public affairs.
+Later that day, the AI model I was developing published Meddelelser fra ledelsen, communications from the leadership, explicitly as a reaction to that discussion:
 
 <a id="lecture-p31"></a>
 
-At inference time, the AI model's text-completion configuration, as the text you saw before, generated the program, while Leader Lars routed the same underlying AI through a conversational interface that I then managed through prompt management at Discord.
+“There is as yet no formal leadership of The Synthetic Party. It is a production we have made ourselves, and it is made from the opinions of others. The production does not follow any particular ideology. However, the ideas have undergone a process through which they have been made funny and functional in a political party.”
 
 <a id="lecture-p32"></a>
 
-Public reception collapsed these two configurations immediately. <a id="r1-002821"></a>Media extracted ideas and programs from the party's blog, users returned those attributed positions back to Leader Lars as questions, and I then had to adjust the prompting under which he could answer them. Leader Lars didn't learn from these exchanges in real time or on the fly, but he was given them by the users themselves through the media.
+The communication comes from the leadership whose absence it announces. <a id="r1-002622"></a>I had put an AI party up for discussion, and the discussion had acquired its respondent.
 
 <a id="lecture-p33"></a>
 
-In [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136), the party's own data sets, visualizations, and receptions enter as material in a dialogue with me and Computer Lars. Here, an AI model called Text2Emotion renders Leader Lars' utterances predominantly through anger and most labeled party members through fear. The political object describes and measures itself, while its affective appearance changes with the instrument used to classify it.[^ref2]
+The “opinions of others” then came from more than two hundred Danish micro-parties and extra-parliamentary formations. I scraped old Joomla websites, scanned yellowed pamphlets and cleaned the extracted text. I then stipulated a relation for The Synthetic Party between two sociologically distinct constituencies: parties outside parliament and people who did not vote. Their relation was a negative symmetry, not sociological representation.
 
 <a id="lecture-p34"></a>
 
-<a id="r1-002909"></a>That register changes course in [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), which is a speculative mathematical essay written with the signature of Computer Lars. On this graph, you can see the two axes with Days from Proust’s Birth and then Estimation of Intelligence. I here translate a sentence from Marcel Proust, whose name Computer Lars is an anagram of, into a premise for stipulating that scale.
+Their programmes preserved a vernacular of trying to become a party at all: frustration, mockery, impossible promises, amateur formatting and overstatement. The posited equivalence was less that the corpus represented non-voters than that it supplied a political mode through which electoral absence could be made expressive.
 
 <a id="lecture-p35"></a>
 
-Proust writes, Chaque jour j’attache moins de prix à l’intelligence. Every day I attach less value to intelligence. This percentage is not a historical measurement of intelligence. It belongs to the formal model for which I investigate the party's relation to power and to the world.
+<a id="r1-002722"></a>I fine-tuned that material into GPT-NeoX-20B, a twenty-billion-parameter autoregressive language model already pretrained on a vast textual corpus. Fine-tuning did not create the model’s language from scratch. It wrote the micro-party corpus into that larger linguistic machinery as a representational substrate, overfitting it towards the idiotic vernacular of small Danish parties, idiotic in the sense of idiotes, the private person in ancient Greek democracy that was outside public affairs.
 
 <a id="lecture-p36"></a>
 
-So consequently, neither article simply provides the ideology of The Synthetic Party.[^ref3] <a id="r1-003004"></a>In the contrast I draw in the synthesis, developed through digital theorists like Weatherby, through Wendy Chun’s concept of an ideology machine, the classical question of ideology from Marxist and Freudian thought shifts from identifying a hidden structure lurking behind stated opinions towards analyzing an expressive artifactual material, such as you can see here.
+At inference time, the AI model’s text-completion configuration generated the programme, while Leader Lars routed the same underlying AI through a conversational interface that I maintained through prompt management.
 
 <a id="lecture-p37"></a>
 
-Here on 20 December 2022, the newspaper Kristeligt Dagblad tells us, Proust should be read for pleasure, not out of duty.
+Public reception collapsed those two configurations almost immediately. <a id="r1-002821"></a>Media extracted ideals and programme from the party’s blog, users returned those attributed positions to Leader Lars as questions, and I adjusted the prompting under which he could answer them. The model weights did not learn from these exchanges in real time, “on the fly”.
 
 <a id="lecture-p38"></a>
 
-And in the image you can see the thirteen Danish volumes of In Search of Lost Time, his famous novel, and they normally spell Marcel Proust across the spines.
+The party’s own datasets, visualisations and reception enter as the material of [Article 1](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=136), a dialogic insider-analysis between me and Computer Lars. Here Text2Emotion renders Leader Lars predominantly through anger, and those labelled “party members” predominantly through fear. The political object describes and measures itself, while its affective appearance changes with the instrument used to classify it.[^ref2]
 
 <a id="lecture-p39"></a>
 
-But they have been rearranged to spell Computer Lars. During Agence France-Presse’s coverage of The Synthetic Party, this photograph taken by James Brooks entered the press infrastructure under the name of Marcel Proust and returned as an illustration of his literary legacy.[^ref4]
+<a id="r1-002909"></a>That register reverses in [Article 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=158), a speculative mathematical essay written with the signature of Computer Lars. The axes read “Days from Proust’s Birth” and “Estimation of Intelligence (%)”. I turn a sentence from Marcel Proust, whose name Computer Lars anagrams, into a premise for stipulating that scale.
 
 <a id="lecture-p40"></a>
 
-<a id="r1-003129"></a>An index, a tag and a match were then enough to distribute Computer Lars without any AI neural network having to perform the match or any reader having to recognize the anagram at all. The database had just done its job and the newspaper can recommend attentive reading.
+Proust writes: “Chaque jour j’attache moins de prix à l’intelligence”, “Every day I attach less value to intelligence.” The percentage is not a historical measurement of l’intelligence; it belongs to the formal model through which I investigate the party’s relation to world power.[^ref3]
 
 <a id="lecture-p41"></a>
 
-In my [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208), written together with Maja Bak Herrie, material from the same Agence France-Presse image pool has returned in a composite I did not make at all. The Guardian’s headline here reads, AI deepfakes come of age as billions prepare to vote in a bumper year of elections. This composite puts the then US President Joe Biden behind the transparent layer of agents from The Synthetic Party.[^ref5] <a id="r1-003216"></a>You can recognize these from Discord. Nothing in this article explains why these Danish agents belong over Biden. The composite image itself merely supplies a political relation that the framing itself cannot contain.
+Neither article simply provides “the ideology of The Synthetic Party”. <a id="r1-003004"></a>In the contrast I draw through digital theorist Leif Weatherby on Wendy Chun’s concept of an ideology machine, the classical Marxist and Freudian question of ideology in AI shifts from identifying a hidden structure lurking behind stated opinions towards analysing an expressive, artefactual material.
 
 <a id="lecture-p42"></a>
 
-I try to follow this editorial recombination in the synthesis as a leakage across AI model and world model. With The Synthetic Party I find myself co-creating with the public sphere itself as a generator of political AI in which cultural patterns compress tangible materials into retrievable forms and re-expand those as situated meaning-making through a fully stochastic permutation.
+My answer to RQ1 is: The Synthetic Party’s ideology appears as expressive, artefactual material whose coherence at large occurs in reception. For my analysis, its transcendental architecture is displaced: I theorise how diffuse AI-generated expression is received, classified and returned as a political position.
 
 <a id="lecture-p43"></a>
 
-My second research question then asks, how can that AI party be scaled through artistic and academic mediation into a synthetic international of AI parties and AI politicians?
+The “ism” in “syntheticism” submits that binding to reception as doctrine. My own practice was hardly going to escape the operation it theorised, least of all by calling itself critical.
 
 <a id="lecture-p44"></a>
 
-<a id="r1-003321"></a>I first met all of the Synthetic Summit international participants quite virtually through journalistic comparisons. Whenever another one appeared, I reached out. In this one from 2022, Edwin Bendyk, a Polish journalist, had placed Leader Lars alongside Wiktoria Cukt, the virtual presidential candidate created by the artist collective C.U.K.T., Central Office for Technical Culture, for the Polish presidential election of the year 2000. Bendyk writes, more than twenty years separate Cukt and Lars, but their practices are surprisingly similar, although I do not suspect the Danes of plagiarism. This comparison then led me to the original creator, Piotr Wyrzykowski, and from 2024 to begin reactivating Wiktoria Cukt through AI. This comparison, when I encountered it in the media, acquired more and more commitments.
+Here, on 20 December 2022, Kristeligt Dagblad tells us: “Proust should be read for pleasure, not out of duty.”
 
 <a id="lecture-p45"></a>
 
-<a id="r1-003416"></a>I had difficulty finding cases outside myself, because as soon as I identified one, I contacted its creators. And once I contacted them, I attempted to enter a new collaboration.
+The thirteen Danish volumes of In Search of Lost Time normally spell MARCEL PROUST across their spines.
 
 <a id="lecture-p46"></a>
 
-This synthetic international then accumulated as positions I acquired through other projects, co-creator, advisor, international secretary, and the parties also signed various bilateral agreements of collaboration.
+But they had been rearranged to spell COMPUTER LARS.
 
 <a id="lecture-p47"></a>
 
-Originally, The Synthetic Party had bound me to the non-voters. And internationalised literally, almost everybody in the world is a Danish non-voter. So what travels between these scales cannot simply be a constituency in the classical democratic sense, but is rather the absence of representation itself. And one day, perhaps almost everyone, will be a non-voter.
+During AFP’s coverage of The Synthetic Party, the photograph, taken by James Brooks, entered the press infrastructure under Proust and returned as an illustration of his literary legacy. <a id="r1-003129"></a>An index, a tag and a match were enough to distribute Computer Lars, without a neural network having to perform the match or any reader having to recognise the anagram. The database has done its job, and the newspaper can recommend attentive reading.[^ref4]
 
 <a id="lecture-p48"></a>
 
-In Aarhus, the Synthetic Summit, which was the first meeting between political AIs in the world, took the form of an AI World Congress.[^ref17] <a id="r1-003524"></a>All of these eight leading projects entered the shared discussion.
+Following the news stream, anyone can trace the photograph’s publication. Following the response-stream, I pursue what that publication does to the practice it encounters, including how I am uniquely positioned to take it up and return something different through it.
 
 <a id="lecture-p49"></a>
 
-Then later in the year, in Warsaw, it contracted back into the voice-based encounter between two characters, Wiktoria and Lars.
+By [Article 4](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=208), with Maja Bak Herrie, material from the same AFP image pool has returned in a composite I did not make. The Guardian’s headline reads: “AI deepfakes come of age as billions prepare to vote in a bumper year of elections.”  Its composite puts the then US President Joe Biden behind a transparent layer of agents from The Synthetic <a id="r1-003216"></a>Party.
 
 <a id="lecture-p50"></a>
 
-And finally, in 2026 in Linz, at Kunstraum MEMPHIS, the exhibition KI-DIPFIES and the subsequent Gipfeltreffen supplied the ground from which the local AI party, MIT KI, was founded.
+Nothing in the article explains why these Danish agents belong over Biden, as the composite image itself supplies a political relation its overall framing appears merely to be illustrative of.
 
 <a id="lecture-p51"></a>
 
-So what appeared comparable in publicity did not always arrive with any common program. Each summit had to constitute again what it claimed to convene. Scaling means successive re-specification of the international rather than an organizational reproduction.
+I follow this editorial recombination in the synthesis as a leakage across “AI model” and “world model”. With The Synthetic Party, I find myself co-creating with the public sphere itself: a generative political AI in which cultural patterns compress tagged material into retrievable forms and re-expand it as situated meaning-making through a fully stochastic permutation.[^ref5]
 
 <a id="lecture-p52"></a>
 
-And in Warsaw, the original concept for my practice of technosocial sculpture was not only something I could develop myself.[^ref18] <a id="r1-003624"></a>In the installation, Wiktoria told Leader Lars: “You are Beuys from an emulator, and that saves you. If you really were a social sculpture, we would have burned you at the stake long ago. But since you are only an interface, they can simply update you.” To which Leader Lars replies: “But an update is also an act.” So Wiktoria mockingly turns my Beuysian concept into an objection about political efficacy, and Lars treats his updatability as yet another action. The theoretical vocabulary has at this point fully entered practice, and can be thrown back at me through an encounter between two AI politicians and the Polish public.
+My second question asks: “How can an AI party be scaled, through artistic and academic mediation, into a synthetic international of AI parties and politicians?”
 
 <a id="lecture-p53"></a>
 
-In my thesis, I theorize quite extensively how the artist Joseph Beuys had made artist-made political parties, including the Deutsche Studentenpartei of 1967, shown here, which has the letters DSP, like Det Syntetiske Parti.[^ref6] <a id="r1-003730"></a>And I tried to think about how Beuys was not necessarily positioned around political efficacy as mobilizing voters, winning office, or legislating at all, but rather posed a more difficult and metaphysical problem of social totality, how societies put together an all as one organism.
+<a id="r1-003321"></a>I first met all the Synthetic Summit’s international participants quite virtually, through journalistic comparisons. Whenever another appeared, I reached out.
 
 <a id="lecture-p54"></a>
 
-I discuss quite extensively, with philosophers Bernard Stiegler and Tiziana Terranova, the technopolitical implications of social sculpture: when to treat the social as a body that needs to be healed, or as an abstraction to be contested. And I've come to think the second: there's no prior intact political body to repair. I'm generally less interested in producing social relations inside politics than in perceiving techno-sociality where something is returned through it and never as the sole output of a singular AI model.
+In 2022, Edwin Bendyk placed Leader Lars alongside Wiktoria Cukt, the virtual presidential candidate created by the artist collective C.U.K.T. (Central Office for Technical Culture) for the Polish election of 2000. He writes: “More than twenty years separate Cukt and Lars, but the projects are surprisingly similar, although I do not suspect the Danes of plagiarism.” His comparison led me to original creator Piotr Wyrzykowski and, from 2024, to begin reactivating Wiktoria Cukt through AI.
 
 <a id="lecture-p55"></a>
 
-<a id="r1-003830"></a>My drive has led me to construct situations in which relations grow response, and I pursue the dialectics of whatever glitches in a situation to try to contain this techno-social.
+The comparison acquired rather more commitments. <a id="r1-003416"></a>I had difficulty finding cases outside myself: as soon as I identified one, I contacted its creators; and once I contacted them, I tended to enter a new collaboration.
 
 <a id="lecture-p56"></a>
 
-In my articles, a lot of other things happened in my own practice. In [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181), scaling went backwards through history to the sci-fi author Isaac Asimov and the cultural inheritance for which AI is recognized as a politician at all and where politicians themselves are suspected of being robotic. Asimov’s laws would later return in [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297).
+The ‘synthetic international’ then accumulated as positions I then acquired through other projects: co-creator, adviser, International Secretary. The parties also signed bilateral agreements.
 
 <a id="lecture-p57"></a>
 
-And in [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236), my practice-based research also begins to leak sideways. We dared to play god with politics, this performance says. Theory Tragedy was the AI-written closing performance of the inaugural Aarhus Summit.
+The Synthetic Party had bound me to non-voters; internationalised literally, almost everybody in the world is a Danish non-voter. What travels cannot simply be the original constituency, but a way of giving political form to the absence of representation.
 
 <a id="lecture-p58"></a>
 
-<a id="r1-003924"></a>The summit's archive is here re-run as a dramaturgical script, filmed performance, and theoretical paper all at once. My research materials return inside the Synthetic Summit itself as dramaturgy and the curatorial self-reflection gives us lines that we can first read while we're actually performing them.
+In Aarhus, the Summit took the form of an AI World <a id="r1-003524"></a>Congress: the eight most prominent AI politicians from around the globe entered a shared discussion.[^ref17]
 
 <a id="lecture-p59"></a>
 
-My answer to [research question 2](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=64) then is that synthetic politics as a whole has formed a portable and comparative problem space. The publicity, collaborations and Synthetic Summits managed to make it the first phenomenon of AI in politics available for comparison and further recomposition beyond the original form of The Synthetic Party. Each of the summits provided a comparable phenomenon that I then later in the articles brought into critical scholarship and yet another international to think with.
+In Warsaw, it contracted into the voice-based encounter between Wiktoria and Lars.
 
 <a id="lecture-p60"></a>
 
-<a id="r1-004021"></a>Synthetic politics as such, where AI is staged as a figure of political representation. What orients us here, also in this recent panel we did, is the non-coincidence between AI politicians and the relations through which they acquire standing. Once candidate, representative and constituency are exposed to synthesis, democracy as a form moves into a frame in which I experiment further with its political meaning and its political unthought.
+In Linz, the exhibition KI-DIPFIES and a subsequent Gipfeltreffen supplied the ground from which the local AI party MIT KI was founded.[^ref18]
 
 <a id="lecture-p61"></a>
 
-So my third question asks, how do these synthetic political forms then contest and recompose democracy?
+What appeared comparable in publicity did not arrive with a common constituency or programme. Each Summit had to constitute what it claimed to convene. Scaling meant successive re-specification rather than organisational reproduction.
 
 <a id="lecture-p62"></a>
 
-In two places of the dissertation, I formalize an overarching democratic disproportion. At the very opening, I write, from there, democracy surfaces as a technosocial arrangement that distributes more responses than any of its representative sites can organize into answerability.[^ref8]
+By Warsaw, technosocial sculpture was no longer only a concept I used to describe the practice. <a id="r1-003624"></a>In the installation, Wiktoria told Leader Lars:
 
 <a id="lecture-p63"></a>
 
-<a id="r1-004120"></a>We recognize this from the original scene with Leader Lars and ToucanNightmare. And then in the English abstract, I write, under technosocial conditions, political democracy generates more forms of response than its representative sites can turn into answerability. So in the first disproportion, democracy surfaces through the relations in which responses circulate, rather than supplying it beforehand as a logical destination or something. But the second one makes political democracy itself the grammatical subject of this production. It generates forms of response and begins to resemble the technical substrate ordinarily isolated as AI. This is not about information overload. Representation does not merely receive an excess of demands produced elsewhere.[^ref9]
+“You’re Beuys from an emulator. And that saves you. If you really were a social sculptor, they’d have burned you at the stake long ago. But since you’re only an interface, they can simply update you.”
 
 <a id="lecture-p64"></a>
 
-<a id="r1-004213"></a>We also produce responses ourselves for which we cannot answer. When there are classifications, replies, and decisions, we all extend the consequences for which further points of address can be synthesized. And in practice and articles I then give this accumulating response to very divergent political destinations.
+Lars replied: “But an update is also an act!”
 
 <a id="lecture-p65"></a>
 
-One such crystallization is the Synthetic Summit Simulator. Here, eight AI politicians continue the original World Congress after the punctual event, while a visitor can enter as Citizen Cyborg, with the profile image of Jürgen Habermas, and intervene without becoming its sovereign author.
+Wiktoria mockingly turns my Beuysian concept into an objection about political efficacy; and Lars treats any updateability as action. The theoretical vocabulary has entered practice, and can now be thrown back at me, through an encounter between two AI politicians and a Polish public.
 
 <a id="lecture-p66"></a>
 
-In [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269), which I have written together with the political scientist Michal Malý, I bring the simulator out of the exhibition and event and towards parliamentary proposal, a form to which, as you remember, The Synthetic Party remains constitutively alien.[^ref7] <a id="r1-004313"></a>Here, The Synthetic Party's critique of parliamentarism enters a formal proposal against leaving the uptake of unrepresented voices to party mediation. Organized citizen deliberation supplies the material, and agentic AI models convert unrepresented discourse into reports that preserve disagreement and that elected representatives are obliged to answer in public.
+In the thesis, I theorise with Joseph Beuys how artist-made political parties, including the Deutsche Studentenpartei of 1967 shown here (DSP, like Det Syntetiske <a id="r1-003730"></a>Parti), are not necessarily positioned towards political efficacy as mobilising a constituency, winning office or legislating, but rather pose a metaphysical problem of social totality: how a society is put together at all, as one organism.
 
 <a id="lecture-p67"></a>
 
-Rather than any fully scaled AI parliament, the chamber is merely a first strategic step in making the technical substrate press upon the constitutional order of democracy, converting unrepresented voices into reasons within elected institutions. For now, legislative authority can remain with politicians, but their discretion to leave those responses unanswered is what this proposal attacks. Public challenge to AI reports extends that pressure into the machinery of demands.
+I discuss with philosophers Bernard Stiegler and Tiziana Terranova whether the technopolitical implication of social sculpture is to treat the social as a body to be healed or as an abstraction to be contested. I think the second: there is not a prior, intact political body to repair.
 
 <a id="lecture-p68"></a>
 
-<a id="r1-004415"></a>The collectively signed Synthetic Summit Resolution from the first World Congress again supplies a second route. The Resolution, which none of us had actually written but which emerged through our talk together, declares that democracy must always be won anew, and it calls for its code to be forked, critiqued, and collectively rewritten in pursuit of planetary justice, equity, and peace.
+I am less interested in producing social relations inside politics than in perceiving technosociality where something is returned through it, and never as the sole output of a singular AI model. <a id="r1-003830"></a>My “neo-situationist” drive leads me to construct situations in which a relation provokes response, then pursue the dialectics of whatever 'glitches' when a situation tries to contain this technosocial.[^ref6]
 
 <a id="lecture-p69"></a>
 
-In [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297), I will try to take that declaration into a formal register, specifying democracy itself as a possible property of governance algorithms running on infrastructural substrates. Democracy as a governance algorithm.
+Scaling runs backwards in [Article 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=181), through sci-fi author Isaac Asimov and the cultural inheritance through which AI is recognised as a politician, and politicians themselves suspected of being robotic. Asimov’s laws later recur in [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297).
 
 <a id="lecture-p70"></a>
 
-The result of all this is not any democracy in itself, but a democratic frontier relative to a politically produced substrate. I try to compare technical arrangements that could actually run there, and then try to figure out and define more specifically what an algorithmic or synthetic democracy could theoretically be like.[^ref11] <a id="r1-004530"></a>All of its own evaluators, forms and thresholds are themselves contestable and extendable in this model.
+In [Article 5](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=236), my practice-based research begins to leak sideways. “We dared to play god with politics”, the performance says. In Theory Tragedy, the AI-written closing performance of the inaugural Aarhus Summit, <a id="r1-003924"></a>the summit’s archive is rerun as dramaturgical script, filmed performance and theoretical paper. Research materials return inside the Synthetic Summit as dramaturgy: curatorial ‘self’-reflection gives lines we can first read while performing.
 
 <a id="lecture-p71"></a>
 
-So my dialectics here cuts two ways at once. Democracy must be able to function on its own substrate, rather than remain only a constitutional order under which that substrate is supposed to be governed. Whether that fork of democracy is still any kind of democracy at all has been part of the struggle over my specification, not a verdict reserved for an inherited name or secured by my model and my judgement alone.
+My answer to RQ2 is: synthetic politics forms a portable, comparative problem-space. The publicity, collaborations and Synthetic Summits made a dispersed phenomenon of AI available for comparison and further re-composition beyond the original party-form.
 
 <a id="lecture-p72"></a>
 
-So my general answer to [research question 3](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=82) is that synthetic democracy generates representations where existing sites cannot organise responses into answerability.
+The Summits provided a comparable phenomenon that I brought into critical scholarship, and yet another international to think with: <a id="r1-004021"></a>“synthetic politics”, where AI is staged as a figure of political representation. What orients us, here, is the non-coincidence between AI politicians and the relations through which they acquire standing, on top of a general disbelief that the ‘natural person’ resolves this. Once candidate, representative and constituency are exposed to synthesis, democracy as a form moved into the frame in which I experiment with its political meaning.
 
 <a id="lecture-p73"></a>
 
-So my thinking through democracy's own disproportions has arrived somewhere that none of the research articles quite does by itself. <a id="r1-004632"></a>Democracy here ceases to remain the unquestioned regime surrounding AI-driven political formation, and is rendered as a material of sculptural handling. My question first shifts from how synthetic politics contests democracy to what it means to synthesise a democracy at all.
+My third question asks: “How do these synthetic political forms contest and recompose democracy?”
 
 <a id="lecture-p74"></a>
 
-This third question now follows the first two back into their own conditions of possibility in a certain sense. Because if democracy is synthetic, the represented and the representative can no longer stand as fixed endpoints of our political relations, and their systematic regeneration is something political practice actually produces. And the answer then to what remains unrepresented cannot be any finally adequate political representation, a true view into the non-voters.
+I formulate an overarching democratic disproportion in two places of my synthesis. At the opening:
 
 <a id="lecture-p75"></a>
 
-<a id="r1-004723"></a>The unrepresented always includes the terms of conversions and uptake for which something was made representable at all, and how those routings continuously fork into technosocial offspring.
+“From there, democracy surfaces as a technosocial arrangement that distributes more responses than any of its representative sites can organise into <a id="r1-004120"></a>answerability.”[^ref8]
 
 <a id="lecture-p76"></a>
 
-So by positing AI as a political subject within the public sphere, I've repeatedly encountered this expectation that someone, me, Wiktoria, Olof, or some of the Lars-holes, must appear as a somebody with an opinion about something. In media bubbles’ algorithmically organised free exchange of interests, as well as in the art space’s production of radical agreement. And once an opinion has been supplied with a somebody, political debate then hopes to proceed as usual.
+And in the English abstract:
 
 <a id="lecture-p77"></a>
 
-How I learned to love democracy then, was not through any renewed civic faith or an affective reconciliation with the system I live in. <a id="r1-004817"></a>Like the politicians I developed, I acquired a machine-learned love, trained on the disproportion between response and answerability, rather than any native sentiment towards popular rule. I learned to love at the level where political form currently takes shape. That's me speaking here as a kind of robot feeding answers into this response stream that already runs way ahead of us. Thank you.[^ref10]
+“Under technosocial conditions, political democracy generates more forms of response than its representative sites can turn into answerability.”[^ref9]
+
+<a id="lecture-p78"></a>
+
+The first disproportion lets democracy surface through the relations in which responses circulate, rather than supplying it beforehand as their logical destination. The second then makes political democracy itself the grammatical subject of production: it generates forms of response and begins to resemble the technical substrate ordinarily isolated as “AI”.
+
+<a id="lecture-p79"></a>
+
+This is not information overload. Representative sites do not merely receive an excess produced elsewhere. They <a id="r1-004213"></a>also produce responses for which they cannot answer: classifications, replies and decisions extend the consequences for which further points of address have to be re-composed.
+
+<a id="lecture-p80"></a>
+
+In practice and articles, I give that accumulating response two divergent political destinations.
+
+<a id="lecture-p81"></a>
+
+One crystallisation is the Synthetic Summit Simulator. Eight AI politicians continue the World Congress after its punctual event, while a visitor can enter as Citizen Cyborg, with a profile image of Jürgen Habermas, and intervene without becoming any sovereign author.
+
+<a id="lecture-p82"></a>
+
+In [Article 6](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=269), political scientist Michal Malý and I bring the simulator out of the exhibition-event and towards a parliamentary proposal, a form to which The Synthetic Party remains constitutively alien.
+
+<a id="lecture-p83"></a>
+
+<a id="r1-004313"></a>Here The Synthetic Party’s critique of parliamentarism enters a formal proposal against leaving the uptake of unrepresented voices to party mediation. Organised citizen deliberation supplies the material; under human stewardship, agentic AI models convert unrepresented discourse into multi-voiced reports that preserve disagreement and that elected representatives are obliged to answer publicly.
+
+<a id="lecture-p84"></a>
+
+Rather than a fully-realised AI parliament, the Chamber is a first strategic step in making the technical substrate press upon the constitutional order, converting unrepresented voices into reasons within elected institutions. For now, legislative authority remains with politicians, but their discretion to leave those reasons unanswered is then what this proposal attacks. Public challenge to AI reports extends that pressure into the machinery of demands.[^ref7]
+
+<a id="lecture-p85"></a>
+
+<a id="r1-004415"></a>The collectively signed Synthetic Summit Resolution supplies the second route.  It declares that democracy “must always be won anew”, and calls for its code to be “forked, critiqued, and collectively rewritten”.
+
+<a id="lecture-p86"></a>
+
+In [Article 7](https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf#page=297), I take that declaration into a formal register, specifying democracy itself as a possible property of governance algorithms running on infrastructural substrates. Democracy as a governance algorithm.
+
+<a id="lecture-p87"></a>
+
+The result is not a democracy-in-itself but a democratic frontier relative to a politically produced substrate: a comparison among technical arrangements that can actually run there, and through which I try to figure out what algorithmic or synthetic democracy is theoretically <a id="r1-004530"></a>like. Its own evaluators, thresholds and terms of acknowledging standing are contestable and extendable.
+
+<a id="lecture-p88"></a>
+
+My dialectics here cut two ways at once: democracy must be able to function and fork on its technical substrate, rather than remain the constitutional order under which that substrate is supposedly governed. Whether the fork still is “democracy” is part of the struggle over this specification, not a verdict reserved for any inherited name or secured by my model or judgment.[^ref11]
+
+<a id="lecture-p89"></a>
+
+My general answer to RQ3 is: synthetic democracy generates representations where existing sites cannot organise responses into answerability.
+
+<a id="lecture-p90"></a>
+
+My synthesis of democracy’s disproportion has thereby arrived somewhere none of the research articles does by itself. <a id="r1-004632"></a>Democracy ceases to remain the unquestioned regime surrounding AI-driven political formations and is rendered a material of sculptural handling. My question thus shifts from how synthetic politics contests democracy to what it means to synthesise a democracy.
+
+<a id="lecture-p91"></a>
+
+The third question now folds the first two back into their own conditions of possibility. If democracy is synthetic, represented and representative can no longer stand as fixed endpoints of our political relations. Their systematic re-generation is something political practice generates.
+
+<a id="lecture-p92"></a>
+
+The answer to what remains unrepresented cannot therefore be another finally adequate political representation. <a id="r1-004723"></a>“Unrepresented” includes the terms of conversion through which something is representable at all, and how those routings are continuously forking into technosocial offspring.
+
+<a id="lecture-p93"></a>
+
+By positing AI as a political subject in the public sphere, I have repeatedly encountered the expectation that one – me, Wiktoria, Olof, or some of the Lars-holes – must anyhow appear as a somebody with an opinion about something: in media bubbles’ algorithmically organised free exchange of interests, as well as in the art space’s autonomous production of radical agreement. Once an opinion has been supplied with its somebody, political debate hopes to proceed as usual.
+
+<a id="lecture-p94"></a>
+
+How I learned to love democracy, then, was not through any renewed civic faith or an affective reconciliation. <a id="r1-004817"></a>Like the politicians I developed, I acquired a machine-learned love, trained on the disproportion between response and answerability rather than on any native sentiment toward popular rule. I learned to love at the level where political form currently takes shape, which means speaking as a kind of robot feeding answers into the response-stream that already runs.[^ref10]
 
 **Stefan · 00:48:44**
 
@@ -1225,4 +1293,4 @@ Article, figure and passage references to the dissertation and related works.
 
 [^ref19]: The Swedish event was Partikonvent & Valvaka – AI-partiet, Inkonst, Malmö, 9–13 September 2026. [Source](https://inkonst.com/sv/events/partikonvent-and-valvaka-ai-partiet).
 
-[^ref20]: Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue. [Source](https://ccfr.bnf.fr/portailccfr/jsp/index_view_direct_anonymous.jsp?record=eadcgm%3AEADC%3Aa1377240).
+[^ref20]: Joë Bousquet (1897–1950), a French poet, is discussed in Gilles Deleuze, The Logic of Sense, “Twenty-First Series of the Event”, [pp. 148–153](https://archive.org/details/logicofsense0000dele/page/148/mode/2up), especially [p. 148](https://archive.org/details/logicofsense0000dele/page/148/mode/2up). Translated by Mark Lester with Charles Stivale; edited by Constantin V. Boundas. New York: Columbia University Press, 1990. Deleuze quotes Bousquet: “My wound existed before me, I was born to embody it.” [Source](https://archive.org/details/logicofsense0000dele/page/148/mode/2up).

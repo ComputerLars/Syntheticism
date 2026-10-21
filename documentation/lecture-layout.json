@@ -4,492 +4,766 @@
   "paragraphs": [
     {
       "id": "lecture-p01",
-      "starts_with": "Hi, everyone. Today",
+      "cue": "1.0",
+      "source_slide": 1,
+      "source_paragraph": 0,
       "slides_after": [
         1
       ]
     },
     {
       "id": "lecture-p02",
-      "starts_with": "And as you can see here",
+      "cue": "1.1",
+      "source_slide": 1,
+      "source_paragraph": 1,
       "slides_after": [
         2
       ]
     },
     {
       "id": "lecture-p03",
-      "starts_with": "Below the image, though",
+      "cue": "1.1",
+      "source_slide": 1,
+      "source_paragraph": 2,
       "slides_after": []
     },
     {
       "id": "lecture-p04",
-      "starts_with": "For a long time, I used to go to bed early",
+      "cue": "2.0",
+      "source_slide": 3,
+      "source_paragraph": 0,
       "slides_after": []
     },
     {
       "id": "lecture-p05",
-      "starts_with": "During the night, ToucanNightmare",
+      "cue": "2.0",
+      "source_slide": 3,
+      "source_paragraph": 1,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p06",
+      "cue": "2.0",
+      "source_slide": 3,
+      "source_paragraph": 2,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p07",
+      "cue": "2.0",
+      "source_slide": 3,
+      "source_paragraph": 3,
       "slides_after": [
         3
       ]
     },
     {
-      "id": "lecture-p06",
-      "starts_with": "I could have deleted the messages",
+      "id": "lecture-p08",
+      "cue": "2.1",
+      "source_slide": 3,
+      "source_paragraph": 4,
       "slides_after": [
         4
       ]
     },
     {
-      "id": "lecture-p07",
-      "starts_with": "So I tried again",
+      "id": "lecture-p09",
+      "cue": "2.2",
+      "source_slide": 3,
+      "source_paragraph": 4,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p10",
+      "cue": "2.2",
+      "source_slide": 3,
+      "source_paragraph": 5,
       "slides_after": [
         5
       ]
     },
     {
-      "id": "lecture-p08",
-      "starts_with": "Toucan carried it on to Twitter",
+      "id": "lecture-p11",
+      "cue": "2.3",
+      "source_slide": 3,
+      "source_paragraph": 6,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p12",
+      "cue": "2.3",
+      "source_slide": 3,
+      "source_paragraph": 7,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p13",
+      "cue": "2.3",
+      "source_slide": 3,
+      "source_paragraph": 8,
       "slides_after": [
         6
       ]
     },
     {
-      "id": "lecture-p09",
-      "starts_with": "But today I cannot claim",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p10",
-      "starts_with": "It was finally more like the world sculpted",
+      "id": "lecture-p14",
+      "cue": "2.4",
+      "source_slide": 3,
+      "source_paragraph": 9,
       "slides_after": [
         7
       ]
     },
     {
-      "id": "lecture-p11",
-      "starts_with": "Democracy’s political unthought",
+      "id": "lecture-p15",
+      "cue": "3.0",
+      "source_slide": 8,
+      "source_paragraph": 0,
       "slides_after": []
     },
     {
-      "id": "lecture-p12",
-      "starts_with": "In dominant public narratives",
+      "id": "lecture-p16",
+      "cue": "3.0",
+      "source_slide": 8,
+      "source_paragraph": 1,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p17",
+      "cue": "3.0",
+      "source_slide": 8,
+      "source_paragraph": 2,
       "slides_after": [
         8
       ]
     },
     {
-      "id": "lecture-p13",
-      "starts_with": "I therefore separate three senses",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p14",
-      "starts_with": "Then there's also democracy as a technical arrangement",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p15",
-      "starts_with": "And finally, there's ritual exposure",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p16",
-      "starts_with": "These are not three stages",
+      "id": "lecture-p18",
+      "cue": "3.1",
+      "source_slide": 8,
+      "source_paragraph": 3,
       "slides_after": [
         9
       ]
     },
     {
-      "id": "lecture-p17",
-      "starts_with": "So playing a bit on Bernard Stiegler’s",
+      "id": "lecture-p19",
+      "cue": "3.1",
+      "source_slide": 8,
+      "source_paragraph": 4,
       "slides_after": []
     },
     {
-      "id": "lecture-p18",
-      "starts_with": "So the dissertation itself is here in print",
+      "id": "lecture-p20",
+      "cue": "3.1",
+      "source_slide": 8,
+      "source_paragraph": 5,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p21",
+      "cue": "3.1",
+      "source_slide": 8,
+      "source_paragraph": 6,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p22",
+      "cue": "4.0",
+      "source_slide": 10,
+      "source_paragraph": 0,
       "slides_after": [
         10
       ]
     },
     {
-      "id": "lecture-p19",
-      "starts_with": "It binds seven articles together",
+      "id": "lecture-p23",
+      "cue": "4.1",
+      "source_slide": 10,
+      "source_paragraph": 1,
       "slides_after": [
         11
       ]
     },
     {
-      "id": "lecture-p20",
-      "starts_with": "In the opening chapters I treat my practice",
+      "id": "lecture-p24",
+      "cue": "4.2",
+      "source_slide": 10,
+      "source_paragraph": 2,
       "slides_after": [
         12
       ]
     },
     {
-      "id": "lecture-p21",
-      "starts_with": "On this navigational triangle",
+      "id": "lecture-p25",
+      "cue": "4.3",
+      "source_slide": 10,
+      "source_paragraph": 3,
       "slides_after": [
         13
       ]
     },
     {
-      "id": "lecture-p22",
-      "starts_with": "Then the arrows of the dissertation's directional variations",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p23",
-      "starts_with": "Sentiment analysis, mathematical models",
+      "id": "lecture-p26",
+      "cue": "4.4",
+      "source_slide": 10,
+      "source_paragraph": 4,
       "slides_after": [
         14
       ]
     },
     {
-      "id": "lecture-p24",
-      "starts_with": "So my first research question has been",
+      "id": "lecture-p27",
+      "cue": "4.4",
+      "source_slide": 10,
+      "source_paragraph": 5,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p28",
+      "cue": "5.0",
+      "source_slide": 15,
+      "source_paragraph": 0,
       "slides_after": [
         15
       ]
     },
     {
-      "id": "lecture-p25",
-      "starts_with": "In March 2022, Computer Lars",
+      "id": "lecture-p29",
+      "cue": "5.1",
+      "source_slide": 15,
+      "source_paragraph": 1,
       "slides_after": [
         16
       ]
     },
     {
-      "id": "lecture-p26",
-      "starts_with": "And later that day, the AI model",
+      "id": "lecture-p30",
+      "cue": "5.2",
+      "source_slide": 15,
+      "source_paragraph": 1,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p31",
+      "cue": "5.2",
+      "source_slide": 15,
+      "source_paragraph": 2,
       "slides_after": [
         17
       ]
     },
     {
-      "id": "lecture-p27",
-      "starts_with": "I have put an AI party up for discussion",
+      "id": "lecture-p32",
+      "cue": "5.2",
+      "source_slide": 15,
+      "source_paragraph": 3,
       "slides_after": []
     },
     {
-      "id": "lecture-p28",
-      "starts_with": "These opinions of others then came",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p29",
-      "starts_with": "And their programs preserved",
+      "id": "lecture-p33",
+      "cue": "5.3",
+      "source_slide": 15,
+      "source_paragraph": 4,
       "slides_after": [
         18
       ]
     },
     {
-      "id": "lecture-p30",
-      "starts_with": "I then fine-tuned that material",
+      "id": "lecture-p34",
+      "cue": "5.3",
+      "source_slide": 15,
+      "source_paragraph": 5,
       "slides_after": []
     },
     {
-      "id": "lecture-p31",
-      "starts_with": "At inference time, the AI model",
+      "id": "lecture-p35",
+      "cue": "5.4",
+      "source_slide": 15,
+      "source_paragraph": 6,
       "slides_after": [
         19
       ]
     },
     {
-      "id": "lecture-p32",
-      "starts_with": "Public reception collapsed these two configurations",
+      "id": "lecture-p36",
+      "cue": "5.4",
+      "source_slide": 15,
+      "source_paragraph": 7,
       "slides_after": []
     },
     {
-      "id": "lecture-p33",
-      "starts_with": "In Article 1, the party's own",
+      "id": "lecture-p37",
+      "cue": "6.0",
+      "source_slide": 20,
+      "source_paragraph": 0,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p38",
+      "cue": "6.0",
+      "source_slide": 20,
+      "source_paragraph": 1,
       "slides_after": [
         20
       ]
     },
     {
-      "id": "lecture-p34",
-      "starts_with": "That register changes course in Article 2",
+      "id": "lecture-p39",
+      "cue": "6.1",
+      "source_slide": 20,
+      "source_paragraph": 2,
       "slides_after": [
         21
       ]
     },
     {
-      "id": "lecture-p35",
-      "starts_with": "Proust writes, Chaque jour",
+      "id": "lecture-p40",
+      "cue": "6.2",
+      "source_slide": 20,
+      "source_paragraph": 3,
       "slides_after": [
         22
       ]
     },
     {
-      "id": "lecture-p36",
-      "starts_with": "So consequently, neither article",
+      "id": "lecture-p41",
+      "cue": "6.3",
+      "source_slide": 20,
+      "source_paragraph": 4,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p42",
+      "cue": "6.3",
+      "source_slide": 20,
+      "source_paragraph": 5,
       "slides_after": [
-        23,
+        23
+      ]
+    },
+    {
+      "id": "lecture-p43",
+      "cue": "6.3",
+      "source_slide": 20,
+      "source_paragraph": 6,
+      "slides_after": [
         24
       ]
     },
     {
-      "id": "lecture-p37",
-      "starts_with": "Here on 20 December 2022",
+      "id": "lecture-p44",
+      "cue": "7.1",
+      "source_slide": 24,
+      "source_paragraph": 1,
       "slides_after": [
         25
       ]
     },
     {
-      "id": "lecture-p38",
-      "starts_with": "And in the image you can see the thirteen",
+      "id": "lecture-p45",
+      "cue": "7.2",
+      "source_slide": 24,
+      "source_paragraph": 2,
       "slides_after": [
         26
       ]
     },
     {
-      "id": "lecture-p39",
-      "starts_with": "But they have been rearranged",
+      "id": "lecture-p46",
+      "cue": "7.3",
+      "source_slide": 24,
+      "source_paragraph": 3,
       "slides_after": [
         27
       ]
     },
     {
-      "id": "lecture-p40",
-      "starts_with": "An index, a tag and a match",
+      "id": "lecture-p47",
+      "cue": "7.3",
+      "source_slide": 24,
+      "source_paragraph": 4,
       "slides_after": []
     },
     {
-      "id": "lecture-p41",
-      "starts_with": "In my Article 4, written together",
+      "id": "lecture-p48",
+      "cue": "7.3",
+      "source_slide": 24,
+      "source_paragraph": 5,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p49",
+      "cue": "7.4",
+      "source_slide": 24,
+      "source_paragraph": 6,
       "slides_after": [
         28
       ]
     },
     {
-      "id": "lecture-p42",
-      "starts_with": "I try to follow this editorial recombination",
+      "id": "lecture-p50",
+      "cue": "7.4",
+      "source_slide": 24,
+      "source_paragraph": 7,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p51",
+      "cue": "7.5",
+      "source_slide": 24,
+      "source_paragraph": 8,
       "slides_after": [
         29
       ]
     },
     {
-      "id": "lecture-p43",
-      "starts_with": "My second research question then asks",
+      "id": "lecture-p52",
+      "cue": "8.0",
+      "source_slide": 30,
+      "source_paragraph": 0,
       "slides_after": [
         30
       ]
     },
     {
-      "id": "lecture-p44",
-      "starts_with": "I first met all of the Synthetic Summit",
+      "id": "lecture-p53",
+      "cue": "8.1",
+      "source_slide": 30,
+      "source_paragraph": 1,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p54",
+      "cue": "8.1",
+      "source_slide": 30,
+      "source_paragraph": 2,
       "slides_after": [
         31
       ]
     },
     {
-      "id": "lecture-p45",
-      "starts_with": "I had difficulty finding cases outside myself",
+      "id": "lecture-p55",
+      "cue": "8.1",
+      "source_slide": 30,
+      "source_paragraph": 3,
       "slides_after": []
     },
     {
-      "id": "lecture-p46",
-      "starts_with": "This synthetic international then accumulated",
+      "id": "lecture-p56",
+      "cue": "8.2",
+      "source_slide": 30,
+      "source_paragraph": 4,
       "slides_after": [
         32
       ]
     },
     {
-      "id": "lecture-p47",
-      "starts_with": "Originally, The Synthetic Party had bound me",
+      "id": "lecture-p57",
+      "cue": "8.2",
+      "source_slide": 30,
+      "source_paragraph": 5,
       "slides_after": []
     },
     {
-      "id": "lecture-p48",
-      "starts_with": "In Aarhus, the Synthetic Summit",
+      "id": "lecture-p58",
+      "cue": "8.3",
+      "source_slide": 30,
+      "source_paragraph": 6,
       "slides_after": [
         33
       ]
     },
     {
-      "id": "lecture-p49",
-      "starts_with": "Then later in the year, in Warsaw",
+      "id": "lecture-p59",
+      "cue": "8.4",
+      "source_slide": 30,
+      "source_paragraph": 7,
       "slides_after": [
         34
       ]
     },
     {
-      "id": "lecture-p50",
-      "starts_with": "And finally, in 2026 in Linz",
+      "id": "lecture-p60",
+      "cue": "8.5",
+      "source_slide": 30,
+      "source_paragraph": 8,
       "slides_after": [
         35
       ]
     },
     {
-      "id": "lecture-p51",
-      "starts_with": "So what appeared comparable in publicity",
+      "id": "lecture-p61",
+      "cue": "8.6",
+      "source_slide": 30,
+      "source_paragraph": 9,
       "slides_after": [
         36
       ]
     },
     {
-      "id": "lecture-p52",
-      "starts_with": "And in Warsaw, the original concept",
+      "id": "lecture-p62",
+      "cue": "9.0",
+      "source_slide": 37,
+      "source_paragraph": 0,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p63",
+      "cue": "9.0",
+      "source_slide": 37,
+      "source_paragraph": 1,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p64",
+      "cue": "9.0",
+      "source_slide": 37,
+      "source_paragraph": 2,
       "slides_after": [
         37
       ]
     },
     {
-      "id": "lecture-p53",
-      "starts_with": "In my thesis, I theorize quite extensively",
+      "id": "lecture-p65",
+      "cue": "9.0",
+      "source_slide": 37,
+      "source_paragraph": 3,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p66",
+      "cue": "9.1",
+      "source_slide": 37,
+      "source_paragraph": 4,
       "slides_after": [
         38
       ]
     },
     {
-      "id": "lecture-p54",
-      "starts_with": "I discuss quite extensively, with philosophers",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p55",
-      "starts_with": "My drive has led me to construct situations",
+      "id": "lecture-p67",
+      "cue": "9.2",
+      "source_slide": 37,
+      "source_paragraph": 5,
       "slides_after": [
         39
       ]
     },
     {
-      "id": "lecture-p56",
-      "starts_with": "In my articles, a lot of other things happened",
+      "id": "lecture-p68",
+      "cue": "9.2",
+      "source_slide": 37,
+      "source_paragraph": 6,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p69",
+      "cue": "10.0",
+      "source_slide": 40,
+      "source_paragraph": 0,
       "slides_after": [
         40
       ]
     },
     {
-      "id": "lecture-p57",
-      "starts_with": "And in Article 5, my practice-based research",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p58",
-      "starts_with": "The summit's archive is here re-run",
+      "id": "lecture-p70",
+      "cue": "10.1",
+      "source_slide": 40,
+      "source_paragraph": 1,
       "slides_after": [
         41
       ]
     },
     {
-      "id": "lecture-p59",
-      "starts_with": "My answer to research question 2 then is",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p60",
-      "starts_with": "Synthetic politics as such, where AI is staged",
+      "id": "lecture-p71",
+      "cue": "10.2",
+      "source_slide": 40,
+      "source_paragraph": 2,
       "slides_after": [
         42
       ]
     },
     {
-      "id": "lecture-p61",
-      "starts_with": "So my third question asks",
+      "id": "lecture-p72",
+      "cue": "10.2",
+      "source_slide": 40,
+      "source_paragraph": 3,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p73",
+      "cue": "11.0",
+      "source_slide": 43,
+      "source_paragraph": 0,
       "slides_after": [
         43
       ]
     },
     {
-      "id": "lecture-p62",
-      "starts_with": "In two places of the dissertation",
+      "id": "lecture-p74",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 1,
       "slides_after": []
     },
     {
-      "id": "lecture-p63",
-      "starts_with": "We recognize this from the original scene",
+      "id": "lecture-p75",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 2,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p76",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 3,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p77",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 4,
       "slides_after": [
         44
       ]
     },
     {
-      "id": "lecture-p64",
-      "starts_with": "We also produce responses ourselves",
+      "id": "lecture-p78",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 5,
       "slides_after": []
     },
     {
-      "id": "lecture-p65",
-      "starts_with": "One such crystallization is the Synthetic Summit Simulator",
+      "id": "lecture-p79",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 6,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p80",
+      "cue": "11.1",
+      "source_slide": 43,
+      "source_paragraph": 7,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p81",
+      "cue": "11.2",
+      "source_slide": 43,
+      "source_paragraph": 8,
       "slides_after": [
         45
       ]
     },
     {
-      "id": "lecture-p66",
-      "starts_with": "In Article 6, which I have written together",
+      "id": "lecture-p82",
+      "cue": "11.3",
+      "source_slide": 43,
+      "source_paragraph": 9,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p83",
+      "cue": "11.3",
+      "source_slide": 43,
+      "source_paragraph": 10,
       "slides_after": [
         46
       ]
     },
     {
-      "id": "lecture-p67",
-      "starts_with": "Rather than any fully scaled AI parliament",
+      "id": "lecture-p84",
+      "cue": "11.4",
+      "source_slide": 43,
+      "source_paragraph": 11,
       "slides_after": [
         47
       ]
     },
     {
-      "id": "lecture-p68",
-      "starts_with": "The collectively signed Synthetic Summit Resolution",
+      "id": "lecture-p85",
+      "cue": "12.0",
+      "source_slide": 48,
+      "source_paragraph": 0,
       "slides_after": [
         48
       ]
     },
     {
-      "id": "lecture-p69",
-      "starts_with": "In Article 7, I will try to take that declaration",
+      "id": "lecture-p86",
+      "cue": "12.1",
+      "source_slide": 48,
+      "source_paragraph": 1,
       "slides_after": [
         49
       ]
     },
     {
-      "id": "lecture-p70",
-      "starts_with": "The result of all this is not any democracy in itself",
-      "slides_after": []
-    },
-    {
-      "id": "lecture-p71",
-      "starts_with": "So my dialectics here cuts two ways at once",
+      "id": "lecture-p87",
+      "cue": "12.2",
+      "source_slide": 48,
+      "source_paragraph": 2,
       "slides_after": [
         50
       ]
     },
     {
-      "id": "lecture-p72",
-      "starts_with": "So my general answer to research question 3",
+      "id": "lecture-p88",
+      "cue": "12.2",
+      "source_slide": 48,
+      "source_paragraph": 3,
+      "slides_after": []
+    },
+    {
+      "id": "lecture-p89",
+      "cue": "13.0",
+      "source_slide": 51,
+      "source_paragraph": 0,
       "slides_after": [
         51
       ]
     },
     {
-      "id": "lecture-p73",
-      "starts_with": "So my thinking through democracy's own disproportions",
+      "id": "lecture-p90",
+      "cue": "13.1",
+      "source_slide": 51,
+      "source_paragraph": 1,
       "slides_after": [
         52
       ]
     },
     {
-      "id": "lecture-p74",
-      "starts_with": "This third question now follows the first two",
+      "id": "lecture-p91",
+      "cue": "13.2",
+      "source_slide": 51,
+      "source_paragraph": 2,
       "slides_after": []
     },
     {
-      "id": "lecture-p75",
-      "starts_with": "The unrepresented always includes the terms",
+      "id": "lecture-p92",
+      "cue": "13.2",
+      "source_slide": 51,
+      "source_paragraph": 3,
       "slides_after": [
         53
       ]
     },
     {
-      "id": "lecture-p76",
-      "starts_with": "So by positing AI as a political subject",
+      "id": "lecture-p93",
+      "cue": "14.0",
+      "source_slide": 54,
+      "source_paragraph": 0,
       "slides_after": []
     },
     {
-      "id": "lecture-p77",
-      "starts_with": "How I learned to love democracy then",
+      "id": "lecture-p94",
+      "cue": "14.0",
+      "source_slide": 54,
+      "source_paragraph": 1,
       "slides_after": [
         54
       ]
@@ -550,5 +824,151 @@
         48
       ]
     }
-  ]
+  ],
+  "source_sections": [
+    {
+      "slide": 1,
+      "spoken_paragraphs": 3
+    },
+    {
+      "slide": 3,
+      "spoken_paragraphs": 10
+    },
+    {
+      "slide": 8,
+      "spoken_paragraphs": 7
+    },
+    {
+      "slide": 10,
+      "spoken_paragraphs": 6
+    },
+    {
+      "slide": 15,
+      "spoken_paragraphs": 8
+    },
+    {
+      "slide": 20,
+      "spoken_paragraphs": 7
+    },
+    {
+      "slide": 24,
+      "spoken_paragraphs": 9
+    },
+    {
+      "slide": 30,
+      "spoken_paragraphs": 10
+    },
+    {
+      "slide": 37,
+      "spoken_paragraphs": 7
+    },
+    {
+      "slide": 40,
+      "spoken_paragraphs": 4
+    },
+    {
+      "slide": 43,
+      "spoken_paragraphs": 12
+    },
+    {
+      "slide": 48,
+      "spoken_paragraphs": 4
+    },
+    {
+      "slide": 51,
+      "spoken_paragraphs": 4
+    },
+    {
+      "slide": 54,
+      "spoken_paragraphs": 2
+    }
+  ],
+  "script_corrections": [
+    {
+      "before": "kindda",
+      "after": "kind of"
+    },
+    {
+      "before": "article 7",
+      "after": "Article 7"
+    },
+    {
+      "before": "Larse-holes",
+      "after": "Lars-holes"
+    }
+  ],
+  "basis": "The opening lecture follows the author’s defence script. Time anchors locate corresponding recorded passages.",
+  "image_after_source_paragraph": {
+    "1.1": 1,
+    "3.1": 3,
+    "4.4": 4,
+    "5.2": 2,
+    "5.3": 4,
+    "5.4": 6,
+    "6.0": 1,
+    "6.3": 5,
+    "7.3": 3,
+    "7.4": 6,
+    "8.1": 2,
+    "8.2": 4,
+    "9.0": 2,
+    "9.2": 5,
+    "10.2": 2,
+    "11.1": 4,
+    "12.2": 2
+  },
+  "reference_after_source_paragraph": {
+    "r1-002322": {
+      "slide": 10,
+      "paragraph": 4
+    },
+    "r1-002821": {
+      "slide": 20,
+      "paragraph": 1
+    },
+    "r1-002909": {
+      "slide": 20,
+      "paragraph": 3
+    },
+    "r1-003004": {
+      "slide": 24,
+      "paragraph": 4
+    },
+    "r1-003129": {
+      "slide": 24,
+      "paragraph": 8
+    },
+    "r1-003624": {
+      "slide": 37,
+      "paragraph": 6
+    },
+    "r1-004213": {
+      "slide": 43,
+      "paragraph": 11
+    },
+    "r1-004021": {
+      "slide": 43,
+      "paragraph": 2
+    },
+    "r1-004120": {
+      "slide": 43,
+      "paragraph": 4
+    },
+    "r1-004817": {
+      "slide": 54,
+      "paragraph": 1
+    },
+    "r1-004415": {
+      "slide": 48,
+      "paragraph": 3
+    },
+    "r1-003416": {
+      "slide": 30,
+      "paragraph": 6
+    },
+    "r1-003524": {
+      "slide": 30,
+      "paragraph": 8
+    }
+  }
 }

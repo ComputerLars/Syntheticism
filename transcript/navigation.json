@@ -1670,8 +1670,13 @@
     {
       "number": 20,
       "anchor": "r2-000834",
-      "reference": "Joë Bousquet (1897–1950) was a French poet. The spoken description is retained; the identification here follows the BnF catalogue.",
+      "reference": "Joë Bousquet (1897–1950), a French poet, is discussed in Gilles Deleuze, The Logic of Sense, “Twenty-First Series of the Event”, pp. 148–153, especially p. 148. Translated by Mark Lester with Charles Stivale; edited by Constantin V. Boundas. New York: Columbia University Press, 1990. Deleuze quotes Bousquet: “My wound existed before me, I was born to embody it.”",
       "printed_pages": []
     }
-  ]
+  ],
+  "opening_lecture": {
+    "basis": "authorial defence script",
+    "source": "defence/Syntheticism-Defence-21-September-2026.pptx",
+    "time_links": "corresponding recorded passages"
+  }
 }

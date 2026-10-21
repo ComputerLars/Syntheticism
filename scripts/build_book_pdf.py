@@ -30,7 +30,7 @@ def figure(el,height=115,append=True):
  im=el.xpath('.//img')[0];cap=el.xpath('./figcaption')[0].text_content()
  url=SITE+im.get('src')
  if el.get('data-slide-ref'):url=SITE+'defence/Syntheticism-Defence-21-September-2026.pdf#page='+el.get('data-slide-ref')
- return b.image(im.get('src'),cap,url,height=height,append=append)
+ return b.image(im.get('src').split('?',1)[0],cap,url,height=height,append=append)
 b.data['cover-image']=figure(tree.xpath('//figure[@class="opening-image"]')[0],62,append=False)
 backlinks={}
 reference_anchors={'ref'+str(p['number']):p['anchor']for p in json.loads((R/'transcript/navigation.json').read_text())['passage_references']}
@@ -43,6 +43,7 @@ for el in tree.xpath('//article[@class="transcript"]/*'):
  sid=el.get('id');title=el.xpath('./header/h2')[0].text_content();b.chapter(title,sid)
  recording=int(el.xpath('./header/p')[0].text_content().strip().split()[-1]);rec=next(x for x in data['recordings']if x['id']==recording)
  b.p(rich('Recording '+str(recording)+' · ',link(rec['audio'],'Audio'),' · ',link(rec['video'],'Video')),'source')
+ if sid=='opening-lecture':b.p('The lecture follows the author’s defence script. Time links locate corresponding recorded passages.','source',first=True)
  for child in el:
   if child.tag=='figure':figure(child,100)
   elif child.get('class')=='speaker-turn':
