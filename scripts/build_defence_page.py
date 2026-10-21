@@ -23,6 +23,9 @@ def build():
  md=(R/'transcript/defence-transcript.md').read_text()
  articles=json.loads((R/'transcript/navigation.json').read_text())['articles']
  publications=json.loads((R/'documentation/article-publications.json').read_text())
+ layout=json.loads((R/'documentation/lecture-layout.json').read_text())
+ placements={p['id']:p['slides_after']for p in layout['paragraphs']}
+ placements.update({p['anchor']:p['slides']for p in layout['discussion_returns']})
  sections=[];recording=1;turn=None;section=None;pending=[];refs=False;reference_parts=[]
  slugs={'Opening remarks':'opening-remarks','Opening lecture':'opening-lecture','Discussion with Jan Bäcklund':'jan-backlund','Discussion with Sine Nørholm Just':'sine-norholm-just','Discussion with Jussi Parikka':'jussi-parikka'}
  for block in md.split('\n\n'):
@@ -67,6 +70,9 @@ def build():
   p=photos[key]
   cls='speaker-portrait'+(' portrait'if p['height']>p['width']else'')if speaker else'documentary-plate'
   return '<figure class="'+cls+'"><a href="'+p['src']+'"><img src="'+p['src']+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" loading="lazy" alt="'+E(p['caption'],quote=True)+'"></a><figcaption>'+E(p['caption'])+'</figcaption></figure>'
+ def slide_plate(n,key):
+  s=slides[n-1];ident='view-slide-'+str(n)if key.startswith('lecture-')else'return-'+key+'-slide-'+str(n)
+  return '<figure class="lecture-slide" id="'+ident+'" data-slide-ref="'+str(n)+'"><button data-slide="'+str(n)+'" aria-label="Enlarge slide '+str(n)+'"><img src="'+s['src']+'" width="1920" height="1080" loading="lazy" alt="'+E('Slide '+str(n)+'. '+s['text'],quote=True)+'"></button><figcaption><a href="defence/Syntheticism-Defence-21-September-2026.pdf#page='+str(n)+'">Slide '+str(n)+'</a></figcaption></figure>'
  for s in sections:
   body.append('<section class="transcript-section" id="'+s['id']+'"><header><p class="section-meta"><span class="formal-label">RECORDING '+str(s['recording'])+'</span></p><h2>'+E(s['title'])+'</h2></header>')
   if s['id'] in {'jan-backlund','sine-norholm-just','jussi-parikka'}:body.append(plate(s['id'],speaker=True))
@@ -77,6 +83,8 @@ def build():
     ids=re.findall(r'<a id="([\w-]+)"',p);time=ids[-1][3:]if ids else''
     a=ids[0]if ids else''
     body.append('<p class="speech"'+(' data-anchor="'+a+'"'if a else'')+'>'+inline(p)+('</p>'))
+    for key in ids:
+     for n in placements.get(key,[]):body.append(slide_plate(n,key))
    body.append('</div>')
   body.append('</section>')
   if s['id']=='opening-lecture':body.append(plate('lecture'))
@@ -97,7 +105,7 @@ def build():
 <p class="event-detail">Chair: Stefan Iversen.<br>Assessment committee: Jussi Parikka, Sine Nørholm Just and Jan Bäcklund.</p></header>
 <nav class="reading-contents" aria-label="Defence transcript">NAVIGATION</nav>
 <article class="transcript">TRANSCRIPT</article>
-<section class="slides-section" id="slides"><p class="section-meta"><span class="formal-label">DEFENCE</span> · 54 slide states</p><h2>Slides</h2><p class="downloads"><a href="defence/Syntheticism-Defence-21-September-2026.pptx">PowerPoint</a> · <a href="defence/Syntheticism-Defence-21-September-2026.pdf">PDF</a></p><div class="slide-grid">THUMBNAILS</div></section>
+<section class="slides-section" id="slides"><h2>Slides</h2><p class="downloads"><a href="defence/Syntheticism-Defence-21-September-2026.pptx">PowerPoint</a> · <a href="defence/Syntheticism-Defence-21-September-2026.pdf">PDF</a></p><details><summary class="section-meta">54 slide states</summary><div class="slide-grid">THUMBNAILS</div></details></section>
 <section class="references" id="references"><h2>References</h2>REFERENCES</section>
 <footer class="colophon"><h2>Colophon</h2><p>Asker Bryld Staunæs. <em>Syntheticism: How I Learned to Love Democracy.</em> Article-based PhD dissertation in artistic research, Aarhus University, 2026.</p><p class="metadata"><span class="formal-label">DEGREE</span>: PhD awarded 6 October 2026.<br><span class="formal-label">SUPERVISORS</span>: Lotte Philipsen; Cristina Maria Flesher Fominaya.<br><span class="formal-label">FUNDING</span>: Novo Nordisk Fonden · Mads Øvlisen PhD Scholarship in practice-based research in art · NNF23OC0081575.</p><p class="metadata"><a href="https://arts.au.dk/en/news-and-events/events/show/artikel/phd-defence-asker-bryld-staunaes">Official announcement</a> · <a href="transcript/defence-transcript.md">Transcript</a> · <a href="transcript/Syntheticism-Defence-Reading-Edition.pdf">Defence book · PDF</a> · <a href="transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx">Word</a> · <a href="documentation/rights.md">Rights</a> · <a href="REPOSITORY">Repository</a></p></footer></main>
 <dialog id="slide-view"><div class="slide-controls"><button id="previous-slide" aria-label="Previous slide">Previous</button><span id="slide-number"></span><button id="next-slide" aria-label="Next slide">Next</button><button id="close-slide">Close</button></div><img id="slide-image" alt=""><p class="slide-title" id="slide-title"></p></dialog>

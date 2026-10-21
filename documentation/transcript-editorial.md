@@ -6,6 +6,8 @@ Asker Bryld Staunæs’ edited transcript of the opening lecture and the discuss
 
 Punctuation, grammar, names and repetitions are lightly edited. The speakers’ vocabulary, arguments and changes of position are retained. Continuous speech appears under one speaker heading, with paragraph breaks within the turn.
 
+The opening lecture’s paragraphs follow its argument and the surviving speaker notes. Recording-time anchors remain at their original words, including when a time point falls within a paragraph. Slide views accompany the relevant lecture passages and recur where the later discussions return to them. Video fields in the still slide views contain frames from the original embedded recordings.
+
 Recording 1 contains the opening, lecture and discussion with Jan Bäcklund. Recording 2 contains the discussions with Sine Nørholm Just and Jussi Parikka and the closing remarks. Timestamps restart for recording 2. The first video begins at source time 00:12:46; audio timestamps retain the original time axis.
 
 Article links and numbered references are editorial additions. References use printed folios; the corresponding PDF page is one higher. Word and Markdown contain the same reading text.

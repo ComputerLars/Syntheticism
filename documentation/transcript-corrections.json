@@ -1,7 +1,8 @@
 {
-  "edition_date": "2026-10-20",
+  "edition_date": "2026-10-21",
   "speaker_corrections": {
-    "r2-004514": "Asker"
+    "r2-004514": "Asker",
+    "r1-004844": "Stefan"
   },
   "corrections": [
     {
@@ -1311,6 +1312,60 @@
       "before": "a little Samaritan or Jesus",
       "after": "Jair Bolsonaro or Jesus",
       "basis": "Forfatterens ordlydsrettelse 20. oktober 2026."
+    },
+    {
+      "anchor": "r1-001543",
+      "before": "at the summit of spectacle.",
+      "after": "at the summit of spectacle,",
+      "basis": "Speaker notes: the cover description ends with “at the summit of spectacle, voilà.”"
+    },
+    {
+      "anchor": "r1-001645",
+      "before": "Voila.",
+      "after": "voilà.",
+      "basis": "Speaker notes and author correction: closes the cover description, rather than beginning the following paragraph."
+    },
+    {
+      "anchor": "r1-002032",
+      "before": "through which we supposed outsiders",
+      "after": "through which these supposed outsiders",
+      "basis": "Speaker notes: these supposed outsides are to be governed; remove the spurious first-person pronoun."
+    },
+    {
+      "anchor": "r1-002322",
+      "before": "my deliberate core concepts",
+      "after": "my developed core concepts",
+      "basis": "Speaker notes: developed core concepts."
+    },
+    {
+      "anchor": "r1-002425",
+      "before": "so knowledge can form critical speculations on a more immanent level.",
+      "after": "so knowledge forms route critical speculation on a more immanent level.",
+      "basis": "Speaker notes: knowledge forms route critical speculation; restore the grammatical subject and verb."
+    },
+    {
+      "anchor": "r1-002622",
+      "before": "The positive equivalence",
+      "after": "The posited equivalence",
+      "basis": "Speaker notes: posited equivalence; the relation is stipulated, not an empirical positive equivalence."
+    },
+    {
+      "anchor": "r1-003216",
+      "before": "situative meaning making",
+      "after": "situated meaning-making",
+      "basis": "Speaker notes: situated meaning-making."
+    },
+    {
+      "anchor": "r1-004213",
+      "before": "as citizen, cyborg,",
+      "after": "as Citizen Cyborg,",
+      "basis": "Speaker notes: Citizen Cyborg is the visitor profile, not two separate items."
+    },
+    {
+      "anchor": "r1-004415",
+      "before": "Democracy as an algorithm, rather than infrastructure. That is democracy as an algorithm, democracy as a governance algorithm.",
+      "after": "Democracy as a governance algorithm.",
+      "basis": "Speaker notes give the completed formulation; remove the preceding self-correction from the reading edition."
     }
   ],
   "emphasis": [

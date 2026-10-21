@@ -46,12 +46,18 @@ def check():
  # A qualified uncertain attribution remains separate from a secure one.
  for a,b in zip(labels,labels[1:]):
   if a[1]==b[1]:assert re.search(r'^##',text[a.end():b.start()],re.M),(a[1],b[1])
- anchors=re.findall(r'<a id="([^"]+)"></a>',text);assert len(anchors)==202 and len(set(anchors))==202
+ anchors=re.findall(r'<a id="(r[12]-[^"]+)"></a>',text);assert len(anchors)==202 and len(set(anchors))==202
  nav=json.loads((ROOT/'transcript/navigation.json').read_text());assert anchors==[a['anchor']for a in nav['anchors']]
  with zipfile.ZipFile(ROOT/DOC)as z:xml=etree.fromstring(z.read('word/document.xml'))
  ns={'w':'http://schemas.openxmlformats.org/wordprocessingml/2006/main'}
  bookmarks=xml.xpath('//w:bookmarkStart/@w:name',namespaces=ns);assert len(set(bookmarks))==len(bookmarks)
  assert all(a.replace('-','_')in bookmarks for a in anchors)
+ layout=json.loads((ROOT/'documentation/lecture-layout.json').read_text())
+ lecture_ids=re.findall(r'<a id="(lecture-p\d+)"></a>',text)
+ assert lecture_ids==[p['id']for p in layout['paragraphs']]
+ assert [n for p in layout['paragraphs']for n in p['slides_after']]==list(range(1,55))
+ assert 'at the summit of spectacle, <a id="r1-001645"></a>voilà.'in text
+ assert '\n\nBelow the image'not in text or text.count('Below the image')==1
  paragraphs=[p for p in new.paragraphs if p.style.name=='Speaker'];assert len(paragraphs)==90
  urls=re.findall(r'https://computerlars\.github\.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/[^\s)]+#page=(\d+)',text);assert all(1<=int(n)<=336 for n in urls)
  pdf=PdfReader(ROOT/'dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf');assert len(pdf.pages)==336
@@ -63,6 +69,7 @@ def check():
  manifest={row['path']:row for row in json.loads((ROOT/'FILE-MANIFEST.json').read_text())['files']}
  for path in ['dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf','defence/Syntheticism-Defence-21-September-2026.pptx']:assert hashlib.sha256((ROOT/path).read_bytes()).hexdigest()==manifest[path]['sha256']
  assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r2-004514')]['speaker']=='Asker'
+ assert nav['anchors'][next(i for i,x in enumerate(nav['anchors'])if x['anchor']=='r1-004844')]['speaker']=='Stefan'
  paragraph=next(p for p in new.paragraphs if 'solely through practice' in p.text)
  assert any(run.text=='research' and run.italic for run in paragraph.runs)
  assert 'practice-based *research*' in text

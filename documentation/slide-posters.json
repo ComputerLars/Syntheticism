@@ -1,0 +1,105 @@
+{
+  "source": "defence/Syntheticism-Defence-21-September-2026.pptx",
+  "slides": [
+    {
+      "slide": 16,
+      "source_member": "ppt/media/media1.mp4",
+      "source_sha256": "bc0d727cd1e88a2e9201ceb1edd241d0e91391701fefa18f68e56f3e59d891ef",
+      "frame_seconds": 2,
+      "field_pixels": [
+        253,
+        207,
+        1414,
+        645
+      ]
+    },
+    {
+      "slide": 33,
+      "source_member": "ppt/media/media2.mp4",
+      "source_sha256": "4e0e97932f2fef35edde98a20e27fadb1603052bde077f7efe268ff12e07e8d7",
+      "frame_seconds": 2,
+      "field_pixels": [
+        248,
+        222,
+        793,
+        634
+      ]
+    },
+    {
+      "slide": 34,
+      "source_member": "ppt/media/media3.mp4",
+      "source_sha256": "1e4c2421bb5ec7e53a794730643bef3be6b8639fc4885dadb02a372a7c9d3ed3",
+      "frame_seconds": 2,
+      "field_pixels": [
+        81,
+        222,
+        1128,
+        634
+      ]
+    },
+    {
+      "slide": 35,
+      "source_member": "ppt/media/media4.mp4",
+      "source_sha256": "05c6ca96a84b2f3456cd0b9c4659dd8201487a3776d119657ec69e79628fd014",
+      "frame_seconds": 2,
+      "field_pixels": [
+        81,
+        222,
+        1128,
+        634
+      ]
+    },
+    {
+      "slide": 37,
+      "source_member": "ppt/media/media5.mp4",
+      "source_sha256": "a62f53c90494163276ccb46cc899028e7f8c8cc2330c9bd44c22affd9224c822",
+      "frame_seconds": 2,
+      "field_pixels": [
+        75,
+        294,
+        813,
+        458
+      ]
+    },
+    {
+      "slide": 40,
+      "source_member": "ppt/media/media6.mp4",
+      "source_sha256": "5d1ca4208b38885b1f747392c2b4e0bf2984c68b9b218aa665b080e682ab818a",
+      "frame_seconds": 2,
+      "field_pixels": [
+        50,
+        250,
+        1040,
+        585
+      ]
+    },
+    {
+      "slide": 41,
+      "source_member": "ppt/media/media7.mp4",
+      "source_sha256": "4b6fa765d4601cc50c53bba67faa906a1d40f1f1e41d1e6e3b084ba7f77a7f90",
+      "frame_seconds": 2,
+      "field_pixels": [
+        101,
+        248,
+        994,
+        559
+      ]
+    },
+    {
+      "slide": 45,
+      "source_member": "ppt/media/media8.mp4",
+      "source_sha256": "d55c7603c3f69a171b0e628afbe408b74af06f7a8a5d8e6f8415c4a8803d1cb9",
+      "frame_seconds": 2,
+      "field_pixels": [
+        401,
+        207,
+        1117,
+        623
+      ]
+    }
+  ],
+  "restored_powerpoint_linebreaks": [
+    40,
+    45
+  ]
+}

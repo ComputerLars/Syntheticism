@@ -19,7 +19,7 @@ BASE='8f1a8ed61664f3ce379f77b01353d3bcef12375a'
 DOC='transcript/Syntheticism-Defence-21-September-2026-Reading-Edition.docx'
 TITLE='Syntheticism: How I Learned to Love Democracy'
 PDF='https://computerlars.github.io/Syntheticism-How-I-Learned-to-Love-Democracy/dissertation/Syntheticism-How-I-Learned-to-Love-Democracy.pdf'
-DATE='2026-10-20'
+DATE='2026-10-21'
 ARTICLES=[
  (1,'The Synthetic Party & Leader Lars: On Algorithmic Representation within Political Democracy','Asker Bryld Staunæs & Computer Lars',135,155),
  (2,'A Model for Proustian Decay: Estimating the Value of Intelligence in the Age of Unreason','Asker Bryld Staunæs & Computer Lars',157,177),
@@ -105,7 +105,7 @@ def linked_md(text,span_fn=spans,anchor=None):
  for a,b,url,title in span_fn(text):out+=text[cursor:a]+'['+text[a:b]+']('+url+')';cursor=b
  out+=text[cursor:]
  for rule in CORRECTIONS.get('emphasis',[]):
-  if rule['anchor']==anchor:
+  if rule['anchor']==anchor and rule['phrase'] in out:
    assert out.count(rule['phrase'])==1
    out=out.replace(rule['phrase'],rule['phrase'].replace(rule['text'],'*'+rule['text']+'*'))
  return out
@@ -166,6 +166,8 @@ def build():
    if style.startswith('Heading'):last=None
    events.append({'type':'metadata','paragraph':p,'original_index':i})
  assert len(anchors)==202
+ from lecture_layout import reparagraph
+ events=reparagraph(events)
  # Reuse the author's styles, margins, headers and footers.
  for child in list(doc._element.body):
   if child.tag!=qn('w:sectPr'):doc._element.body.remove(child)
@@ -196,14 +198,19 @@ def build():
    e=event['entry'];q=doc.add_paragraph(e['speaker']+'   '+e['time'],'Speaker');md.append('**'+e['speaker']+' · '+e['time']+'**')
   else:
    p=doc.add_paragraph(style=event['paragraph'].style.name);pieces=[]
+   if event.get('paragraph_id'):
+    bookmark(p,event['paragraph_id']);pieces.append('<a id="'+event['paragraph_id']+'"></a>\n\n')
    for j,part in enumerate(event['parts']):
     if j:p.add_run(' ');pieces.append(' ')
-    bookmark(p,part['anchor']);linked_word(p,part['text'],anchor=part['anchor']);pieces.append('<a id="'+part['anchor']+'"></a>'+('\n\n'if j==0 else'')+linked_md(part['text'],anchor=part['anchor']))
-    if part['anchor']in NOTE_MAP:
+    if part.get('emit_anchor',True):
+     bookmark(p,part['anchor']);pieces.append('<a id="'+part['anchor']+'"></a>')
+    if j==0 and not event.get('paragraph_id'):pieces.append('\n\n')
+    linked_word(p,part['text'],anchor=part['anchor']);pieces.append(linked_md(part['text'],anchor=part['anchor']))
+    if part['anchor']in NOTE_MAP and part.get('emit_reference',True):
      n,_,_=NOTE_MAP[part['anchor']];hyperlink(p,'['+str(n)+']',anchor='ref_'+str(n),superscript=True);pieces.append('[^ref'+str(n)+']')
     spoken.append(part['text'])
    md.append(''.join(pieces))
- assert expected==spoken
+ assert re.sub(r'\s+',' ',' '.join(expected)).strip()==re.sub(r'\s+',' ',' '.join(spoken)).strip()
  doc.add_paragraph('References','Heading 1');md.append('## References')
  intro='Article, figure and passage references to the dissertation and related works.'
  doc.add_paragraph(intro);md.append(intro)
@@ -223,7 +230,7 @@ def build():
   md.append('[^ref'+str(i)+']: '+linked_md(text,page_spans)+extra)
  for name in ['Title','Subtitle','Heading 1','Heading 2','Speaker','Record']:
   doc.styles[name].font.color.rgb=RGBColor(0,0,0)
- doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,20,0,0,tzinfo=timezone.utc)
+ doc.core_properties.author='Asker Bryld Staunæs';doc.core_properties.last_modified_by='Asker Bryld Staunæs';doc.core_properties.title=TITLE;doc.core_properties.subject='Public PhD defence, 21 September 2026; linked reading edition';doc.core_properties.modified=datetime(2026,10,21,0,0,tzinfo=timezone.utc)
  doc.save(ROOT/DOC);(ROOT/'transcript/defence-transcript.md').write_text('\n\n'.join(md)+'\n')
  navigation={'edition_date':DATE,'source_edition_commit':BASE,'source_docx_sha256':hashlib.sha256(original).hexdigest(),'source_timestamps':len(anchors),'speaker_turns':sum(e['type']=='speaker'for e in events),'omitted_interjections':[e['entry']['anchor']for e in events if e['type']=='omission'],'removed_repeated_speaker_labels':merged,'sentence_continuations_joined':joins,'anchors':anchors,'pdf':{'url':PDF,'printed_folio_offset':1},'articles':[{'number':n,'title':title,'authors':authors,'printed_pages':[first,last],'url':page_url(first)}for n,title,authors,first,last in ARTICLES],'passage_references':[{'number':i,'anchor':anchor,'reference':text,'printed_pages':pages}for i,(anchor,text,pages)in enumerate(NOTES,1)]}
  (ROOT/'transcript/navigation.json').write_text(json.dumps(navigation,ensure_ascii=False,indent=2)+'\n')

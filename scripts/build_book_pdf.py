@@ -28,11 +28,15 @@ imprint=[
 b=Book(R,'defence','Syntheticism: How I Learned to Love Democracy','Public PhD defence · Transcript, photographs, slides and references','Asker Bryld Staunæs','Aarhus University · 21 September 2026',SITE,'Syntheticism:','How I Learned to\nLove Democracy','PUBLIC PHD DEFENCE',imprint)
 def figure(el,height=115,append=True):
  im=el.xpath('.//img')[0];cap=el.xpath('./figcaption')[0].text_content()
- return b.image(im.get('src'),cap,SITE+im.get('src'),height=height,append=append)
+ url=SITE+im.get('src')
+ if el.get('data-slide-ref'):url=SITE+'defence/Syntheticism-Defence-21-September-2026.pdf#page='+el.get('data-slide-ref')
+ return b.image(im.get('src'),cap,url,height=height,append=append)
 b.data['cover-image']=figure(tree.xpath('//figure[@class="opening-image"]')[0],62,append=False)
 backlinks={}
+reference_anchors={'ref'+str(p['number']):p['anchor']for p in json.loads((R/'transcript/navigation.json').read_text())['passage_references']}
 for p in tree.xpath('//p[@class="speech"]'):
- for a in p.xpath('.//sup/a'):backlinks.setdefault(a.get('href','').lstrip('#'),[]).append(p.get('data-anchor'))
+ for a in p.xpath('.//sup/a'):
+  ref=a.get('href','').lstrip('#');backlinks.setdefault(ref,[]).append(reference_anchors[ref])
 for el in tree.xpath('//article[@class="transcript"]/*'):
  if el.tag=='figure':figure(el);continue
  if el.tag!='section':continue
@@ -43,11 +47,12 @@ for el in tree.xpath('//article[@class="transcript"]/*'):
   if child.tag=='figure':figure(child,100)
   elif child.get('class')=='speaker-turn':
    sp=child.xpath('./p[@class="speaker"]')[0];name=sp.xpath('./span')[0].text_content();button=sp.xpath('./button')[0]
-   paragraphs=[dict(id=None,body=inline(p))for p in child.xpath('./p[@class="speech"]')]
-   b.add('turn',speaker=name,clock=button.text_content(),url=SITE+'#'+child.xpath('./p[@class="speech"]')[0].get('data-anchor'),paragraphs=paragraphs)
-b.chapter('Slides','slides','54 displayed states · 21 September 2026')
-b.p(rich(link(SITE+'defence/Syntheticism-Defence-21-September-2026.pptx','PowerPoint'),' · ',link(SITE+'defence/Syntheticism-Defence-21-September-2026.pdf','Slides as PDF')),'source')
-for s in data['slides']:b.image(s['src'],'Slide '+str(s['number']),SITE+'defence/Syntheticism-Defence-21-September-2026.pdf#page='+str(s['number']),height=64,id='slide-'+str(s['number']))
+   b.add('turn',speaker=name,clock=button.text_content(),url=SITE+'#'+child.xpath('./p[@class="speech"]')[0].get('data-anchor'),paragraphs=[])
+   first=True
+   for item in child:
+    if item.tag=='p'and item.get('class')=='speech':
+     b.p(inline(item),first=first);first=False
+    elif item.tag=='figure':figure(item,64)
 b.chapter('References','references')
 for el in tree.xpath('//section[@id="references"]/*'):
  if el.tag=='h2':continue
@@ -67,6 +72,7 @@ for rec in data['recordings']:
  b.section('Recording '+str(rec['id']),'recording-'+str(rec['id']),rec['label'])
  b.p(rich(link(rec['audio'],'Audio'),' · ',link(rec['video'],'Video')),'source')
 b.chapter('Colophon','colophon')
+b.p(rich(link(SITE+'defence/Syntheticism-Defence-21-September-2026.pptx','PowerPoint · 54 displayed states'),' · ',link(SITE+'defence/Syntheticism-Defence-21-September-2026.pdf','Slides as PDF')),'source',first=True)
 for p in tree.xpath('//footer[@class="colophon"]/p'):b.p(inline(p),'source'if p.get('class')=='metadata'else'body',first=True)
 b.p('Reading edition with the complete defence transcript, documentary photographs, 54 slide states and references. Timestamps restart for recording 2. Dissertation references use printed folios; the PDF viewer page is one higher.','source',first=True)
 b.p('Typeset in Garamond and Consolas. A5. Typst.','source',first=True)
