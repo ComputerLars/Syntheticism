@@ -8,8 +8,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 130,
-      "sha256": "87f514526d52c9005a1c3ca0ea4a3472bd81747a9e6052490a35e6c30cf55dc3"
+      "bytes": 178,
+      "sha256": "bd1ab2376744999908b6df753df334830317c1cceec4c35de38bf962040444ff"
     },
     {
       "path": ".nojekyll",
@@ -45,6 +45,16 @@
       "path": "assets/fonts/DejaVu-LICENSE.txt",
       "bytes": 8816,
       "sha256": "7a083b136e64d064794c3419751e5c7dd10d2f64c108fe5ba161eae5e5958a93"
+    },
+    {
+      "path": "assets/fonts/DejaVuSansMono-Bold.ttf",
+      "bytes": 331992,
+      "sha256": "bce60f1b4421acd9ea51ba6623d7024ecbe6817a953e3654df62a5e6bdf8f769"
+    },
+    {
+      "path": "assets/fonts/DejaVuSansMono-Oblique.ttf",
+      "bytes": 251932,
+      "sha256": "742097840c541870e8d6dc5c9b37bb1ceeea6c0dedd1d475faf903ef9df734b0"
     },
     {
       "path": "assets/fonts/DejaVuSansMono.ttf",
@@ -466,14 +476,19 @@
       "sha256": "cc2d99520554e8bcb29e3ee97501d0122b501d0d1baf3e2dfca167580d0a5ac0"
     },
     {
-      "path": "scripts/archive_pdf.py",
-      "bytes": 6831,
-      "sha256": "1436de27c1c7f2e23388e8d55c0f829a9b34e53a182201c398b0b742023d0100"
+      "path": "scripts/README.md",
+      "bytes": 817,
+      "sha256": "5b12fb4c5c060d5bcc7395b8a6f1d45f846ec2355b5c3c1978a8027d4fc366a4"
+    },
+    {
+      "path": "scripts/book.typ",
+      "bytes": 8095,
+      "sha256": "cf819c5a67a934c18aaa42463d07494b5fac6af91da15ace2137ba528bf73f5b"
     },
     {
       "path": "scripts/build_book_pdf.py",
-      "bytes": 5240,
-      "sha256": "468b9c017fbb724a0e4985fc56524b82c02719fc8e28f508c638c978c33d03cf"
+      "bytes": 5390,
+      "sha256": "04c8987e6f681f1dd38810c073a7b90223b328ee327bd7396f24d5ae580374f4"
     },
     {
       "path": "scripts/build_defence_page.py",
@@ -497,8 +512,13 @@
     },
     {
       "path": "scripts/requirements-pdf.txt",
-      "bytes": 35,
-      "sha256": "48fad147060752fbad45d6768e96b3ccddcff300444ff1aa4f06e0613e9c6ba9"
+      "bytes": 72,
+      "sha256": "3f748aa1153624bda61bf3a0f39175b0705c1127e527e407a15c07de3ad82efb"
+    },
+    {
+      "path": "scripts/typst_book.py",
+      "bytes": 4750,
+      "sha256": "f645ce6423ea339a33f65016e9ca1ace8f085f0e00a5561b2a99e2e2fb2ca0ae"
     },
     {
       "path": "seek-controls.css",
@@ -519,8 +539,8 @@
     },
     {
       "path": "transcript/Syntheticism-Defence-Reading-Edition.pdf",
-      "bytes": 16094709,
-      "sha256": "5eb37df3aedf90d93b878c2d35dbe8838062409dfd714a5d6adaf62a8bd5a9ce"
+      "bytes": 10834679,
+      "sha256": "839414162835da5819fcffa52f09060d903bbcd59b450079430ba749fd77bc80"
     },
     {
       "path": "transcript/defence-transcript.md",
